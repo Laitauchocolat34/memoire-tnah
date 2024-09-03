@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021728" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">14</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Nam a quibus recipiuntur spiritualia, debent rependi temporalia.
+                           UndeApostolus. Si spiritualia vobis
+                        seminavimus, non est magnum si carnalia vestra metamus. Item Luna vocabaturDiana, id est, Dea sylvarum et nemorum :
+                        quia feris de nocte pascua querentibus in nemoribus, luminis beneficium
+                        administrat. Et ideoGentilesvocaverunt Lunam
+                        Deam venatorum : quia venatio fit in syluis, propter quodDianamcum arcu depingebant, eo quod venatores
+                        arcubus utebantur. Et ex hoc accipitur, quod qui vite active deserviunt,
+                        precipue subvenire debent solitariam vitam ducentibus, ut non oporteat eos
+                        propter victum querendum vagari, et a qua solitudine exire. In cuius reiexemplumChristuspopulum in solitudine pavit. Item luna
+                        vocabaturLucina, unde per syncopam dicitur
+                        luna, de quaVirg. Casta Lucina, et cetera. Nam
+                        antiquitus colebatur a virginibus et servantibus castitatem. Ex quo etiam
+                        colligitur, quod precipue meritorum est per activam vitam servire et
+                        subvenire sacris Virginibus et Monialibus caste viventibus, ne propter
+                        victum cogantur exire, et a suis claustris discurrere.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp94944848" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:51:23:548">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:51:24:666">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

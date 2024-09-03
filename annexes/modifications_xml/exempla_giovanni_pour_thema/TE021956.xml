@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021956" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">242</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">CruxChristidiabolum ligauit, et eius
+                        virtutem prostrauit. Cuiusexemplumhabetur in
+                        boue sylvestri, qui odit et persequitur omne rubeum, et ideo venator se
+                        rubeis induit, et sic eum ad se inducit. Cum autem sibi appropinquare
+                        viderit, post magnam arborem se abscondit, ac bos ita fortiter arborem ferit
+                        cornibus, quod ea sic in ligno infigit, ut extrahere illa non possit; et sic
+                        dum alium occidere querit, seipsum occidit. Hic ergo bos sylvestris gerit
+                        similitudinem demonis, qui omne rubeum odit; quia sanctorum sanguinem
+                        fundere sitit: SedChristusvenator celestis
+                        venit, et rubeo se induit, quando passibilem carnem induit, et assumpsit,
+                        que ex purissimis sanguinibus beate Virginis formata fuit, ut dicitDamasc.Vel tunc rubeo indutus fuit, quando eius
+                        sanctissimum corpus sanguine rutilauit, sicut in oratione et flagellatione,
+                        et crucifixione.Isa.Quare rubrum est indumentum
+                        tuum? Videns autemChristustempore passionis
+                        magis propinquum sibi diabolum persequentem, post magnam arborem se
+                        abscondit, quando scilicet (occultando sue deitatis potentiam) cruci se
+                        affigi permisit, quem dum diabolus crucifigi fideliter procurauit, in ipsam
+                        crucem fortiter impegit, et sic dum terere et prosternere credidit, ipse
+                        detentus et prostratus fuit. Hoc enim (sicut dicitEcclesia.) ordo nostre salutis depoposcerat, multiformis
+                        proditoris ars ut artem falleret, et medullam ferret inde hostis unde
+                        leserat.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp124691344" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:21:56:639">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:21:58:013">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

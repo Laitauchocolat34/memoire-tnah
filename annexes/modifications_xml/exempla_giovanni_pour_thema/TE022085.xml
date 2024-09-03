@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022085" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">371</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Inspirata hominibus a Deo excipiuntur a communi lege. Cuius signum etexemplumest in iure canonico, quia electio
+                        per inspirationem non est in forma iuris, sed exceptio a formis, ut extra de
+                        electionibus, c. propter diversas. Et similiter secundum legem divinam, ea
+                        que inspirantur a Deo excipiuntur a lege communi, sicut patet in
+                        Patriarchis, qui acceperunt plures vxores, ut Iacob, qui habuit Liam, et
+                        Rachel; et similiter Dauid, quod tamen ex lege communi non licebat: lex enim
+                        de unica vxore non est humanitus sed divinitus instituta, nec unquam verbo
+                        aut literis tradita, sed cordi impressa, sicut et alia que ad legem nature
+                        qualitercunque pertinent: et ideo in hoc a solo Deo dispensatio fieri
+                        potuit: Nam illi ex cuius auctoritate lex efficaciam habet, reseruantur, ut
+                        licentiam prebeat legem pretermittendi in illis casibus ad quos legis
+                        efficacia non se extendere debet. Et talis licentia dispensatio dicitur. Et
+                        in hoc, quod scilicet aliquis haberet simul plures vxores, a solo Deo
+                        dispensatio sibi fieri potuit per inspirationem internam, que quidem
+                        principaliter sanctis patribus facta est, et per eorumexemplaad alios deriuata eo tempore quo oportebat. Predictum vero
+                        preceptum, scilicet de unitate vxoris, pretermittitur, ut maior esset
+                        multiplicatio prolis ad cultum Dei educande.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp60976288" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:42:47:260">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:42:48:468">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

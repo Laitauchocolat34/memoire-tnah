@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022069" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">355</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Adulator et suggestor, cuius falsa suggestione, vel adulatione alicui
+                        damnum infertur, est duplici pena dignus, scilicet propter falsum suggestum,
+                        et propter damnum illatum. Cuiusexemplumapparet
+                        in his, qui per suggestionem falsi literas impetrant. Qui scilicet secundum
+                        iura primo condemnandi sunt ad expensas, quas altera pars fecit in ea re, et
+                        circa ipsam, etc. ut extra de rescript. Ceterum, in fine, et C. de his qui
+                        accu. primus l. qui crimen, et alias severitati subiaceant iudicantium, ut
+                        25. q. 2. et sine cognitio. Nam et l. Cornelia, de falsis puniri possunt, ut
+                        di. £ ad l. Cornel. de falsis, l. si quis irrepserit. Similiter ergo
+                        adulator, qui falso laudando furem, vel raptorem, vel huiusmodi induceret
+                        eum ad furandum, vel rapiendum, vel aliud nocumentum proximo inferendum, si
+                        eius adulatione hoc faciat; alias non facturus, tenetur ad restitutionem
+                        damni insolidum, sicut tenetur et iubens, et consulens si propter eorum
+                        iussum et consilium damnum infertur, et preter hoc etiam adulator talis
+                        puniendus est a Deo, de falsa et iniqua adulatione.Ezechiel. Ve qui consuit puluillos sub omni cubito manus. Puluilli
+                        enim sunt verba blanda, et laudatoria, que audienti mollia videntur, et
+                        suauia, quos sub cubito manus consuit, qui laudando et blandiendo ad male
+                        operandum aliquem inducit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp121774736" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:40:10:074">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:40:11:776">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

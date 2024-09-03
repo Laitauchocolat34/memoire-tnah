@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022208" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">29</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Cassianus] [ex libro VIIo]Tripliciter itaque est
+                        huius valitudinis morbus, cuiusexemplain
+                        scripturis sanctis invenimus, non levi pena fuisse dampnata.
+                           NamGyezieo quod nec antea quidem possiderat, volens
+                        acquirere, non modo gratiam prophetie non meruit possidere, quam per
+                        successionem velut hereditariam a suo habuit magistro suscipere, verum etiam
+                        econtrario eterna lepra sanctiHelyseimaledictione
+                           perfunditur.Iudasvolens pecunias resumere quas
+                           anteaChristumsecutus abiecerat, non solum ad perditionem
+                        domini lapsus, apostolatus perdidit gradum, sed etiam vitam ipsam
+                        biothanathi morte
+                        conclusit.AnaniasetSaphirareservantes quandam
+                        partem ex hiis que possederant, apostolico ore morte mulctantur. Alii vero
+                        avaritie occasione, domini sententiam corrumpere, atque ad suum desiderium
+                        gestiunt depravare, nec suam vitam nec intellectum scripture sensui
+                        coaptantes, sed vim scripturis pro desiderio sue libidinis inferentes,
+                        consentire eas suis opinionibus volunt. Aiuntque scriptum esse: Beatius est
+                        magis dare quam accipere. Cuius interpretatione pravissima, enervatam domini
+                        putant illam esse sententiam, qua dicitur: Si vis perfectus esse, et cetera,
+                        beatiores scilicet se pronunciantes, si pristinis sufulti substantiis, aliis
+                        quoque de earum super habundantia largiantur, dum erubescunt
+                           proChristogloriosam cum apostolis suscipere nuditatem.
+                        Itaque si agonem spiritualem certare legittime cupimus, hunc quoque
+                        pernitiosum hostem a nostris cordibus extrudamus. Quem quantum superare non
+                        magne virtutis est, tantum ab eo vinci ignominiosum plenumque dedecoris est.
+                           RespiceIudam, cum ob hoc loculos dispensationi pauperum
+                        deputatos sibi creditos accepisset, in tantum fomitem cupiditatis exarsit,
+                        ut etiam non loculos clamculo compilare, sed ipsum dominum venundare
+                        maluerit. Universas enim divitiarum moles, cupiditatis huius exuperat
+                        magnitudo. Denique princeps
+                           apostolorumAnaniametSaphiram, quia sibi
+                        quippiam de sua facultate reservaverant, morte mulctavit. Quanta in hoc
+                        quoque facinoris ac supplicii similitudo concurrit, ibi namque philargiriam
+                        proditio, hic falsitas subsecuta est, ibi veritas proditur, hic mendacii
+                        crimen admittitur. Ille refugiens paupertatem, resumere que abiecerat
+                        concupivit, hii ne fierent pauperes de substantia retinere temptaverunt.
+                        Itaque si in eos, qui non alienas concupierunt substantias, sed propriis
+                        parcere temptaverunt, processit tam severa sententia, quid de hiis qui
+                        nunquam possessas cupiunt congregare, et nuditatem coram hominibus
+                        preferentes, affectu concupiscentie coram deo divites comprobantur.
+                        Constitutus in agro atque operationem virtutum, substantia mundi qua te
+                        renuncians spoliasti, quid recurrens niteris revestiri! Si vero paupertate
+                        preventus, nichil quod dimitteres habuisti, multomagis acquirere non debes
+                        quod antea non possedisti. Ob id enim ita domini beneficio preparatus es, ut
+                        expeditior ad eum nullis pecuniarum laqueis impeditus accurreres.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698156802" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:46:42:149">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:46:44:750">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

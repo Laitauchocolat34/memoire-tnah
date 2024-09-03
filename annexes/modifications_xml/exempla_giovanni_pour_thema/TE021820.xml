@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021820" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">106</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Secundo, quia apii vis, semen, et radix morsibus venenatis succurrit, ut
+                           dicitDiosc.Morsus venenosi sunt tentationes
+                        diaboli, quibus verba sacre doctrine optime docent hominem obviare. Unde
+                        Dominus a diabolo in deserto tentatus, sacre Scripture verba in qualibet
+                        tentatione opposuit. Induxit etiam contra eam tria testimonia de lege,
+                        quibus ipsum vicit, et repulit, sicut figuratum fuerat inDavid, quiGoliaprostravit tribus lapidibus de torrente, et sicChristusdiabolum superavit tribus testimoniis de lege, ut
+                        diciturin gloss.Quo exemplo etiam nos docemur,
+                        sacre scripture verbis repellere tentatorem. Nam si tentat te de superbia,
+                        et appetitu bonorum, responde eis.Scriptum est.
+                        Quid superbis terra, et cinis ? et iterum. Noli querere ab homine Ducatum,
+                        neque a Rege cathedram honoris. Si tentat de appetitu divitiarum, responde.Scriptum est. Nihil intulimus in hunc mundum
+                        haud dubium, quia nec auferre quid possumus. Et iterum : Qui volunt divites
+                        fieri, incidunt in tentationem diaboli.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120664256" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:03:12:933">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:03:13:895">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

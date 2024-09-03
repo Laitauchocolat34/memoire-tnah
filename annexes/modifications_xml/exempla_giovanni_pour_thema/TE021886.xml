@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021886" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">172</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item contemplatio divinorum tentationum impulsas fugat, et sevientis
+                        seculi procellas sedat, quod patet Alcyonisexemplo.Alcyone enim (ut dicitAmbrosius) avis maritima est, que quasi in medio hyemis, quando
+                        magis scilicet mare ventorum ac fluctuum tempestatibus sevit, ova sua in
+                        litore maris et arena facit, et ibidem versus mare respiciens, per sex dies
+                        super ea incubando persistit, post quos nascuntur pulli : quibus natis, ad
+                        eos nutriendos alios septem dies adiungit, et per omnes hos xiii. dies mare
+                        tranquillum permanet et securum. Unde industria naute hos xiii. dies
+                        serenitatis ad navigandum observant, et eos alcyonidas vocant, ut dicitAmbrosius. Si est ergo tanta virtus avicule, ut sue
+                        contemplationis intuitu, mare seviens tranquillum efficiat, quanto magis si
+                        rationalis anima ad imaginem Dei facta, ad eternum ac immutabile bonum
+                        interiores oculos contemplando, vel orando direxerit : mare, sive cordis
+                        fluctuantis, sive mundi sevientis, tranquillum protinus atque pacatum
+                           habebit.Iob. Tu quoque si diluculo
+                        consurrexeris ad Deum, et Omnipotentem fueris deprecatus, statim quoque
+                        evigilabit ad te, et pacatum reddet habitaculum iustitie tue. Docet et nos
+                        hec avicula, ut propter persecutiones vel tentationes surgentes, neque bona
+                        timeamus aggredi, nec etiam, usque ad perfectum, ea negligamus prosequi :
+                        Non enim avis hec, quia mare procellosum viderat, aut se ponere ad ova
+                        cubandum in litore metuit, aut etiam usque ad debitam pullorum nutritionem
+                        recedit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120075824" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:12:03:717">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:12:04:896">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

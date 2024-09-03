@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021966" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">252</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Honestatem et pudicitiam operis coniugalis elephantes conseruare nos
+                        docent, in quibus est pudicitia quedam admiranda, maxime respectu aliorum
+                        animalium. Non enim se cognoscunt nisi in abdito, et hic non nisi in duobus
+                        annis, quando masculus habet quinque annos, et femina decem, et in istis
+                        duobus annis non nisi quinque diebus, sexto raro adiuncto. In quoexemplodocentur homines coniugali opere honesta
+                        uti, quantum ad locum, et quantum ad tempus, et quantum ad charitatem.
+                           UndeTobiasiunior dixit uxori sue. Exurge et
+                        deprecemur hodie Dominum, et cras, et secundum cras, quia his tribus
+                        noctibus iungimur Deo, tertia autem transacta nocte in nostro erimus
+                        coniugio: filii quippe sanctorum sumus, et non possumus ita coniungem sicut
+                        et gentes qui ignorant Deum.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp124812304" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:23:28:820">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:23:29:762">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022232" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">53</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Helynandus] [in cronicis libro VIIIo]Burchardusarchidiaconus cognomento dePuisacoiturus
+                           eratRomam. Rogavit enim me ut quendam
+                           clericumNatalemnomine domus mee echonomum ei socium darem,
+                        quia cautulus erat in rei familiaris custodia, bonus dispensator et prudens
+                        et fidelis, quod rarissime in dispensatoribus invenitur. Volebat enim
+                           idemBurchardushunc habere socium itineris sui, non tam ideo
+                        quod eum diligeret, quam quia pecunie sue ut avarissimus valde timeret. Ego
+                        autem tam nobili persone et archidiacono meo non potui hoc negare. Precepi
+                           ergoNataliclerico meo, ut cum eo iret et ei tanquam michi in
+                        omnibus obediret, quod ille invitus annuit, timens
+                           moresBurchardi, cuius avaritiam non ignorabat. Inieramus
+                        autem ego etNatalisfedus quoddam secretissimum, quod uter ex
+                        nobis duobus prius moreretur, intra XXX dies si posset ad socium suum
+                        rediret, nichil ei in apparitione sua terroris incutiens, sed blande illum
+                        commonefaciens et de statu suo certificans. Cum autem iam
+                           propeRomamessent, accidit quodam die ut
+                           prefatusBurcharduscumNataliclerico rationem
+                        poneret de cotidianis expensis et de magna summa minutule singulos nummos et
+                        obolos exigeret, qui in quos usus abissent.Natalisautem qui tam
+                        minutas rationes reddere michi non consueverat, quippe cui ego tanquam michi
+                        credebam, iratus adversus virum nobilem sordidissime providentie, cum in
+                        reddenda ratione deficeret, se quod auditu quoque horrendum est, demonibus
+                        commendavit. Eo autem die cum quandam aquam transvadarent,
+                           scilicetBurchardusetNatalis,
+                           idemNatalissubmersus est. Sequenti vero nocte proxima cum in
+                        lecto meo quiescerem vigilans et coram me lumen fulgeret in lampade, quia
+                        semper nocte consuevi tenebras horrescere, ecceNatalisclericus
+                        meus ante me astitit, capa indutus pluviali, sicut michi videbatur
+                        pulcherrima, coloris plumbei. Ego autem nichil omnino territus et eum optime
+                        recognoscens, cepi quasi gratulans de tam maturo eius
+                           reditutransalpinoad eum dicere:Natalis, bene
+                        veneritis. Numquid iam rediit archidiaconus? Non, inquit domine, sed ego
+                        solus redii iuxta constitutum, mortuus enim sum. Nolite ergo timere, ego
+                        nullum timorem vobis inferam. Sed precor ut succurratis michi, ego enim in
+                        magnis tormentis sum. Cur, inquam? satis enim honeste vixistis apud me?
+                        Domine, inquit, verum est. Bene quidem mihi esset, nisi hodie subita
+                        preventus ira me demonibus conmendassem. Rogo autem vos ut quoscunque
+                        potueritis, moneatis ut hoc nunquam faciant. Qui enim se commendat demonibus
+                        dat eis potestatem super se, sicut et ego miserrimus feci, unde potestatem
+                        habuerunt ut me statim submergerent, et propter hoc solum torqueor. Nam bene
+                        confessus eram de omnibus peccatis meis, et in nullum recideram. Tunc ego:
+                        Quomodo tam pulchram capam habetis, si in tormentis estis? Domine, inquit,
+                        hec capa, que tam pulchra vobis videtur, ponderosior et gravior est michi
+                        quam turrispivariensis, si michi superposita esset. Pulchritudo
+                        autem ista spes est venie quam habeo propter confessionem quam feci, si
+                        tamen michi succurratur. Cui ait: Certe, inquam, ego vobis succurram
+                        quantumcumque potero, sed obsecro ut dicatis michi si vos estis deputatus in
+                        illa militia quam dicuntHellekini. Et ille: non, domine. Illa
+                        militia iam non vadit, sed nuper ire desiit, quia penitentiam suam peregit.
+                        Corrupte autem dictus est a
+                           vulgoHellequinusproKarlekins. Fuit
+                           enimKarolusquintus, qui peccatorum suorum longam egit
+                        penitentiam, et nuper tandem per intercessionem
+                        beatiDyonisiiliberatus est, sed rogo vos ut misereamini mei, et
+                        hoc dicens cum fletu evanuit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698324963" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:50:10:012">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:50:13:865">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022216" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">37</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Cassianus] [ex libro VIo]Germanus: Satis congrue nobis hiis comparationibus disputatio
+                        tua illusionum nostrarum manifestavit errores, quorum causas et curationes
+                        similiter optamus agnoscere, et unde acciderit nobis ista
+                           deceptio.Abraham: Omnium viciorum unus fons atque principium
+                        est, secundum qualitatem vero membri, quod in anima fuerit viciatum, diversa
+                        vocabula passionum corruptionumque sortitur. Quod nonnumquam etiam morborum
+                        corporalium probaturexemplo.Etenim cum arcem
+                        corporis, idest caput, vis noxii humoris obsederit, cephalargie procreat
+                        passionem. Cum vero aures oculosve pervaserit, inocalgiumotalgicum, siveobtalmicumophthalmicumvertitur morbum. Cum se ad articulos quosque et ad manum summa
+                        transfuderit, articularis atque cyragrica dicitur valitudo. Cum autem ad
+                        pedum ima defluxerit, podagra nuncupatur. Totque vocabulis una atque eadem
+                        noxii humoris origo distinguitur, quot membrorum ceperit portiones. Eodem
+                        modo anime nostre partibus vim cuiusque vicii inesse credamus. Nam si
+                        rationabilem eius partem viciorum pestis infecerit, cenodoxie, elationis,
+                        invidie, superbie, presumptionis, contentionis, hereseos vicia procreabit.
+                        Si irascibilem furorem, impatientiam, tristiciam, accidiam,
+                        pusillanimitatem, crudelitatemque parturiet, philargiriam et desideria
+                        noxia, terrenaque generabit. Et idcirco si fontem vicii huius vultis
+                        agnoscere, rationabilem mentis vestre portionem noveritis esse corruptam, ex
+                        qua vel presumptionum, vel cenodoxie solent vitia pullulare, dum non solum
+                        ad perfectionis iam pervenisse fastigia, sed etiam alios docere posse vos
+                        creditis, et per elationem cenodoxie hac pervagationum vanitate raptamini,
+                        quas amputare absque difficultate poteritis, si quam difficile sit unicuique
+                        vestrum salvare animam suam mentis vestre contritionem discatis, et intimo
+                        cordis affectu, non modo longe vos ab illa docendi presumptione submotos,
+                        verumetiam adhuc egere doctoris agnoscatis auxilio. Adhibite ergo huic
+                        membro vel parti anime vestre quam specialiter diximus vulneratam, vere
+                        humilitatis medelam.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698164506" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:47:55:318">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:47:56:954">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

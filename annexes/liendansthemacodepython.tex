@@ -1,0 +1,156 @@
+\begin{lstlisting}[breaklines=true]
+	
+import os
+import logging
+from bs4 import BeautifulSoup
+from difflib import SequenceMatcher
+	
+# Configuration du logger
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+	
+def extract_quotes_from_xml(xml_file):
+	try:
+		with open(xml_file, 'r', encoding='utf-8') as file:
+			content = file.read()
+	except Exception as e:
+		logging.error(f"Erreur lors de la lecture du fichier {xml_file}: {e}")
+		return []
+	
+	soup = BeautifulSoup(content, 'xml')
+	
+	quotes = []
+	for cit in soup.find_all('cit'):
+		cit_id = cit.get('xml:id')
+		ref = cit.find('ref', target="#exemplum")
+		if ref and ref.text.strip() == 'Exemplum':
+			quote = cit.find('quote')
+			if quote:
+				quote_text = ''.join(quote.stripped_strings).strip()
+				if quote_text:
+					quotes.append((cit_id, quote_text))
+	
+	return quotes
+	
+def similarity(text1, text2):
+	return SequenceMatcher(None, text1, text2).ratio()
+	
+def ajouter_liens_dans_xml_origine(xml_origine_file, dossier_tc0179_origine):
+	quotes = extract_quotes_from_xml(xml_origine_file)
+	
+	try:
+		with open(xml_origine_file, 'r', encoding='utf-8') as file:
+			content = file.read()
+	except Exception as e:
+		logging.error(f"Erreur lors de la lecture du fichier {xml_origine_file}: {e}")
+		return
+	
+	soup_origine = BeautifulSoup(content, 'xml')
+	tei_ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
+	
+	for quote_id, quote_text in quotes:
+		for filename in os.listdir(dossier_tc0179_origine):
+			if filename.endswith('.xml'):
+				xml_file_path = os.path.join(dossier_tc0179_origine, filename)
+				try:
+					with open(xml_file_path, 'r', encoding='utf-8') as file:
+						content_tc0179 = file.read()
+				except Exception as e:
+					logging.error(f"Erreur lors de la lecture du fichier {xml_file_path}: {e}")
+					continue
+	
+				soup_tc0179 = BeautifulSoup(content_tc0179, 'xml')
+				source_text_item = soup_tc0179.find('item', {'type': 'source_text'})
+				if source_text_item:
+					source_text_p = source_text_item.find('p', {'xml:lang': ''})
+					if source_text_p:
+						source_text = ''.join(source_text_p.stripped_strings).strip()
+						sim_score = similarity(quote_text, source_text)
+						if sim_score > 0.8:
+							logging.info(f"Ajout de lien dans {xml_origine_file} pour la citation avec l'id {quote_id} vers le fichier {filename}.")
+							cit = soup_origine.find('cit', {'xml:id': quote_id})
+							if cit:
+								ref = cit.find('ref', target="#exemplum", cert="low")
+								if ref:
+									link = f"https://thema.huma-num.fr/exempla/{os.path.splitext(filename)[0]}"
+									if 'corresp' in ref.attrs:
+										ref['corresp'] += f' {link}'
+									else:
+										ref['corresp'] = link
+	
+	# Suppression des préfixes de namespace indésirables
+	xml_str = str(soup_origine)
+	xml_str = xml_str.replace('<ns:', '<').replace('</ns:', '</').replace('xmlns:ns="http://www.tei-c.org/ns/1.0"', '')
+	
+	try:
+		with open(xml_origine_file, 'w', encoding='utf-8') as file:
+			file.write(xml_str)
+		logging.info(f"Fichier {xml_origine_file} mis à jour avec les nouveaux liens.")
+	except Exception as e:
+		logging.error(f"Erreur lors de l'écriture du fichier {xml_origine_file}: {e}")
+	
+def modifier_fichiers_xml(xml_origine_file, dossier_tc0179_origine, dossier_tc0179_modifie):
+	quotes = extract_quotes_from_xml(xml_origine_file)
+	
+	if not os.path.exists(dossier_tc0179_modifie):
+		os.makedirs(dossier_tc0179_modifie)
+	
+	for filename in os.listdir(dossier_tc0179_origine):
+		if filename.endswith('.xml'):
+			xml_file_path = os.path.join(dossier_tc0179_origine, filename)
+			with open(xml_file_path, 'r', encoding='utf-8') as file:
+				content = file.read()
+	
+			soup = BeautifulSoup(content, 'xml')
+			modified = False
+	
+			for quote_id, quote_text in quotes:
+				source_text_item = soup.find('item', {'type': 'source_text'})
+				if source_text_item:
+					source_text_p = source_text_item.find('p', {'xml:lang': ''})
+					if source_text_p:
+						source_text = ''.join(source_text_p.stripped_strings).strip()
+	
+						# Calcul de la similarité entre le texte de la citation et le texte source du fichier XML
+						sim_score = similarity(quote_text, source_text)
+						if sim_score > 0.8:  # Ajustez ce seuil selon vos besoins
+							print(f"Modification trouvée dans {filename} pour le texte de quote avec l'id {quote_id}.")
+							links_list = soup.find('list', {'type': 'links'})
+							if not links_list:
+								source_desc = soup.find('sourceDesc')
+								if source_desc:
+									links_list = soup.new_tag('list', type='links')
+									source_desc.append(links_list)
+									links_list.append('\n')
+	
+							new_item = soup.new_tag('item', type='link', corresp=f"http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid={quote_id}")
+							new_item.string = 'SourcEncyMe'
+							links_list.append(new_item)
+							links_list.append('\n')
+							modified = True
+	
+			new_xml_path = os.path.join(dossier_tc0179_modifie, filename)
+			if modified:
+				# Suppression des préfixes de namespace indésirables
+				xml_str = str(soup)
+				xml_str = xml_str.replace('<ns:', '<').replace('</ns:', '</').replace('xmlns:ns="http://www.tei-c.org/ns/1.0"', '')
+	
+				with open(new_xml_path, 'w', encoding='utf-8') as file:
+					file.write(xml_str)
+				print(f"Fichier modifié écrit : {new_xml_path}")
+			else:
+				with open(new_xml_path, 'w', encoding='utf-8') as file:
+					file.write(content)
+	
+# Chemins des fichiers et dossiers
+xml_origine_file = 'speculum_historiale_31_07_2024.xml'
+dossier_tc0179_origine = 'TC0180'
+dossier_tc0179_modifie = 'TC0180_modif'
+	
+# Appel de la fonction pour ajouter des liens dans le fichier XML d'origine
+ajouter_liens_dans_xml_origine(xml_origine_file, dossier_tc0179_origine)
+	
+# Appel de la fonction pour modifier les fichiers XML
+modifier_fichiers_xml(xml_origine_file, dossier_tc0179_origine, dossier_tc0179_modifie)
+	
+\end{lstlisting}
+

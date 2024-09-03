@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021906" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">192</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Lachrymas compunctionis sequitur pugna tentationis, cui opponendus est
+                        clamor orationis. Cuius videlicet reiexemplumin
+                        mergulo apparet, de quo dicitIsidorusquod sepe
+                        demerso in aquam capite, aurarum signa sub fluctibus cognoscit, et futuram
+                        tempestatem presentiens ad littus cum clamore fugit. Unde certissimum
+                        indicium est future tempestatis cum ad littus merguli fugiunt cum clamore.
+                        Ille igitur in aqua caput mergit, qui mente compunctus, se ad sua deflenda
+                        crimina convertit. Sed malignus spiritus eum perdere timens, mox auram
+                        contra eum tentationis suscitat, ut a tentationis fervore frigescat : Sed
+                        cauta et provida mens, cum surgentis tempestatem tentationis presentit, mox
+                        ad littus humilitatis cum clamore orationis recurrit, attendens scilicet
+                        quodDominusdixit : Orate, ne intretis in
+                        tentationem.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120167856" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:14:47:168">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:14:48:084">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

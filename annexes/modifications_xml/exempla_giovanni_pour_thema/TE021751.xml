@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021751" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">37</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item lachrymarum compunctio purificat, et fortificat, et clarificat cor
+                        nostrum. Cuius estexemplumquando in fundo
+                        fluminum invenitur gallum album ; quia ibi terra vincit aquam in
+                        commixtione, et illic lapis leviter fit calx, et induratur fortiter propter
+                        suam adustionem, et de se emittit splendorem quasi crystallus, eo quod in
+                        comiscetur terrestre cum aqua : ergo in aqua fluminum invenitur gallum
+                        album, durum, et lucidum. Quia in aqua lachrymarum cor penitentis efficitur
+                        album, id est, mundum ad operandum, durum ad tolerandum, et lucidum ad
+                        contemplandum. Sed notandum, quod compunctionis lachryma equaliter sancti
+                        viri non habent, sed aliquando quidem habent, aliquando vero carent,
+                        quibusdam fontibus similes, qui quandoque aqua sunt pleni, quandoque
+                        totaliter vacui, sicut narratSeneca, quod sunt
+                        quidam fontes alicubi, qui semis horis sunt pleni, et semis horis vacui.
+                        Cuius causa est proportio vaporis aquas elevantis, et ipsius aque que
+                        elevantur, quia si vapor, qui elevat fuerit fortior vincens aqua, tunc cito
+                        elevat aquam iam congregatam. Sed ad hoc, ut iterum elevet oportet
+                        intercedere tempus aliquod quo aqua iterum congregetur, et sic interrumpitur
+                        fluxus. Si autem vapor elevans fuerit debilior, elevabit aliquam partem aque
+                        sue virtuti proportionatam, et tunc deficiet donec ipse vapor reperietur et
+                        confortetur ex radiis celestium corporum. Similiter secundum quantitatem
+                        interioris affectionis et secundum abundantiam lachrymabilis humoris est,
+                        vel non est in homine fletus corporalis.Hieremias. Quis dabit capiti meo aquam, et oculis meis fontem
+                        lachrymarum ?</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120870080" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:54:16:386">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:54:18:033">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

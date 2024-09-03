@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021722" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">8</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Tertio utimur igne ad fabricandum.Isaias. Ego
+                        creavi fabrum sufflantem in igne prunas, et proferentem vas in opus suum.
+                        Sic etiam per abstinentiam a voluptatibus carnis, non solum gule, sed etiam
+                        luxurie, fabricatur et preparatur vas Dei ; quia per hanc homo efficitur ut
+                        vas sanctificatum, et divine gratie receptivum undeThes. Abstineatis vos a fornicatione, ut sciat unusquisque vestrum
+                        vas suum possidere in sanctificatione et honore. Secundo dictam
+                        similitudinem declarat ignis auxilium : auxiliatur enim ignis hominibus
+                        interdum ad defensionem ab hostibus, sicutlegiturdeAlexandro, quod cum effet
+                        in desertisIndieiuxta stagnum ubi bestie
+                        conveniebant ad potum, et timeret ipse, et sui nocte de insultu leonum, et
+                        aliarum bestiarum ferocium : fecit in circuitu exercitus copiosos ignes
+                        accendi, ut esset eis ignis quasi pro muro in circuitu ipsorum. Unde etiamZachar.dicitur: Ego ero eis murus ignis in
+                        circuitu. Per ipsum etiam ignem arma erea et ferrea fabricantur, quibus
+                        communiter homines ad corporum defensionem vel offensionem utuntur.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp106999120" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:50:38:995">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:50:40:012">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

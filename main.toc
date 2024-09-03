@@ -1,0 +1,53 @@
+\babel@toc {french}{}\relax 
+\contentsline {chapter}{Résumé}{i}{chapter*.1}%
+\contentsline {chapter}{Remerciements}{iii}{chapter*.2}%
+\contentsline {chapter}{Introduction}{ix}{chapter*.5}%
+\contentsline {section}{\numberline {I.}Présentation des bases de données ThEMA et SourcEncyMe}{ix}{section.0.1}%
+\contentsline {section}{\numberline {II.}Motivations et enjeux de l'interconnexion des bases de données}{xi}{section.0.2}%
+\contentsline {section}{\numberline {III.}Présentation de la problématique et du plan}{xiii}{section.0.3}%
+\contentsline {chapter}{\numberline {1}Réflexions sur les différentes possibilités d'interconnexion}{1}{chapter.1}%
+\contentsline {section}{\numberline {I.}Solution radicale : fusionner les deux bases de données}{1}{section.1.1}%
+\contentsline {section}{\numberline {II.}Solution idéale : développer une API}{2}{section.1.2}%
+\contentsline {section}{\numberline {III.}Un compromis : l'ajout de liens simples}{2}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Stratégies pour l'intégration des liens dans les deux bases de données}{5}{chapter.2}%
+\contentsline {section}{\numberline {I.}Vérification de la qualité des données et de leur pérennité}{5}{section.2.1}%
+\contentsline {section}{\numberline {II.}Identifications des liens entre les bases de données}{6}{section.2.2}%
+\contentsline {section}{\numberline {III.}Intégration des liens XML dans les bases de données}{9}{section.2.3}%
+\contentsline {subsection}{\numberline {1.}Recherche des emplacements et des informations dans les XML pour la création des liens dans ThEMA}{9}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.}Placement des liens et des visualisation des \textit {exempla} dans les XML de SourcEncyMe}{11}{subsection.2.3.2}%
+\contentsline {chapter}{\numberline {3}Repérages et recherches des données pour réaliser la connexion}{15}{chapter.3}%
+\contentsline {section}{\numberline {I.}Création d'outils pour chercher dans les données qui seront connectées}{15}{section.3.1}%
+\contentsline {section}{\numberline {II.}Identification des liens par comparaison des textes}{17}{section.3.2}%
+\contentsline {section}{\numberline {III.}Identification des \textit {exempla} via des mots-clés}{20}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Création des liens dans les bases de données}{23}{chapter.4}%
+\contentsline {section}{\numberline {I.}Indexation des \textit {exempla} de SourcEncyMe dans ThEMA}{23}{section.4.1}%
+\contentsline {section}{\numberline {II.}Gestion des liens vers SourcEncyMe dans ThEMA}{24}{section.4.2}%
+\contentsline {subsection}{\numberline {1.}Création des liens}{24}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {2.}Perspectives pour la création du lien}{25}{subsection.4.2.2}%
+\contentsline {section}{\numberline {III.}Création de liens vers SourcEncyMe depuis les mentions d'encyclopédies dans ThEMA}{26}{section.4.3}%
+\contentsline {chapter}{\numberline {5}L'interconnexion des bases de données comme moteur de l'Open Data dans les sciences}{29}{chapter.5}%
+\contentsline {section}{\numberline {I.}Renforcement des collaborations scientifiques}{29}{section.5.1}%
+\contentsline {section}{\numberline {II.}Valorisation des bases de données}{30}{section.5.2}%
+\contentsline {section}{\numberline {III.}Amélioration de l'expérience utilisateur}{30}{section.5.3}%
+\contentsline {chapter}{\numberline {6}De nouvelles perspectives grâce à l'interconnexion}{33}{chapter.6}%
+\contentsline {section}{\numberline {I.}Bénéfices pour la recherche de la mise en relation des deux bases de données}{33}{section.6.1}%
+\contentsline {section}{\numberline {II.}Techniques de visualisation pour les relations entre récits exemplaires et encyclopédies}{34}{section.6.2}%
+\contentsline {chapter}{Conclusion}{38}{chapter*.32}%
+\contentsline {chapter}{\numberline {A}Installation de ThEMA}{39}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Fonctionnement de ThEMA}{43}{appendix.B}%
+\contentsline {section}{\numberline {I.}La structure de ThEMA}{43}{section.B.1}%
+\contentsline {section}{\numberline {II.}Le fonctionnement de ThEMA}{44}{section.B.2}%
+\contentsline {section}{\numberline {III.}La façon de créer un recueil et indexer des \textit {exempla}}{45}{section.B.3}%
+\contentsline {chapter}{\numberline {C}Code pour classer par ordre alphabétique des récits exemplaires avec un code Python}{47}{appendix.C}%
+\contentsline {chapter}{\numberline {D}Code pour classer par ordre alphabétique des récits exemplaires avec un code XQuery}{51}{appendix.D}%
+\contentsline {subsection}{\numberline {1.}Code pour vérifier la place des \textit {exempla}}{51}{subsection.D.0.1}%
+\contentsline {subsection}{\numberline {2.}Modification des données posant un problème}{51}{subsection.D.0.2}%
+\contentsline {chapter}{\numberline {E}Fichiers XML de ThEMA et de SourcEncyMe}{53}{appendix.E}%
+\contentsline {subsection}{\numberline {1.}Exemple de fichier dans ThEMA}{53}{subsection.E.0.1}%
+\contentsline {subsection}{\numberline {2.}Exemple de fichier dans SourcEncyMe}{54}{subsection.E.0.2}%
+\contentsline {chapter}{\numberline {F}Code pour recherche dans les sources et les textes apparentés de ThEMA}{55}{appendix.F}%
+\contentsline {chapter}{\numberline {G}Code pour comparer les textes de ThEMA et de SourcEncyMe}{57}{appendix.G}%
+\contentsline {chapter}{\numberline {H}Feuille de style XSL pour repérer les \textit {exempla} de SourcEncyMe}{59}{appendix.H}%
+\contentsline {chapter}{\numberline {I}Code pour indexer automatiquement les \textit {exempla} dans ThEMA}{61}{appendix.I}%
+\contentsline {chapter}{\numberline {J}Code Python pour ajouter les liens dans les XML des deux bases de données}{63}{appendix.J}%
+\contentsline {chapter}{\numberline {K}Code Python pour créer des liens entre les deux bases en cas de mention d'encyclopédies dans ThEMA}{67}{appendix.K}%

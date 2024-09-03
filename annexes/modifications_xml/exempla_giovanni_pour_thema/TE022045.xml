@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022045" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">331</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item non rostro detractionis percutere, nec venenum infamationis sive
+                        litis in ore, sed ramum oliue, id est, verbum pacis portare ad chorum,
+                        refectorium, et alia communia gregatim simul incedere, iuxta riuos aquarum,
+                        id est, scripturarum residere, et ibi umbram accipitris id est tentationem
+                        diaboli previdendo declinare. Hec columbina simplicitas in tantum Deo
+                        placet, ut Spiritus sanctus in specie alterius animalis voluerit apparere.
+                        In hac autem duplici aue, id est, vita, consistit omnis perfecta religio.
+                        Unde cuidam querenti quam religionem deberet intrare. Responditquidam; Nescio an esse velis turtur, an columba.
+                        Sed in utraque vita cauendum est ne diuidatur et dispergatur per vanam
+                        gloriam, scilicet ne opus volet ad Deum, et intentio ad mundum est. Unde inLeuiticoprecipitur, si offeratur turtur, vel
+                        columba, quod confringatur ascella, ne possit euolare; quia si qua sunt in
+                        religiosis opera virtutum, occultanda sunt; non ad fauorem hominum
+                        propalanda. Unde si ex operibus bonis supercrescit inanis gloria, opera illa
+                        quasi alas sumunt ad euolandum, et fugiunt, ut nobis non proficiant; sed eas
+                        confringere debemus, dicentes nobis; Quid habes, quod non accepisti? Super
+                        hoc autem sacrificium dicit, quod descenderunt volucres, sed abigebat easAbraham. Sic tu ad auferendum impedimenta
+                        spiritus sacrificii, scilicet orationis deuote, abige aues, id est,
+                        importunas cogitationes. UndeGregoriusSepe in
+                        ipso nostre orationis sacrificio importune cogitationes se ingerunt, que
+                        hoc, quod Deo placentes offerimus, maculare contendunt. UndeAbrahamdum sacrificium obtulit, insidiantes aues
+                        pertulit, quas studiose abegit, cuius nosexemplodum vota cordis holocaustum Deo offerimus, ab immundis cogitationibus hoc
+                        custodiamus. Sed attendendum est, quod sequitur; quia dum occubuisset Sol,
+                        sopor irruit superAbraham, et horror magnus et
+                        tenebrosus inuasit eum; Sepe enim post sacrificium boni operis, vel deuote
+                        et feruentis orationis (ne per elationem mens eleuetur) occidit Sol, id est
+                        extinguitur feruor devotionis, et irruit in animam sopor torporis, ita ut
+                        anima quasi seipsam magno stupore horrescat et quasi quedam tenebra timoris
+                        et dubitationis eam inuadat. Et hoc facit Deus, ut ipsam in humilitate
+                        conseruet, ne fructum sacrificii, id est, boni operis meritum, per elationem
+                        perdat.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp106141136" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:36:18:950">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:36:20:468">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

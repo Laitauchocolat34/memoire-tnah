@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021715" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">1</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Predicantium igitur conmodo, curioso desiderio simplicium auditorum
+                     profectui desiderans inservire,egointer fratres
+                     ordinis Predicatorum minimus, nomineHelvicus,
+                     natione Teutonicus,de multarum rerum exemplis que
+                     diversis hominum moribus et actibus adaptatur, presens opusculum edidi, et
+                     librum de exemplis et similitudinibus rerum ipsum intitulavi : exemplum sequi
+                     desiderans Patris nostri beatiDominici, de quo
+                     inter alia legitur, quod ubicunque conversabatur edificatoriis affluebat
+                     sermonibus, et abundabat exemplis, quibus ad amorem Christi, seculive
+                     contemptum audientium animi flecterentur. Non autem visum est mihi de exemplis
+                     historialibus aliquid in hoc opere ponere, ex eo quod tam de historiaBibliorumquam etiamde vitis
+                        Sanctorum, et insuper de factis gentilium, diversa per diversos opera
+                     facta sunt satis sufficienter. Intendo autem in opere isto sequi precipue rerum
+                     ordinem de quibus adducentur exemplas : nihilominus tamen materias quibus
+                     aptabuntur exempla, reducam ut melius potero in singulis rerum generibus in
+                     ordine alphabeti. Quod quidem qualiter fiat, subsequentibus verbis declaribtur.
+                     Quoniam vero curiosis lectoribus varietas tollit fastigium, in ponendis vel
+                     exponendis vel exponendis exemplis, non semper eundem ordinem servabo vel
+                     modum : Nam quandoque generaliter tantum materie, de qua agetur, exemplum
+                     adaptabitur, quandoque vero distincte proprietates plures adducte similitudinis
+                     exponentur. Huius etiam eiusdemque rei exemplum aliquando uni tantum materie,
+                     quandoque vero pluribus, prout eiusdem rei exigerit diversarum proprietatum
+                     congruitas, adaptabo. SicutSaturnotantum
+                     assimilatur homo voluptuosus. Lune vero assimilatur non tantumBeata Maria, sed etiam vita activa, et similem modum
+                     invenies in aliis exenplis. Adhuc etiam in adaptationibus ipsis plerumque ex
+                     sacra scriptura, et nonnunquam ex dictis Sanctorum auctoritatum probationes
+                     apponam : quandoque etiam (causa prolixitatis vitande) adaptationes ipsas
+                     tantummodo, pretermissis auctoritatibus, scribam. Intendo etiam pleraque
+                     exempla per singulas suas partes exponere, et quedam solum ex parte materie
+                     applicare ; quia multa ad declarationem exempla quandoque sunt necessaria, que
+                     tamen ad adaptionem nil referunt. Et quia plura eidem materie exempla
+                     conveniunt, interdum que in diversis rerum generibus continentur, oportebit ut
+                     de eisdem materiis (sed non sub eisdem exemplis) in diversis tractetur locis.
+                     Sicut de gratia agetur in primo libro sub similitudine primi mobilis. In
+                     secundo vero sub similitudine saphiri. In tertio sub similitudine frumenti, et
+                     sic de aliis.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp103805744" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:49:45:838">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:49:47:624">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

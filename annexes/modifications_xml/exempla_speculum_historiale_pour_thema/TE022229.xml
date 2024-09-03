@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022229" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">50</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Bernardus] [ad Cartusienses]Patres nostri
+                           inEgyptoetThebaidasancte huius vite
+                        ardentissimi emulatores in solitudinibus degentes, angustiati, afflicti,
+                        quibus dignus non erat mundus, ipsi sibi cellas fabricabant, in quibus tecti
+                        tantummodo et circumscepti a turbine et a pluvia tutabantur, in quibus
+                        heremite frugalitatis deliciis affluentes locupletabant multos ipsi egentes.
+                        Ipsi enim quos quo nomine dignius appellem nescio, homines celestes, an
+                        angelos degentes in terris, sed conversationem habentes in celis, laborabant
+                        manibus suis et de labore suo pauperes pascebant, esurientes ipsi. Quid ad
+                        hoc nosdocemusdicemusnon animales, sed animalia terrena adherentes terre et sensibus
+                        carnis nostre in sensu carnis ambulantes, ex alienis manibus pendentes?
+                        Quamvis consolatur nos in hoc ipsum aliquatenus ille qui cum dives esset,
+                        pauper pro nobis factus est. Nam ipse etiam afidelifidelibuspasci voluit, nonnumquam ab infidelibus, sed ut fideles faceret
+                        vite necessaria accipere non recusavit. Quod et si conceditur liberius, hoc
+                        ipsum ipso domino precipiente et ordinante, evangelium annuntiantibus, ex
+                        apostolorum tamen auctoritate non negatur etiam euvangelice viventibus sicut
+                        sanctis illis pauperibus qui tunc erant inIerusalem. Ignosce
+                        domine ignosce, excusamus, tergiversamur, sed non est qui se abscondat a
+                        lumine veritatis tue, quod sicut illuminat conversos, sic etiam ferit
+                        adversos. Non est etiam occultatum a te os nostrum, quod fecisti in occulto
+                        hominum. Nos autem nobisipsis facimus illud occultum, quia vix est aliquis,
+                        qui in eis, que ad te sunt, experiri velit quid possit et quod promptissime
+                        potest quandoque secundum carnem vel secundum seculum, sive timor impulerit,
+                        sive cupiditas traxerit, sed et si fallimus homines inscios, non nos
+                        permittas ut quasi volentes fallere te, fallamus nosmetipsos. Non laboramus,
+                        quia vel non possumus, vel non posse nobis videmur, vel a consuetudine ocii
+                        et deliciarum nostrarum nos non posse efficimus. Adoremus ergo semper et
+                        procidamus et ploremus coram te, qui fecisti nos. Magnam hanc iacturam
+                        professionis nostre suppleat pietas, ac devotio conscientie humiliate. Sint
+                        nobis lacrime nostre panes die ac nocte, quamdiu dicitur anime nostre: Ubi
+                        est deus tuus, hoc est quamdiu peregrinatur a domino deo suo et a lumine
+                        vultus eius. Vnum quidem erat necessarium sed qui nec in uno figimur, nec in
+                        multis exercemur, in quo ordine computabimus? Utinam cum illo de quo
+                        apostolus dicit: Ei qui non operatur, credenti autem in eum qui iustificat
+                        impium reputatur fides eius ad iusticiam secundum propositum gratie dei.
+                        Utinam cum peccatrice illa cui multum est dimissum, quoniam multum dilexit.
+                        Nam et indiligendo te deus, retributio magna est diligenti conscientie ipsa
+                        dilectio tua, deinde vero vita eterna. Sicque fratres obsecro non excusemus
+                        nos, sed accusemus et confiteamur, et qui magni nominis umbram et personale
+                        quoddam figmentum perfectionis apud homines induimus, apud deum conscientie
+                        nostre cognoscentes paupertatem, non usquequaque a veritate recedamus et
+                        veritas liberabit nos.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698307516" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:49:43:881">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:49:45:847">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

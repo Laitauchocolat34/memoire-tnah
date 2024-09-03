@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021955" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">241</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Contritio humilis trahit de corde peccatoris venenum culpe, et mitigat
+                        morsum et tristitiam conscientie, sicut musce contrite, et super morsum
+                        aranee venenose apposite venenum extrahunt, et dolorem leniunt, vel
+                        alleuiant. Nam contritio muscarum immundarum, est contritio et penitentia
+                        turpium actionum; Morsus autem venenose aranee, est consensus, vel
+                        perpetratio actionis, seu tentationis male. Unde circa hocexemplumquod musca viva sit aranee esca, mortua
+                        autem et contrita fit morsus aranee medicina. In quo signatur, quod peccatum
+                        in homine vivens diabolum pascit. Sed cum per penitentiam, et contritionem
+                        mortificatur, virtus diaboli euacuatur. Vel musca mortua et contrita, est
+                        caro viriis mortificata, et penitentie afflictionibus attrita; que aranearum
+                        morsibus obsistit, quia demonum tentamenta repellit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp124684048" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:21:47:098">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:21:48:469">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022189" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">10</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">ComestorEt nota quod nusquam legitur dominum
+                        comedisse carnes, nisi agni paschalis. Surgens autem a cena lavit pedes
+                        discipulorum. Ex eo vero quod dixit, qui lotus est non indiget nisi ut pedes
+                        lavet, perpenditur a quibusdam quod apostoli baptizati erant. Et cum
+                        recubuisset iterum docuit eos quare hoc fecerat inexemploscilicet mutuo sibi servendi.Ihesuautem
+                        turbatus spiritu, dixit: Amen dico vobis quia unus ex vobis me traditurus
+                        est. Turbatus estIhesusmisericorditer,
+                           compaciensIudequem notabat. Sic et sancti misericorditer
+                        turbantur, cum urget eos cura a zizania separare triticum ante messem.
+                        Mentitur ergo philosophus, qui dicit animi turbationem non cadere in
+                        sapientem. Et dicebant sigillatim. Nunquid ego sum domine? Qui intingit,
+                        ait, manum mecum in catino. Duodecim in eadem catino cura domino edebant, et
+                        alii non quasi diceret unus de XII me tradet. Forte ideo dixit, intingit,
+                        quia succus agrestium lactucarum neecessarius erat ad esum agni. Recumbebat
+                        autem discipulus quem diligebatIhesusin sinu eius, non aliter
+                        ut creditur, nisi quia discumbebat inclinatus ante pectus domini. Huic
+                        submissa voce expressit proditorem, cui scilicet panem intinctum porrigeret.
+                        Et tunc introivitSathanasinIudam, non tunc primo,
+                        sed ut quasi proprium possideret.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394697979148" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:43:55:080">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:43:57:875">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022183" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">4</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Origenes super Genesym omelia VIIIaTolle inquit
+                        filium tuum unigenitum quem diligisYsaacet cetera. Caris ac
+                        dulcibus appellationibus iterum ac sepe repetitis patris suscitantur
+                        affectus, ut amoris evigilante memoria ad immolandum filium paterna dextera
+                        retardetur et adversum fidem animi tota carnis militia repugnet. Et quia
+                        dictum fuerat ei: InYsaacvocabitur tibi semen, fit et
+                        commemoratio nominis pueri ut et promissionum que sub hoc nomine facte sunt
+                        desperatio subeat, sed hec omnia quia temptabat deusAbraham,
+                        cui post hec: Vade inquit in terram excelsam et cetera. Intuemini per
+                        singula quomodo fiunt temptationis augmenta. Prius enim dicitur ei quod
+                        filium offerat, deinde ut in montem ascendat, non econverso, ut dum iter
+                        agit per totam viam cogitationibus discrepatur, ut hinc urgente precepto,
+                        hinc vero unici affectu obluctante cruciaretur. Propter hoc et via
+                        iniungitur et montis ascensio, ut in hiis omnibus spacium certaminis
+                        accipiant affectus et fides, amor dei et amor carnis, gratia presentium et
+                        expectatio futurorum. Die autem tertio vidit locum procul. Sapientiam et
+                        consilium temptantis intueor, sic in proximo non erat mons aliquis, sed per
+                        triduum iter protenditur, quo recursantibus curis paterna viscera
+                        cruciantur, ut omni hoc spatio tam prolixo intueretur filium pater, cibum
+                        cum eo sumeret, tot noctibus puer in amplexibus patris penderet, pectori
+                        inhereret, in gremio cubitaret. Ego inquit et puer postquam adoraverimus,
+                        revertemur ad vos. Dic michiAbrahamverum dicis an fallis? Si
+                        verum non facies puerum holocaustum, si fallis tantum patriarcham non decet
+                        fallere. Verum inquit dico et holocaustum puerum offero, et cum ipso ad vos
+                        redeo. Credo enim quod et a mortuis potest deus suscitare. Pater mi inquit
+                        quomodo putas immolandus filius per hanc vocem viscera paterna concussit.
+                        Putasne alicui nostrum ex ipsa hystorica narratione tantum animi robur
+                        acquiritur ut cum forte amittitur filius morte communi et omnibus debita,
+                        etiam si sit unicus et dilectus,Abrahamsibi inexemplumadducat et magnanimitatem eius ante oculos
+                        ponat?</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394697876805" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:43:02:866">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:43:05:758">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

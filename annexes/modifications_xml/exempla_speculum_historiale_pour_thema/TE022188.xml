@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022188" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">9</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">ComestorCum ergo ieiunasset XL diebus et XL
+                        noctibus, postea esuriit.Exemplosane ipsius,
+                        hic numerus in ecclesia penitentialis est. Unde et post epyphaniam non
+                        statim ieiunat ecclesia, sed circiter post XL dies, quasi ipso tempore
+                        ieiunium suum esse consecutivum ieiunii dominici signans. Ob hoc quoque ut
+                        per penitentiam ostendamur ad ascendere requiem, sicut XLus ascendit ad Lum.
+                        Est enim numerus superabundans, et congregatis omnibus partibus suis
+                        aliquotis ascendit ad L. Movebatur autem dyabolus XL dierum ieiunio, sciebat
+                        enim tot diebusMoysilegem datam fuisse, tot annis
+                           filiosIsraelin heremo pane angelorum, vixisse. Cum vero
+                        sensit dominum esurire, quod non legitur
+                           deMoyseetHelya, accessit ut temptaret si eum
+                        posset deicere in peccatum, et ut exploraret si esset dei filius, quia
+                        audierat vocem hanc: Hic est filius meus. Quem sciebat quandoque venturum,
+                        et se per eum potestatem amissurum, sed usque ad iudicium futurum non
+                        expectabat. Temptavit autem [eum] in eisdem tribus
+                        quibusAdamdeiecerat, sed non ordine eodem. Primo in gula, ut
+                        esuriens panem videns, immoderato cibi appetitu accenderetur. Secundo de
+                        avaritia, ut super montem ostenderet ei omnia regna mundi. Tertio per
+                        superbiam, ut iactanter ostenderet se filium dei. Tunc abiecit eum dominus
+                        et consumpta omni temptatione ad quam venerat, recessitLucifera
+                        domino ad tempus. Tempore passionis rediit, timore mortis putans eum
+                        deicere. Tunc autem omnino victus religatus est in inferno, in
+                           diebusAntichristisolvendus secundum
+                           apocalypsimIohannis. Credendus est autem hominis assumpsisse
+                        formam, in qua dominum circumducere et colloqui posset ei.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394697975017" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:43:44:300">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:43:47:670">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

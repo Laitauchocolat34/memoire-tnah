@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022054" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">340</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Passio et perfectioChristiexcessit
+                        passiones, et perfectiones omnium sanctorum, quod ostensum est per somniumIosephquod habetur inGenesi. Audite somnium meum quod vidi: putabam colligere nos
+                        manipulos in agro, et quasi consurgere manipulum meum, et stare, vestrosque
+                        manipulos circunstantes adorare manipulum meum: Manipulus enimIoseph, est collectio contumeliarum, et passionumChristi, que Amos ultimus fasciculus
+                        vocatur, qui edificat in celo ascensionem suam, et fasciculum suum super
+                        terram fundauit: namChristusper fasciculum
+                        passionum sibi fecit gradus ascensionis in celum. Manipuli autem fratrumIoseph, significant collectiones penarum, et
+                        passionum aliorum Sanctorum. Quod igitur manipuli eorum manipulumIosephadorauerunt, nihil aliud est, quam
+                        recognoscere quod passiones eorum nihil sunt respectu passionisChristi, et quod eorum passiones exChristipassione virtutem et meritum habent. Vel
+                        quia manipulus dicitur a manu. Per manipulumIoseph, intelligimus virtutem et perfectionem operumChristi, per manipulos vero fratrum eius,
+                        intelligimus merita sive fructus operum aliorum Sanctorum, de quibusPsalmus. Euntes ibant, et flebant, mittentes semina
+                        sua; Venientes autem venient cum exultatione, portantes manipulos suos. Quod
+                        igitur manipuli eorum illius manipulum adorant, est quod merita eorum in
+                        comparatione illius, deficiendo se humiliant. Quia vero in predicto somnio
+                        fit mentio de agro, cumdicitur: Putabam
+                        colligere nos manipulos in agro.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp106343504" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:37:48:935">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:37:50:125">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

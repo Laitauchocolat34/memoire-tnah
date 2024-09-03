@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022080" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">366</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Fautor mali presumitur qui ipsum prohibere et impedire potest, et non
+                        facit. Cuiusexemplumapparet in clericorum
+                        defensione, quia in cidit in canonem late sententie ipso iure, et maiori
+                        excommunicatione ligatur qui potest defendere clericum a violenta manuum
+                        iniectione, et non defendit, extra. de senten. excommunic. c. quante
+                        presumptionis: Hoc enim non solum restringitur ad illos qui tantum ratione
+                        potestatis et officii hoc prohibere possunt. 23. quest. 4. forte, etc. duo
+                        ista nomina: Sed etiam intelligitur de illo, qui et si non ratione
+                        potestatis, vel officii hoc prohibere potest, potest tamen aliter, puta quia
+                        scit hoc fieri debere per illum. Cui si diceret, Caueas ne illud facias
+                        statim alius abstineret, ut patet satis aperte in c. decretali, quando
+                        dixit, ne autem solos violentie huius actores, id est qui hoc faciunt, vel
+                        precipiunt hoc fieri, vel in hoc expresse consentiunt, aliquorum presumptio
+                        extimet puniendos, facientes, et consentientes pari pena puniendos,
+                        catholica condemnat auctoritas eos delinquentibus fauere interpretans, qui,
+                        subaudi quamuis expresse non consenserint, tamen hoc fieri debere scientes,
+                        cum possent, subaudi nudo verbo, tamen hoc prohibere manifesto facinori
+                        desinunt obuiare. 83. di. §. j. et c. sequenti, etc. error, et 86. dist.
+                        faciatis. ff. ad se con. Silla. l. 2. §. potuisse, et §. sequenti, et §.
+                        penul. Et hoc hodie comprobatur in auth. dist. 2. immo extra. de sen. excom.
+                        dist. c. innuitur. Quod habendum est tantum verbo, sed facto, et plus: quia
+                        hoc locum habet non tantum in clerico, sed etiam in vicino, et
+                        proximo.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp60937760" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:42:00:367">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:42:01:668">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

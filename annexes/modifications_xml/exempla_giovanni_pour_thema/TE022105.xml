@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022105" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">391</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Scripture sacre verba in quibus fiunt generales permissiones, vel
+                        concessiones alicuius gratie vel potestatis, semper intelligenda sunt
+                        supposita quadam conditione, et si alia non exprimatur. Sic igitur quecunque
+                        orantes petieritis, credite quia accipietis, et fiet vobis, subintelligendum
+                        est, si digne petieritis, unde Iaco. Petitis, et non accipitis, eo quod male
+                        petatis, et illud Matt. Quodcunque solueris super terram, et in celis,
+                        intelligitur, si solueris claue non errante. Unde dicit Origen. quod multos
+                        sacerdotes excludunt, quos tamen Deus retinet, et e conuerso etiam est de
+                        aliis consimilibus. Cuiusexemplumest. Quia in
+                        rescriptis quedam conditiones intelliguntur, et sine expressione aliqua sunt
+                        obseruande, ut illa: Si preces veritate nitantur, extra de rescriptis, ca.
+                        ex parte. Si quis idoneus, vel si qua idonea fuerit, extra de cle. c.
+                        causam, ff. de muner. et hon. l. ut gradatim in fine primi rescrip. Item cum
+                        quis natalibus restituitur, subintelligitur conditio hec. Si is qui
+                        restituitur ex ingenua natus sit: Nam si ex ancilla, per talem restitutionem
+                        nil agitur, ut ff. de nata. test. l. 1. Item in concessione vie tacite
+                        intelligitur hec conditio, ut is cui conceditur, ciuiliter utatur, ut ff. de
+                        seruit. l. sicut. Item in generali mandato patris querendi sponsum filie sue
+                        hic subintelligitur, ut persona sponsi patri ostendatur, nec prius nuptie
+                        fiant, ut ff. de ritu nuptiarum. l. generali. Item scriptura sacre verba que
+                        videntur invicem contraria, concordantur per aliam scripturam, vel per
+                        distinctionem temporum, vel alio modo. Sicut id quod dixit Christus de Ioan.
+                        Baptista. Ipse est Helias, et id quod dicit Ioan. Non sum Helias, concordat
+                        Gregorius per illud Luce, quod dixit Angelus Zacharie de ipso Ioan. Ipse
+                        precedet ante ipsum in spiritu et virtute Helie. Ex quo colligitur, quod
+                        Ioan. non fuit Helias quoad personam; sed quoad similitudinem, primo
+                        officii, quia precedet ante ipsum in primo aduentu, sicut Helias. Secundo
+                        quoad similitudinem zeli, et ideo subiunxit: In spiritu, scilicet zeli,
+                        tertio modo vivendi, unde addit, et virtute, scilicet temperantie vel
+                        penitetie. Sic etiam in legibus iura iuribus ad concordiam reducuntur, ut C.
+                        de inofficioso testamento l. una. Similiter consuetudo puri priuilegii
+                        contraria, reducitur ad concordiam per interpretationem, extra de consuetud.
+                        c. cum dilectus.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp61134112" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:46:02:634">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:46:04:290">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

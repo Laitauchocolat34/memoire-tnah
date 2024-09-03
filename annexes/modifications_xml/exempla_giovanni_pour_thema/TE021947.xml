@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021947" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">233</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Anima quanto est humilior et ab amore terreno magis vacua, tanto est in
+                        spiritualibus exercitiis magis ingeniosa, et operosa. Nam aranea est corpore
+                        paruo, et tamen ad faciendum telam est mirabiliter operosa. Et est valde
+                        admirandum, quomodo tantam materiam de utero suo trahat. Dicit enimAvicenna, et etiamDioscoridesquod aranearum tele, nature artificio, ex earum
+                        visceribus generantur, cum tamen (ut dicuntquidam) semper eius uterus inveniatur vacuus a tali materia. Est
+                        igitur in aranea paruitas corporis, vacuitas ventris, et nihilominus
+                        mirabilis ars sive studiositas operis. Nam (sicut dicitPlinius) moderato ungue rotundum filum educit, et miro artificio
+                        fila connectit, que ab imo usque ad summum, et transuersaliter de puncto ad
+                        punctum reducit quadam lineari distantia, et omnes lineares tractus in
+                        puncto medio equali distantia a centro coniungit, et ipsius tele interualla,
+                        seu spatia inter fila miro artificio nunc sunt quadrata, nunc oblonga, nunc
+                        rotunda, et tanto strictiora, quanto medio viciniora, et tanto latiora
+                        quanto extremis proximiora, quomodo autem filum filo tam indissolubiliter
+                        coniungat, visus non indicat, et rationis iudicium vix affirmat. Miro etiam
+                        modo per filatam subtilia vix visui periuria, seleuiter eleuat, et inclinat,
+                        ut volare videatur. Paruitas ergo corporis, significat humilitatem mentis:
+                        vacuitas ventris, carentiam terreni amoris. Ingeniositas artificii,
+                        prudentiam operis, qua sancti viri spiritualia opera faciant mirabili modo
+                        ordinata, connexa, distincta, formata, et firma, se aliquando humiliter
+                        deprimendo per condescensionem, aliquando sublimiter eleuando per
+                        contemplationem. Similes videlicet illis angelis, quos viditIacobin scala ascendentes, et
+                        descendentes.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp123654288" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:20:35:984">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:20:37:230">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

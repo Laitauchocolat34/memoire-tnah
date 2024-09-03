@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021993" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">279</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Studens in sacra Scriptura prius debet querere sensum literalem, deinde
+                        inuestigare sensum spiritualem. Quod ostenditurexemploanimalium ruminantium; quia omne animal ruminans, habet
+                        duos ventres, unum magnum, et alium paruum. Cuius causa est digestio
+                        multiplex: nam talium cibus est siccus, et non bene a principio masticatus,
+                        propter aviditatem edendi, unde oportet iterum masticari, de maiori igitur
+                        ventre ad os trahitur, et sic secundo ibi masticatus ad secundum ventrem
+                        transmittitur, ut ibi perfecte digeratur. Ruminatio autem esce, est
+                        meditatio sacre scripture, que prius reducenda est ad magnum ventrem, id
+                        est, ad sensum literalem, qui est primus et generalis sensus totius sacre
+                        scripture. Deinde ducenda est per meditationem ad paruum ventrem, id est, ad
+                        spiritualem sensum, qui quidem paruus dicitur, quia humiliter et sobrie est
+                        querendus; quia non nisi parvulis datur Scripture sacre mysticus
+                        intellectus.Psalmusilluminat, et intellectum
+                        dat parvulis.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp125368080" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:27:41:248">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:27:42:262">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

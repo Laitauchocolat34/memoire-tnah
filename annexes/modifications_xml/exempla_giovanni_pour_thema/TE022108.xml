@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022108" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">394</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Tribulationes, vel infirmitates, que peccatoribus in hac vita veniunt,
+                        sunt quasi quidam nuncii, vel legati Dei, missi ad commouendum eos, et
+                        prouocandum ad reconciliationem penitentie. Unde patienter, et reuerenter
+                        suscipi debent quantumcunque videantur hostiles: nam et nuncii, et legati
+                        quos apud nos etiam hostes mittunt, recipiuntur. Et secundum iura, quia
+                        sancta res est horum causa legatorum, si quis eos pullauerit, hostibus
+                        quorum legati erant, tradendus est, ff. de legationibus. l. ultima.
+                        Similiter qui hos nuncios divine iustitie repulerit, incidet in manus eius.
+                        Sic Rex filiorum Amon incidit in manus Dauid, qui eius nuncios
+                        dehonestauerat. Item pro Christo tribulationes et persecutiones sustinentes,
+                        sicut fuerunt socii eius passionum, sic etiam erunt cum eo socii
+                        consolationum:exemploscilicet mercatorum,
+                        quorum socii, sicut participant de periculo, sive damno, ita possunt licite
+                        participare de lucro, unde etiam si contrahatur societas, quod unus ponat
+                        pecuniam, et alius operam, licitum est, dum tamen lucrum, et damnum
+                        communiter sentiant; sed si periculum pertinet ad recipientem in solidum, et
+                        non ad tradentem, illicita est talis societas, et etiam leonina. Et talibus
+                        assimilantur qui volunt participare Christi consolationes, sed nolunt
+                        sentire eius passiones.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp61143200" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:46:35:006">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:46:36:112">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

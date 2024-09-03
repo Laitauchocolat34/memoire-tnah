@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021775" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">61</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Tertio, penitentia assimilatur terremotui quoad locum. Nam loca
+                        terremotui apta, sunt loca cavernosa ; quia in cavernosis vapor congregatur,
+                        et ex alio superveniente coarctatur. Unde in locis montuosis sepius fit ;
+                        quia sub montibus sunt caverne, et loca montuosa universaliter sunt porosa.
+                        Item sunt apta terremotui loca inundationibus alicuius aque propinqua ; quia
+                        ipsa aqua undis percutiens est in talibus locis causa congregationis vaporis
+                        et coarctationis. Unde loca mari propinqua etiam si non sunt cavernosa, non
+                        tamen sunt a terremotibus libera ; ut dicitCalestenes; quia licet ex raritate loci, vapor liberum exitum
+                        habeat ; tamen ex percussione undarum unus vapor impellens alium, replet
+                        locum ; et ideo etiam in plano loco si tangitur mari vel montibus, fiunt
+                        terremotus, ut inLombardia, in cuius multis
+                        civitatibus fuit quandoque terremotus magnus et diuturnus. Et similiter inPistoria, que est civitasTuscie. Et tempore etiamBonifacii Pape
+                           octavifuerunt terremotus magni in civitateBeate Marie, qui pluribus diebus duraverunt, existente curia
+                        Romana ibidem ; que tamen civitas in plano sita est, aquis plena, et lacui
+                        vicina, et montibus propinqua.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp121039168" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:57:20:180">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:57:21:327">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

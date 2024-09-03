@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022016" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">302</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Septimo in hydropicis invenitur sitis magnitudo: proprium enim est
+                        hydropicis (sicutBedadicit) ut quanto amplius
+                        bibunt, tanto amplius sitiant: quod est (secundumAvicennam) propter complexionem in hepate facientem sitim: aut
+                        propter opilationem, propter quam non attrahit ad hepar aliquid quod sitim
+                        sedat: aut propter aliam aliquam causam sitim facientem, que ex potu non
+                        remouetur; nisi forte per accidens; sicut accidit in terra originis mee,
+                        scilicet in castelloSancti Geminiani, quod est in
+                        partibusThusciexv. miliariis distans a civitateSenarum. Ibi enim fuit quidam vir nobilis et
+                        pauper, qui factus est hydropicus, et toto fere corpore tumidus. Cumque siti
+                        insatiabili cruciaretur, nec potus ei petenti ab aliquo porrigeretur; cum
+                        iaceret prope locum ubi quoddam edificabatur palatium, quadam die cum solus
+                        esset, vidit ibi tinam magnam aqua plenam, in qua veteres lateres
+                        mollificabantur, unde ex admixtione calcis lateribus adherentis, aqua
+                        dealbata erat: ad quam aquam ille accedens in magna quantitate bibit, et
+                        post potum in lecto se ponens, et paululum obdormiens, post somnum ex
+                        virtute illius aque, senex calcis adustione, tam magno fluxu ventris solutus
+                        est, ut hydropisis, euacuata sua materia et casa, penitus ab eo tolleretur,
+                        et etiam sitis cum ea.Est autem inordinata sitis hydropici, inordinatus
+                        appetitus peccandi, qui in omni quasi peccato insatiabilis invenitur. UndePsalmus. Esurientes, et sitientes, anima eorum
+                        in ipsis defecit. Sed specialiter hec sitis insatiabilis (ut dicitBeda) appropriatur auaris, quia non satiantur oculi
+                        eorum divitiis.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp82688528" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:31:17:645">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:31:18:873">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

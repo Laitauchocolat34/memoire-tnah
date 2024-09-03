@@ -1,0 +1,181 @@
+\begin{lstlisting}[breaklines=true]
+	import os
+	import xml.etree.ElementTree as ET
+	import pandas as pd
+	import re
+	
+	# Définir l'espace de noms TEI
+	TEI_NAMESPACE = 'http://www.tei-c.org/ns/1.0'
+	NS_MAP = {'tei': TEI_NAMESPACE}
+	ET.register_namespace('', TEI_NAMESPACE)  # Enregistrer l'espace de noms par défaut
+	
+	def roman_to_arabic(roman):
+		"""
+		Convertir les chiffres romains en chiffres arabes.
+		"""
+		roman_numerals = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
+		arabic = 0
+		prev_value = 0
+		for char in reversed(roman):
+			value = roman_numerals.get(char, 0)
+			if value < prev_value:
+				arabic -= value
+			else:
+				arabic += value
+			prev_value = value
+		return arabic
+	
+	def extract_numbers_from_text(text, search_term):
+		"""
+		Extraire les numéros à partir du texte en utilisant l'expression régulière spécifiée.
+		Convertir les chiffres romains en chiffres arabes et ajouter 1 au premier numéro.
+		"""
+		numbers = {'numero1': '', 'numero2': ''}
+		match = re.search(search_term, text)
+		if match:
+			num1 = match.group(1) if match.group(1) else ''
+			num2 = match.group(2) if match.group(2) else ''
+	
+			# Convertir le premier numéro en chiffres arabes s'il est en chiffres romains
+			if num1 and re.match(r'^[IVXLCDM]+$', num1):
+				num1_arabic = roman_to_arabic(num1)
+				numbers['numero1'] = str(num1_arabic + 1)  # Ajouter 1 à num1
+			elif num1.isdigit():
+				numbers['numero1'] = str(int(num1) + 1)  # Ajouter 1 à num1 s'il est déjà en chiffres arabes
+			else:
+				numbers['numero1'] = num1
+	
+			numbers['numero2'] = num2
+		return numbers
+	
+	def check_numbers_in_other_file(numbers, other_xml_root, base_xml_id):
+		"""
+		Vérifier si les numéros extraits existent dans le fichier XML autre.
+		Retourner True et l'ID de la première citation correspondante si trouvée, sinon False.
+		"""
+		numero1 = numbers['numero1']
+		numero2 = numbers['numero2']
+		base_xml_url = f"https://thema.huma-num.fr/exempla/{base_xml_id}"
+	
+		for div in other_xml_root.findall('.//tei:div', NS_MAP):
+			xml_id = div.attrib.get('{http://www.w3.org/XML/1998/namespace}id', '')
+			if xml_id:
+				parts = xml_id.split('.')
+				if len(parts) >= 3:
+					div_numero1 = parts[1]
+					div_numero2 = parts[2]
+					if (numero1 == div_numero1 and (not numero2 or numero2 == div_numero2)):
+						first_cit = div.find('.//tei:cit', NS_MAP)
+						if first_cit is not None:
+							cit_id = first_cit.attrib.get('{http://www.w3.org/XML/1998/namespace}id', '')
+							if 'corresp' not in div.attrib:
+								div.set('corresp', base_xml_url)
+							else:
+								div.attrib['corresp'] = base_xml_url
+							return True, cit_id
+			return False, None
+	
+	def add_cit_id_to_file(file_path, cit_id):
+		"""
+		Ajouter un élément <item> avec le cit_id dans la section <list type="links"> d'un fichier XML.
+		"""
+		try:
+			tree = ET.parse(file_path)
+			xml_root = tree.getroot()
+		
+			# Trouver ou créer la section <list type="links">
+			list_links = xml_root.find('.//tei:list[@type="links"]', NS_MAP)
+			if list_links is None:
+				# Créer <list type="links"> si elle n'existe pas
+				source_desc = xml_root.find('.//tei:sourceDesc', NS_MAP)
+				if source_desc is not None:
+					list_links = ET.SubElement(source_desc, '{http://www.tei-c.org/ns/1.0}list')
+					list_links.set('type', 'links')
+		
+			if list_links is not None:
+				# Ajouter le nouvel élément <item>
+				new_item = ET.SubElement(list_links, '{http://www.tei-c.org/ns/1.0}item')
+				new_item.set('type', 'link')
+				new_item.set('corresp', f"http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_naturale_version_sm_trifaria_ed_douai_1624?citid={cit_id}")
+				new_item.text = "SourcEncyMe"
+		
+			# Enregistrer les modifications
+			tree.write(file_path, encoding='utf-8', xml_declaration=True)
+		except (ET.ParseError, Exception) as e:
+			print(f"Erreur lors de la modification du fichier {file_path}: {e}")
+	
+	def search_in_tei_files(directory_path, search_term, other_file_path):
+		"""
+		Rechercher le terme spécifié dans les fichiers TEI XML d'un répertoire et vérifier s'il correspond
+		dans un autre fichier TEI XML.
+		Retourner une liste des paragraphes correspondants avec les détails.
+		"""
+		matching_paragraphs = []
+	
+		# Vérifier si le répertoire existe
+		if not os.path.exists(directory_path):
+			print(f"Le répertoire {directory_path} n'existe pas.")
+			return matching_paragraphs
+	
+		# Charger le contenu du fichier XML autre
+		try:
+			with open(other_file_path, 'r', encoding='utf-8') as f:
+				other_tree = ET.ElementTree(ET.fromstring(f.read()))
+			other_xml_root = other_tree.getroot()
+		except (FileNotFoundError, ET.ParseError, Exception) as e:
+			print(f"Erreur avec le fichier {other_file_path}: {e}")
+			return matching_paragraphs
+	
+	# Parcourir les fichiers dans le répertoire spécifié
+	for root, _, files in os.walk(directory_path):
+		for file_name in files:
+			if file_name.endswith('.xml'):
+				file_path = os.path.join(root, file_name)
+				try:
+					tree = ET.parse(file_path)
+					xml_root = tree.getroot()
+					items = xml_root.findall('.//tei:item[@type="sources"]/tei:p', NS_MAP)
+					base_xml_id = xml_root.attrib.get('{http://www.w3.org/XML/1998/namespace}id', '')
+	
+					for item in items:
+						if item.text:
+							numbers = extract_numbers_from_text(item.text, search_term) 
+							match, cit_id = check_numbers_in_other_file(numbers, other_xml_root, base_xml_id)
+							if match:
+								matching_paragraphs.append({
+									'file_path': file_path, 
+									'paragraph': item.text.strip(),
+									'numero1': numbers['numero1'],
+									'numero2': numbers['numero2'],
+									'cit_id': cit_id,
+									'base_xml_id': base_xml_id
+								})
+								print(f"Correspondance trouvée :\nFichier : {file_path}\nParagraphe : {item.text.strip()}\nNuméro 1 : {numbers['numero1']}\nNuméro 2 : {numbers['numero2']}\nCIT ID : {cit_id}\nBase XML ID : {base_xml_id}\n")
+								# Ajouter le cit_id au fichier
+								add_cit_id_to_file(file_path, cit_id)
+	
+				except (ET.ParseError, Exception) as e:
+					print(f"Erreur avec le fichier {file_path}: {e}")
+	
+		# Enregistrer le fichier modifié other_file_path
+		other_tree.write(other_file_path, encoding='utf-8', xml_declaration=True)
+	
+		return matching_paragraphs
+	
+	# Exemple d'utilisation :
+	directory_path = 'data'  # Assurez-vous que ce chemin est correct
+	search_term = r'S?s?peculum historiale,? ([IVXLCDM]+|\d+)[.,]?\s*([0-9]+)?'  # Terme à rechercher avec regex
+	other_file_path = 'vincentius_belvacensis-speculum_historiale_version_sm_trifaria_ms_douai_bm_797.xml'  # Chemin vers l'autre fichier XML TEI à vérifier
+	
+	matching_paragraphs = search_in_tei_files(directory_path, search_term, other_file_path)
+	
+	# Créer un DataFrame pandas pour les résultats
+	df = pd.DataFrame(matching_paragraphs)
+	
+	# Exporter les résultats dans un fichier Excel
+	output_file = 'resultats_recherche.xlsx'
+	df.to_excel(output_file, index=False)
+	
+	print(f"Les résultats de la recherche ont été exportés vers {output_file}.")
+	
+\end{lstlisting}

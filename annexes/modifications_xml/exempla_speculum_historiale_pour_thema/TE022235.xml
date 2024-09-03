@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022235" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">56</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Helynandus] [ad amicum lapsum]Vis ergo
+                        extinguere libidinem? Pone inimicicias inter te et mulierem, sufficiat tibi
+                        deceptam a serpente, te hactenus decepisse. Noli dare sanguisuge sanguinem
+                        ad suggendum, sed avelle eam a cute, velit nolit etiam semiplenam. Vis
+                        extinguere libidinem? Amove ligna ab igne, et subsidet incendium. Que sunt,
+                        inquis, ligna que sunt inquis ligna_ que non sunt struenda in ignem huius
+                        hominis rixosi? Innumerabilia enim sunt, pauca tamen ex eis in quibus et
+                        cetera possis recognoscere dinumerabo. Ista sunt ergo.Ocia, segnicies, sompnus, caro, femina, vinum,Prosperitas, ludus, carmina, forma, puer. De primo habes:Ocia corpus alunt, animus quoque pascitur illis.EtLucanus:Variam dant ocia mentem.Et quidam de nostris: In desideriis est omnis ociosus. Et regula illa
+                        benedicta ait: Ociositas inimica est anime. Et quidam de patribus: Numquam
+                        inveniat te dyabolus ociosum. De secundo habes:QueriturEgistusquare sit factus adulter.Impromptu causa est, desidiosus erat.De tertio est illud apudCathonisethicam.Plus vigila semper, ne sompno deditus esto.Nam diuturna quies vitiis alimenta ministrat.Denique illa duo prima semper illudtertium comitantur. Nemo enim potest esse sompnolentus, quin sit et
+                        ociosus et desidiosus. De quarto ait apostolus: Bonum est non manducare
+                        carnem, et caro non prodest quicquam. De quinto quia infinita suntexempla,sufficiat ponere solam mulieris
+                        ethimologiam: Mulier, inquitVarro, dicitur a mollitie quasi
+                        mollier. Istud mollier intelligendum est dupliciter, id est active et
+                        passive, tanquam si diceretur mollibilis, id est facilis ad molliendum, ut
+                        et cito molliat et cito molliatur. Nolo autem te ignorare quod malleus
+                        similiter dicitur a molliendo, eo quod ferrum molliat. Ferreas mentes,
+                           aitIeronimus, ipsa libido domat. EtClaudianus:Ferrea lascivis molescunt corda sagittis.Vides ergo quomodo conveniant rationes ethimologiarum cum rationibus
+                        naturarum. Quid non mollit malleus? Quem non mollit mulier? igitur mulier
+                        est malleus. Vere ipsa est malleus universe terre, per quem dyabolus et
+                        mollit et malleat universum mundum. Quomodo non cavisti tibi ab hoc malleo?
+                        Nonne ille est malleus qui tui massam corporis usque ad plumbeas laminas
+                        exterminavit, immo etiam qui assidue cudendo super te suam de te fecit
+                        incudem? Si ergo vis fugere ab hoc malleo, exi de fornace
+                           ferreaBabilonis, nisi forte, quod absit, huius tam magni et
+                        tam gravis mallei tunsiones assiduas non formidas, qui contra proprietates
+                        aliorum malleorum nichil glutinare potest, solidare nichil novit, sed cuncta
+                        confringit, omnia comminuit, dissolvit universa. Redi ergo, redi ad crucem
+                        domini baiulandam, et noli partem tuam ponere cumPilato, qui
+                        malleator interpretatur.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698327183" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:50:38:516">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:50:40:509">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021723" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">9</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Tertio declarat hanc similitudinem ignis mysterium, quod est ad
+                        purgationem : nam igne purgantur metalla, immo etiam peccata, scilicet in
+                        purgatorii igne, undeNu.Quod potest transire
+                        per flammas ignis purgat metalla, sic abstinentia peccata. UndeAugustinusdicit, quod ieiunium purgat mentem,
+                        sublevat animum carnem spiritui subiicit, et cor contritum et humiliatum
+                        facit. Que omnia manifesta sunt satisexemploNinivitarum. Est etiam mysterium ad vindictam malefactorum, non solum in
+                        mundo isto, sed etiam in inferno.Ecclesiasticus.
+                        Humilia valde spiritum tuum, quoniam vindicta carnis impii ignis. Quod etiam
+                        abstinentie competit, per quam et spiritus humiliatur secundum illudPsa.Humiliabam in ieiunio animam meam. Et carnalis
+                        delectatio impii vindicatur, quia penitentia abstinentie vindicat
+                        delectationem gule et luxurie. Unde et ieiunium ponitur pars satisfactionis,
+                        quia homo per abstinentiam, libidinem peccati preteriti, per subtractionem
+                        delectationis recompensat : afflictionem etiam addens, et futura peccata
+                        impedit, concupiscentiam debilitans. Et hoc ad rationem pertinet
+                        satisfactionis : quia (sicut dicitAugustinus)
+                        satisfactio est peccatorum causas excidere, et eorum suggestionibus
+                        consensum non prebere.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp61294368" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:50:46:326">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:50:47:430">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021755" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">41</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Tertio, quia aurora est roris infusiva : undedicituraurora quasi aura rorans. Ita Beata VirgoMariadivine gratie rorem nobis abundanter
+                        infundit. Quodsignificatum estin luctaIacobcum angelo. Nam cum ei dixisset angelus
+                        Dimitte me, quia aurora est : Respondit. Non te dimittam, nisi benedixeris
+                        mihi, et postea sequitur : quia benedixit ei in eodem loco. Hec enim est
+                        benedictio de quadicitur: in rore celi desuper
+                        erit benedictio tua. Et hic est ros superne gratie, quem nobis hec aurora
+                        infundit. Et iste ros aurore est decorativus, et refrigerativus, et
+                        dulcorativus. Decorativus quia dicitur, quod conche marine (ut supra tactum est) in aurora se aperiunt, et
+                        rorem suscipientes margaritas concipiunt, que scilicet in ornamentis
+                        ponuntur. Et sic anime devote, dum se isti aurore, id est beate Virgini per
+                        effectum devotionis aperiunt, rorem gratie superne suscipiunt, per quam
+                        margaritas candidas id est affectiones purissimas concipiunt, que sunt anime
+                        ornamenta. Et ideo isti aurore dicitur Ros lucis ros tuus id est affectiones
+                        tu generas lucidas, et mundas.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp99590432" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:54:48:201">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:54:49:269">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

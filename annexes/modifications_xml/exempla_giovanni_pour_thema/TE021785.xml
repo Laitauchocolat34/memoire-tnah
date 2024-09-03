@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021785" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">71</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Quartus modus est vaporis albi, qui egreditur in flamma sicca non
+                        coadunata, et ideo spargitur aere, sed tamen egreditur magno impetu propter
+                        nubem profundam in qua est, que est aquosa multum et ideo scindit, et
+                        scindendo extinguitur ita quod ea que scindit videntur alba, et non apparent
+                        in eis signa combustionis : et quandoque interficit quando est bene fortis
+                        impulsus, et quandoque propter suam disgregationem percutit in loco uno, et
+                        non ledit socium iuxta eum stantem, sed percutit eum qui stat remote :
+                        quandoque etiam reflexus a pariete uno progreditur ad alium et percutit
+                        illum. Et huic assimilatur superbia eorum qui quanquam videntur albi, id est
+                        mansueti et pacifici, tamen habent spiritum in naribus latentem, et ideo
+                        quandocunque reputant se inhonoratos subito accenduntur, et cum magno valde
+                        impetu prosiliunt ad nocendum, et quandoque ad occidendum cum fortiori ira
+                        impelluntur : et quia ira tollit eis discretionem, quandoque non
+                        discernentes quod faciunt, modo prosiliunt ad ledendum unum, modo alium, et
+                        quandoque talem qui est ab offendente remotus, et sine culpa. Sed quandoque
+                        talium ira cito post factum extinguitur, dolent de eo quod fecerunt. Sed
+                        notandum est, quod aliquando talis vapor fulminis tam debilis est, quod
+                        pertingens et hominem, consumit vestem, vel aliquod huiusmodi, et
+                        extinguitur, et cessat eius violentia, et non ledit. Sicut ego vidi quendam
+                        in terra originis mee, scilicet in CastroSancti
+                           Geminiani, quod est in partibus.Tuscieprope civitatemFlorentiead viginti miliaria, qui
+                        de seipso referebat, quod fulmine tonitrui, subito percussus in terram
+                        corruit stupidus, et cum post longam moram ad seipsum redisset lumbare
+                        bracharum suarum, quod scilicet de corio fuerat totaliter consumptum sive
+                        exustum reperit, carne vero sua vel corpore, nullam lesionem invenit. Cuiusegorationem vel causam existimo extitisse,
+                        quia vapor ille fulmineus propter debilitatem sue adustionis alteravit
+                        quidem siccum quod sibi prius occurrit, scilicet ipsum corium ; humidum
+                        autem post ipsum inventum, ut erat caro vel sanguis, non fuit sufficiens vel
+                        potens alterare, nisi forte quod pilos circunstantes insensibiliter
+                        incendit, quia pili sunt valde inflammabiles. Huic ergo vapori debili
+                        assimilatur eorum superbia, qui sicut cito indignantur, ita cito
+                        revocantur : et ideo ex eorum indignatione vel elatione parva, vel nulla
+                        danna sequuntur. SicDavidprovocatus contraNabal Carmeli, cum cogitasset eum
+                        extinguere, et non delinquere ex eius familia usque ad mingentem ad
+                        parietem, per uxorem eiusAbigailsubito est
+                        placatus, ita quod nullum damnum eidem postea fecit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp_de_exemplis.1.75.cit23" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:58:38:013">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:58:39:641">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021718" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">4</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Scriptum est enimGenesiquod vocavit Deus
+                        aridam terram : hec imbrem celestem bibit, quia celestis gratie
+                        confortatione pinguescit.Isaias. Descendit imber
+                        et nix de celo, et inebriavit terram. Sed tunc herbam oportunam producit,
+                        cum immeritorio opere spiritui subseruit, ex quo a Deo benedictionem
+                        accipit, quia retributionem eterni premii similiter cum ipso spiritu
+                        finaliter habebit. Ergo nostri cordis terra tunc est perfecte disposita, cum
+                        arescit ex abstinentia, humescit celesti gratia, fructescit per bona opera.
+                        Ex primo vocatur arida, eo scilicet quod ab aqua siccitate propria sit
+                        distincta, quod est quando caro ipsa ab aquis delitiarum separatur, et
+                        abstinentie tenuitare siccatur. Sen ex secundo vacatur humus a mari humido,
+                        cui terra coniungitur, quod est sive quando corpus nostrum celestis gratie
+                        particeps efficitur, sive cum lachrymis irrigatur. Ex tertio vocatur tellus,
+                        quia tollimus fructus eius. Et hoc quando corpus laborat in bonis operibus.
+                        Item patet exemplo terre, quod abstinentia a cibi tollit tentationes carnis,
+                        quia quando pre siccitate nimia terra efficitur sicut puluis, tunc temporis
+                        ventus non surgit, eo quod vapor tunc non habeat continuans humidum, et sine
+                        continuatione elevari non potest. Sed quando pre abstinentia valida terra
+                        siccatur corporis (humore deficiente concupiscentie carnalis) fit puluis, id
+                        est, mortificatio humilitatis, et cessat ventus, id est, impulsus libidinose
+                        tentationis. Tertiumexemplumabstinentie apparet
+                        in elemento aque : Nam legitur quod cocodrillus qui in aqua oculos hebetes
+                        habet, extra aquam acute videt. Ex quo exemplo accipitur, quod aque
+                        delitiarum hebetant oculos mentium. Sed extractum ab aquis, id est,
+                        abstinentia a delitiis, ad contemplandum spiritualia acuit visum
+                        mentis.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp121966224" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:50:09:328">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:50:10:680">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

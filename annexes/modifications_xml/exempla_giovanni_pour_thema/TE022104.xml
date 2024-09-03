@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022104" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">390</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item sacramentorum iniuria, vel irreuerentia, est valde periculosa: et
+                        hoc patet perexemplumin baptismo, cuius
+                        iteratio, quia esset iniuria sacramenti, de conse. dist. 2. §. fi. magna
+                        pena punitur: Nam pena iterantis baptismum, secundum l. est ultimum
+                        supplicium. C. ne sanctum baptisma rei. l. 2. Sed ei qui sanctum baptisma.
+                        geminat, pena depositionis imponitur, tanquam indigno sacerdotio. C. eo
+                        titu. l. 1. Illi autem qui sponte, vel conditionaliter coacti, promoueri non
+                        possunt. Et idem intellige si ignoranter, et postea cum scierunt ratum
+                        habuerunt. Item si ab hereticis scienter. 50. dis. confirmandum. 1. quest.
+                        1. c. ventum. in fin, et q. 7. c. Qui in qualibet, et c. convenientibus. In
+                        habitu tamen clericali debent isti vivere, et sic retinebunt priuilegium
+                        clericale 81. dist. c. dictum de conse. dist. 5. ca. dictum est. Qui autem
+                        ignoranter sunt baptizari, sicut frequenter fit de infantibus, vel coacti
+                        absolutem, possunt promoueri, secundum quosdam de iure, secundum alios, quod
+                        tutius est, de dispensatione Episcopi. 1. quest. 4. c. placuit, de utrisque
+                        habetur de conser. d. 4. c. qui bis, ubi dicitur, quod si ignoranter sit
+                        aliquis baptizatus, non indiget penitentia, sed tamen est irregularis, et
+                        promoueri non potest; sed illud dictum fuit olim in odium rebaprizantium, et
+                        de rigore magno, vel loquitur de ignorantia iuris que non excusat in
+                        talibus, et quod dictum est de rebaptizato, idem et de reconfirmato, argum.
+                        68. distinctione. c. 1. de conse. dist. v. c. dictum.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp61129120" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:45:52:410">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:45:54:013">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

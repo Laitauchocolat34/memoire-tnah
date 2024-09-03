@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022019" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">305</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item peccatum assimilatur epilentie propter tria: primo, quia in
+                        epilentia (secundumAvicennam) est sensus et motus
+                        priuatio, que tamen priuatio sensus et motus; fit non totaliter, sed in
+                        parte. Et est ratio, quia materia que est causa epilentie, in interiori
+                        ventriculo cerebri facit oppilationem non completam, et ideo impedit
+                        transitum virtutom sensus, et motus in membris integre fieri, non tamen
+                        totaliter intersecando. Similiter peccatum tollit quidem peccatori sensum,
+                        id est, discretionem boni et mali, scilicet prudentiam, sed non totaliter,
+                        quia licet tollat ei prudentiam et sapientiam spiritualem, secundumillud. Gens sine consilio est, et sine prudentia:
+                        non tamen tollit prudentiam secularem, vel astutiam naturalem, sive
+                        experimentalem, immo in huiusmodi sensu magis vigent peccatores quam iusti,
+                        secundumillud. Filii huius seculi prudentiores
+                        filiis lucis sunt in generatione sua. Unde facit diabolus peccatoribus, quod
+                        voluit facereNaas AmonitesvirisIabes Galaad, quia petiuit eruere oculos eorum
+                        dextros, non curans relinquere sinistros: quasi enim dexter oculus est
+                        prudentia spiritualis, sed quasi sinister, est prudentia sive astutia
+                           secularis.Apostolus. Cecitas ex parte
+                        contingit inIsrael. Similiter tollit peccatum
+                        motum boni operis, sed non totaliter; quia licet quoad meritum, non tamen
+                        quoad exercitium. Quia etiam multi peccatores faciunt plurima opera de
+                        genere bonorum, sicut eleemosynas et huiusmodi, que licet in peccato facta
+                        non valent quoad vitam eternam; tamen valent ad euadendum flagella
+                        temporalia, et disponunt etiam ad penitentiam, et ad plura alia.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp82704144" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:31:46:030">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:31:47:345">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

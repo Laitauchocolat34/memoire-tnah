@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022113" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">399</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Quidam tamen aliter faciunt, quia in ipsis uvis immittunt aquam,
+                        commiscentes ad futurum mustum tertiam partem; post conculcatis uvis mustum
+                        coquunt tantum, ut eius consummatur tertia pars. Aqua itaque pluuialis, est
+                        gratia celestis, cuius decoctio fit in feruore contritionis, cuius mixtio
+                        debet esse cum musto sive uva lachrymose compunctionis, de quo inPsalm.Potasti nos vino compunctionis; sed decima
+                        pars refertur ad obedientiam decalogi, id est, mandatorum divine legis. Ubi
+                        enim ista adsunt, scilicet admixtio gratie, feruor penitentie, compunctio
+                        lachryme, subiectio obedientie, mutatur vinum acerbum, id est amor mundi,
+                        vel mustum corruptum id est amor carnalis, in vinum, id est, in amorem
+                        divinum dulcissimum et purissimum. Et hocpatetin conuersioneMattheipublicani, etMarie Magdalene. Vel tertia pars aque, id est,
+                        penitentie, assumitur in restitutione, et calcantur uve in confessione, quia
+                        tunc exprimitur vinum, id est, manifestatur peccatum; sed decoquitur mustum
+                        cum aqua in assidua compunctione, et sic amor mundi, vel peccati,
+                        convertitur in amorem Dei.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp_de_exemplis.9.2.cit4" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:47:22:285">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:47:23:277">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

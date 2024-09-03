@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021735" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">21</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Tertio aer immutatur ex situ loci, quia in terra vicina mari
+                        septentrionali aer frigidus est, ex vapore frigido a mari resoluto, unde ibi
+                        est calor debilis, propter quod illud mare parum salsescit, et ideo ponticum
+                        mare est quasi dulce. In mari autem australi est contrarium ex contraria
+                        causa. Mare autem septentrionale vitam peccatorum signat, que mare propter
+                        inquietudinem dicitur. Septentrionale autem a septem stellis frigidus
+                        arcturi que ibi presunt, id est, a septem vitiis capitalibus que in
+                        peccatoribus dominantur, ibi est aer, id est, anima frigida frigore peccati
+                        et malitie. Ubi etiam deficit aqua salsa sive amara presentie, et abundat
+                        aqua dulcis carnalis concupiscentie. Econtra autem in australi, id est, in
+                        conversione penitentie de qua inPsalm.dicitur :
+                        Convertere Domine captinitatem nostram sicut torrens in austro : consurgit
+                        vapor contritionis calidus per fervorem humilem, per lachrymarum
+                        compunctionem, ex quo fit aer calidus, id est, anima fervens etiam in amore.
+                        Item anima in vita ista tanto plus sentit de mundi amaritudine, quanto plus
+                        habet de terrena affectione ; et econtra, tanto plus percipit de celesti
+                        dulcedine, quanto plus est purgata a terreno amore, et magis assidua in
+                        contemplatione. Cuiusexemplumest, quod aqua
+                        marina, que mixta est grosso terreo combusto, amara est, sive salsa. Sed
+                        aqua dulcis est mixta aereo et purgat a puluere terreno.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp122301200" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:52:15:843">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:52:17:050">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021948" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">234</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item bonitas et malitia moris sequitur in hominibus ex bonitate et
+                        malitia voluntatis, sicut in brutis provenit ex bonitate, et malitia
+                        complexionis. Nam quod facit in brutis naturalis complexio, hoc in hominibus
+                        facit voluntatis dispositio: propter quod dicitAugustinus, quod voluntas est qua peccatur et recte viuitur, quod
+                        autem mores varientur brutorum secundum varias complexiones eorum, ex multisexemplisapparet: Hinc est enim quod licet
+                        omnibus animalibus insit motiva et sensitiva virtus, tamen secundum magis et
+                        minus. Nam quedam sunt sensus viuacioris, estimationis fortioris, et
+                        sagacitatis subtilioris. Hinc est, quod bos est pigritia plenus, et tardus
+                        ad motum, asinus stolidus, equus ad concupiscentiam pronus, Lupus indomitus,
+                        canis gratificus et fidelis amicus. Et hoc etiam similiter provenit (ut
+                           dicitAristoteles) quod quedam animalia sunt
+                        magne mansuetudinis, ut vacca, et cuis; quedam indomite feritatis, ut
+                        unicornis; quedam magne audacie ut leo; quedam astute fraudationis et multe
+                        malitiositatis, ut lupus et vulpes. Hinc etiam est (utidemdicit) quod quedam animalia diligunt societatem, et turmatim
+                        vadunt, ut cerui, onagri, et cameli, et huiusmodi. Et quedam societatem
+                        fugiunt sicut illa que de rapina viuunt.Avicennaautem dicit, quod inter omnia animalia homo non potest vivere
+                        solus, et grues, formice, et apes in hoc cum homine concordant. Omnes ergo
+                        huiusmodi mores, qui insunt diversimode brutis, ex diversitate complexionis
+                        competunt, et suo modo hominibus, ex diversa dispositione voluntatis: Dicunt
+                        enim primo omnibus hominibus inesse communiter sensus discretionis, et motus
+                        boni operis; prelati et maiores debent esse sensus id est agno minis
+                        viuacioris, respectu Dei, estimationis fortioris et verioris, respectu sui,
+                        et sagacitatis maioris, respectu proximi, vel debet esse in eis sensus
+                        excellens in contemplatione divinorum, estimatio venemens in prouisione
+                        futurorum, et sagacitas prudens in gubernatione subiectorum, vel sensus
+                        quantum ad expositionem Scripturarum, estimatio quantum ad distributionem
+                        eleemosynarum, sagacitas quantum ad correptionem culparum.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp123672848" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:20:44:904">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:20:46:352">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

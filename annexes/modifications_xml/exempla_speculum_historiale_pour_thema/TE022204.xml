@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022204" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">25</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Sulpicius Severus] [Ex II libro]Per idem fere
+                           tempusMartinoaTreverisrevertenti fit obviam
+                        vacca quam demon agitabat, que relicto grege suo in homines ferebatur, et
+                        iam multos noxie petulca confoderat. Verum ubi nobis cepit esse contigua,
+                        hii qui eam enimus sequebantur, predicere magna voce ceperunt ut caveremus.
+                        Sed postquam ad nos torvis furibunda luminibus propius
+                           accessit,Martinuselevata protinus obviam manu, pecudem
+                        consistere iube. Quo mox ad verbum illius stare cepit immobilis. Cum interea
+                           videtMartinusdorso illius demonem supersedentem, quem
+                        increpans: Descende inquid funeste, de pecude, et innoxium animal agitare
+                        desiste. Paruit nequam spiritus et recessit. Nec defuit sensus in vacula,
+                        quin se intelligeret liberatam, ante eius pedes recepta quiete prosternitur.
+                        Deinde iubenteMartino, gregem suum petit, seque agmini
+                        ceterarum ove placidior immiscuit. Hoc illud fuit tempus quo inter medias
+                        flammas positus, non sensit incendium. Quodam autem tempore dum dyoceses
+                        circuiret, venantium agmen incurrimus, canes leporem sentiebantur, iamque
+                        multo spacio victa bestiola, cum undique campis late patentibus nullum esset
+                        effugium, mortem imminentem iam iamque capienda crebris flexibus differebat,
+                        cuius periculum vir beatus pia mente miseratus, imperat canibus desistere
+                        sequi, ut sinerent abire fugientem, qui continuo ad primum sermonis imperium
+                        constiterunt. Crederes victos immo potius affixos in suis inherere
+                        vestigiis. Ita lepusculus persecutoribus alligatis incolumis evasit. Opere
+                        precium autem est etiam familiaria illius verba spirituali sale condita,
+                        memorare. Ovem recenter tonsam forte conspexerat: Evangelicum inquit
+                        mandatum ista conplevit, duas habens tunicas, largita est non habenti. Ita
+                        ergo et vos facere debetis. Item cum subulcum algentem, et pene nudum in
+                        pellicea veste vidisset: En inquitAdameiectus de paradyso in
+                        veste pellica sues pascit, sed nos illo vetere deposito, qui adhuc in isto
+                        manet, novumAdampotius induamus. Illud
+                        veroSulpicimeminisse te credo, quo affectu nobiscum et tu coram
+                        nobis adesses, illam virginem predicaret, que ita se penitus ab omnium
+                        virorum oculis removisset, ut ne ipsum quidem ad seMartinumcum
+                        causa ille officii eam visitare vellet admiserit. Ergo cum haut longe ab
+                        illa villula nos manere nox imminens coegisset, exennium beato viro eadem
+                        illa virgo transmisit, fecitqueMartinusquod ante non fecerat.
+                        Nullius enim ille unquam exennium, nullius munus accepit. Nichil ex hiis que
+                        virgo venerabilis miserat, refutavit, dicens benedictionem illius a
+                        sacerdote minime respuendam, que esset multis sacerdotibus preferenda.
+                        Audiant queso virgines istudexemplum,ut fores
+                        suas si eas mali obsidere voluerint, etiam bonis claudant. In eius viri
+                        conspectum puella non venit, quem videre salus videntium fuit. Quis autem
+                        hoc alius preterMartinumsacerdos, non ad suam iniuriam
+                        retulisset? Verum ego ita virtutem huius virginis predicabo, ut tamen nichil
+                        illis, que adMartinumvidendum ex longinquis regionibus sepe
+                        venerunt, arbiter derogandum, siquidem hoc beatum virum frequenter affectu,
+                        etiam angeli frequentarunt.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698145060" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:46:08:954">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:46:11:246">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

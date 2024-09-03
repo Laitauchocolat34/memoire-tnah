@@ -1,0 +1,213 @@
+\begin{lstlisting}[breaklines=true]
+	from pathlib import Path
+	from lxml import etree
+	import re
+	
+	p = Path('../data')
+	exempla_variable = list(p.glob('TC*/*.xml'))
+	# print(exempla_variable)
+	
+	def roman_to_arabic(roman):
+	"""takes roman numbers (param roman) and returns arabic numbers"""
+	roman_numerals = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
+	arabic = 0
+	prev_value = 0
+	for numeral in reversed(roman):  # reversed affiche une variable dans le sens inverse.
+	value = roman_numerals[numeral]
+	if value < prev_value:
+	arabic -= value
+	else:
+	arabic += value
+	prev_value = value
+	return arabic
+	
+	def lettre_en_numero(lettre):
+	"""takes letter and returns its numeral position (a = 1, b = 2, etc)"""
+	lettre = lettre.lower()
+	if lettre.isalpha() and len(lettre) == 1:
+	return ord(lettre) - ord('a') + 1 # Passe par la table unicode. A partir de "a" (97) définit le numéro des autres lettres de l'alphabet
+	else:
+	return -1
+	
+	def bis_to_two(texte):
+	""" takes "bis" and return "2" """
+	if texte.lower() == "bis":
+	return "2"
+	
+	
+	
+	# Définir une liste de tuples contenant chaque regex et le traitement associé
+	regex_patterns_and_handlers = [
+	
+	#### Sample : IV, 25 [82] == 82-1
+	(r"^\d+[\.,\(\(] ?[\dA-Za-z]+$", lambda match: match[0].replace(' ', '').replace('.', '-').replace(',', '-')),
+	
+	#### Sample : 175b == 175-2
+	(r"^(\d+)([A-Za-z])?$", lambda match: f"{match.group(1)}-1" if not match.group(2) else f"{match.group(1)}-{lettre_en_numero(match.group(2))}"),
+	
+	# 
+	(r"^\s*\d+(\.)?\s*$", lambda match: match[0].replace(' ', '').replace('.','')),
+	
+	#### Sample : XV, 15 == 15-15
+	(r"^([IVXLCDM]+) ?,?\s*(\d+(,\s*\d+)*)?\,?$", lambda match: f"{roman_to_arabic(match[1].replace(',', '-').replace(' ', ''))}-{match[2].replace(', ', '-') if match[2] else ''}"),
+	
+	#### Sample : [52] == 52 
+	(r"\[(\d+)([A-Za-z])?\]", lambda match: f"{match.group(1)}-{lettre_en_numero(match.group(2)) if match.group(2) else '1'}"), 
+	
+	#### Sample : 1, 2, 3 == 1-2-3
+	(r"^\d+(\.\d+)?(,\s*\d+(\.\d+)?)*$", lambda match: re.sub(r'\s*,\s*', '-', match[0])),
+	
+	#### The Llanthony Stories : 25 == 25. The Llanthony Stories
+	(r"The Llanthony Stories : (\d+)$", lambda match: match.group(1)), 
+	
+	#### 720, 1-8 == 720. Ci nous dit
+	(r"(\d+)([A-Za-z])?, ?\d+-\d+", lambda match: f"{match.group(1)}-{lettre_en_numero(match.group(2)) if match.group(2) else '1'}"),
+	
+	#### Paris, BnF lat. 16481, Sermo 12, 2' == 12-2. Paris, BnF lat 16481-16482
+	(r"Paris, BnF lat\. (16481|16482), Sermo [A-Za-z]?(\d+)(?:, (\d+))?", lambda match: f"{match.group(2)}-{match.group(3) if match.group(3) else ''}"),
+	
+	####  Sample : F13 == 1-13. Fabulae et parabolae
+	(r"^(F|P|CS|CT)(\d+)([A-Za-z])?", lambda match: f"{1 if match.group(1) == 'F' else (2 if match.group(1) == 'P' else (3 if match.group(1) == 'CS' else 4))}-{match.group(2)}-1" if match.group(3) else f"{1 if match.group(1) == 'F' else (2 if match.group(1) == 'P' else (3 if match.group(1) == 'CS' else 4))}-{match.group(2)}"),
+	
+	#### Sample : I, 3 Exemplum 12 (Collet) == 12. Livre du jeu d'échecs
+	(r"Exemplum ?(.)? (\d+)\.? ? ?\( ?C?c?ollet\)", lambda match: match.group(2)),
+	
+	#### Sample : n°1 == 1 
+	(r"^n° ?(\d+)$", lambda match: match.group(1)), # "n°1"
+	
+	# Sample : None = None 
+	(r"^(None)$", lambda match: match.group(1)), # Les cas de valeurs vide "None"
+	
+	##### Sample : RMEx_0126b = 0126-2. Érdy Codex
+	(r"RMEx_(\d+)([a-zA-Z])?", lambda match: f"{match.group(1)}-{lettre_en_numero(match.group(2))}" if match.group(2) else match.group(1)), # "RMEx_0126b
+	
+	#### Sample : 5 (1) == 5-1. Dits de Jehan de Saint-Quentin
+	(r"^(\d+) ?\((\d+)\)\.?$", lambda match: f"{match.group(1)}-{match.group(2)}"), # 5 (1)
+	
+	# Sample : Le dit de la bourjosse de Romme, p. 39-46 == 4. 
+	(r"^([A-Za-z])\.?\,? (L?D?)", lambda match: str(lettre_en_numero(match.group(1)))), 
+	
+	#### Sample : Parabole 15B = '15-2. Parabolaire
+	(r"^Parabole (\d+)([A-Za-z])?$", lambda match: f"{match.group(1)}-{lettre_en_numero(match.group(2))}" if match.group(2) else match.group(1)),
+	
+	# Sample : exemple 49, p. 30 du texte hébreu == 49-1. Sefer Hamaassiyot
+	(r"^exemple ?(\d+)([A-Za-z])?(.*)?du texte hébreu?(\))?", lambda match: f"{match.group(1)}-{lettre_en_numero(match.group(2)) if match.group(2) else '1'}"), 
+	
+	#### Sample : strophes 285-290 == 285. Libro de buen amor 
+	(r"strophes (\d+)-(\d+)", lambda match: match.group(1)),
+	
+	# Sample : XVI. Exemplum de tonellis olei == 16. Disciplina clericalis
+	(r"^([IVXLCDM]+)(\.)? Exemplum de", lambda match: f"{roman_to_arabic(match.group(1))}"), 
+	
+	# Sample : fol. 4, n° 1 = 1. British Library, Add. 27909B
+	(r"^fol\. (\d+)([A-Za-z])?,?\.?-?(\d+)?([A-Za-z])?\,? n° (\d+)([A-Za-z])?", lambda match: f"{match.group(5)}-{lettre_en_numero(match.group(6)) if match.group(6) else '1'}" if match.group(6) else match.group(5)),
+	
+	#### Sample : OS013_E06 == 013-06. Sermones de sanctis Biga salutis intitulati
+	(r"^OS(\d+)_E(\d+)$", lambda match: f"{match.group(1)}-{match.group(2)}"), 
+	
+	# Sample : CPS-H 8 = 2-8
+	(r"^(?!CPS-H\s)(\d+)([a-zA-Z])?,\s*pp?\.?\s*(\d+)(?:-(\d+))?", lambda match: f"1-{match.group(1)}-{lettre_en_numero(match.group(2)) if match.group(2) else '1'}" if match.group(4) else f"{match.group(1)}" if not match.group(3) else f"{match.group(1)}-{match.group(3)}" if match.group(4) else f"{match.group(1)}" if not match.group(3) else f"{match.group(1)}-{lettre_en_numero(match.group(2)) if match.group(2) else ''}"), # Collectaneum
+	
+	# Sample : 65 [b] == 65-2
+	(r"^(\d+)\s*(?:\[|\s+)([A-Za-z])\]?$", lambda match: f"{match.group(1)}-{lettre_en_numero(match.group(2))}"), # 65 [b]
+	
+	# Sample : Lettre 112, p. 276, l. 9 – p. 277, l. 8' == 112-276-9
+	(r"^Lettre (\d+), p\. ?(\d+), l?L?\. (\d+)(?: –?-? p\. (\d+), l\. (\d+))?", lambda match: f"{match.group(1)}-{match.group(2)}-{match.group(3)}"),
+	
+	# Sample : Livre II, chapitre 28, col. 572 C = 2-28-572
+	(r"^Livre (I{1,3}), chapitre (\d+), col\. (\d+)(?:\s+[A-Z]\s*(?:-\s*[A-Z])?)?$", lambda match: f"{roman_to_arabic(match.group(1))}-{match.group(2)}-{match.group(3)}"),
+	
+	# Sample : Livre I, chapitre 26, col. 537 B - 538 A == 1-26-537
+	(r"^Livre (I{1,3}), chapitre (\d+), col\. (\d+) [A-Za-z] - (\d+) [A-Za-z]", lambda match: f"{roman_to_arabic(match.group(1))}-{match.group(2)}-{match.group(3)}"),
+	
+	# Sample : Predicazione della quaresima 1425 (Firenze S. Croce, 4 febbraio-8 aprile), XXXIX, 1. == 1425-39-1
+	(r"^.* (\d{4}) \(Firenze S\. Croce\, \d+ febbraio\-\d+ aprile\), ([IVXLCDM]+), (\d+)\.$", lambda match: f"{match.group(1)}-{roman_to_arabic(match.group(2))}-{match.group(3)}"),
+	
+	# Predicazione della quaresima 1424 (Firenze, S. Croce, 8 marzo-3 maggio), XXIII, 2. == 1424-23-2
+	(r"^.* (\d{4}) \(Firenze\, S\. Croce\, \d+ marzo\-\d+ maggio\), ([IVXLCDM]+), (\d+)\.$", lambda match: f"{match.group(1)}-{roman_to_arabic(match.group(2))}-{match.group(3)}"),
+	
+	# Sample : Prediche della primavera 1425 (Siena, chiesa di S. Francesco e Piazza del Campo, 20 aprile-10 giugno), VII, 6. == 1426-7-6
+	(r"^.* (\d{4}) \(Siena\, chiesa di S\. Francesco e Piazza del Campo\, \d+ aprile\-\d+ giugno\), ([IVXLCDM]+), (\d+)\.$", lambda match: f"{int(match.group(1))+1}-{roman_to_arabic(match.group(2))}-{match.group(3)}"),
+	
+	# Sample : Bernardino da Siena, Prediche volgari sul Campo di Siena 1427 [ed. Delcorno, 1989], XXV, 5. == 1427-25-5
+	(r"^.* (\d{4}) \[ed\. Delcorno\, 1989\], ([IVXLCDM]+), (\d+)\.$", lambda match: f"{match.group(1)}-{roman_to_arabic(match.group(2))}-{match.group(3)}"),
+	
+	# Sample : L’usurier repentant – exemplum ajouté après le chapitre II. 34 == 2-34
+	(r"(distinctio)?(chapitre)?(distinction)? ([IVXLCDM]+)\.?\s?(\d+)?\.?$", lambda match: f"{roman_to_arabic(match.group(4))}-{match.group(5) if match.group(5) else '1'}"),
+	
+	# Sample : LES OEUVRES DE MISERICORDE, 890 == 890
+	(r"LES OEUVRES DE MISERICORDE, (\d+)", lambda match: match.group(1)),
+	
+	# Sample : 273bis == 273-2
+	(r"(\d+) ?(bis)", lambda match: f"{match.group(1)}-{bis_to_two(match.group(2))}"),
+	
+	# sample : Sermones De sanctis, [éd. Maggioni, en cours], 430a - 2 = 430-1-2
+	(r"Sermones De sanctis\, \[éd\. Maggioni, en cours\]\, (\d+)([A-Za-z]) - (\d+)?", lambda match : f"{match.group(1)}-{lettre_en_numero(match.group(2))}-{match.group(3)}"),
+	
+	# Sample : Additiones: 6 == 6
+	(r"Additiones: (\d+)", lambda match: match.group(1)),
+	
+	# Sample App., I, 1 == 1-1
+	(r"App\.\, ([IVXLCDM]+)\, (\d+)", lambda match: f"{roman_to_arabic(match.group(1))}-{match.group(2)}"),
+	
+	# Sample CPS-H 13 == 1-13
+	(r"^CPS-H (\d+)", lambda match: f"2-{match.group(1)}"),
+	
+	# Sample 1, 21, 4b =  1-21-4-2
+	(r"^(\d+), (\d+), (\d+)([A-Za-z])", lambda match: f"{match.group(1)}-{match.group(2)}-{match.group(3)}-{lettre_en_numero(match.group(4))}"),
+	
+	# Opusculum de naturis animalium, c. 9 (f. 8r) == 9-8
+	(r"Opusculum de naturis animalium, c\. (\d+) \(f\. (\d+)[A-Za-z]\)", lambda match: f"{match.group(1)}-{match.group(2)}"),
+	
+	
+	
+	# CORRIGER  
+	(r"^p. ?(\d+)([A-Za-z])?([A-Za-z])? ?-?([A-Za-z])?-? ?([A-Za-z])?-?(\d+)?([A-Za-z])?([A-Za-z])?$", lambda match: '-'.join(filter(None, map(lambda x: str(lettre_en_numero(x)) if x and x.isalpha() else x, match.groups())))), # Les sermone "p. 52b"
+	
+	# Sample : Sermo 67 §19, p. 870 = 67-19-870. Sermons et visite pastorale
+	(r"^Sermo (\d+) § ?(\d+), p\. (\d+(?:-\d+)*)$", lambda match: f"{match.group(1)}-{match.group(2)}-{match.group(3).replace('-', '-')}"),
+	]
+	
+	file_namespace = {"tei":"http://www.tei-c.org/ns/1.0"}
+	
+	# Pour calculer le pourcentage de modificcations réalisé
+	total_titles = 0 
+	unmodified_titles = 0
+	
+	for file in exempla_variable:
+	tree = etree.parse(file)
+	
+	title_index = tree.xpath(".//tei:teiHeader//tei:title/tei:desc[@type='title_index']", namespaces=file_namespace)
+	
+	if len(title_index) > 0:
+	text_title = title_index[0].text
+	original_text_title = text_title  # Stocker la valeur d'origine
+	modified = False  # Variable de contrôle
+	for regex_pattern, handler in regex_patterns_and_handlers:
+	regex = re.compile(regex_pattern)        
+	query = re.search(regex, str(text_title))
+	if query:
+	text_title = handler(query)
+	print(f"++++ '{original_text_title}' ('{query[0]}' = '{text_title}')")
+	modified = True  # Modification effectuée
+	break  # Sortir de la boucle une fois une modification effectuée
+	if not modified:  # Si aucune modification n'a été effectuée
+	print(f"---- '{original_text_title}' (not modified)")
+	unmodified_titles += 1
+	total_titles += 1
+	
+	percentage_unmodified = (unmodified_titles / total_titles) * 100
+	print(f"Percentage of unmodified titles: {percentage_unmodified}%")
+	
+	
+	# title_index[0].attrib['subtype'] =  subtype_text
+	# permet de print la balise
+	# print(etree.tostring(title_index[0]))
+	# result_tree = etree.tostring(tree, encoding='utf-8', xml_declaration=False, doctype="", pretty_print=True)
+	# result_tree = result_tree.decode('utf-8')
+	# print(result_tree)
+	# with open(file, 'w') as writting:
+	#     writting.write(result_tree)
+	# print("Done")
+	
+\end{lstlisting}

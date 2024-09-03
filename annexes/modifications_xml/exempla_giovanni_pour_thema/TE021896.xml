@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021896" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">182</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Flagellum tribulationis, et afflictionis, aliquando etiam terrenos et
+                        lascivos convertit in fructuosas spirituales vitas, quod ostenditur perexemplumin apibus : Dicunt enimexperti, quod apes sepe de boum cadaveribus
+                        generantur. Dum enim vituli occiduntur, carnes verberantur, et sic de
+                        putrefacto cruore vermes generantur, qui receptis alis apes efficiuntur.
+                        Quid autem per boves, vel vitulos, nisi terrenos homines accipimus, et
+                        superbos : Boves enim terram arant, et vituli, sive tauri cervicosi sunt,
+                        sive indomiti sed occiduntur boves, vel vituli, et carnes verberantur, quia
+                        dum tales tribulantur a mundo, vel verberantur in carne, id est, corpore
+                        infirmantur, extinguitur avaritia et superbia iugulatur. Occisi autem vituli
+                        vermes gignunt, quia extincto superbie spiritu, humiles fiunt, qui alis
+                        receptis apes efficiuntur ; quia pennis virtutum ornati, tam in
+                        contemplativa, quam in activa vita perficiuntur. Apes enim, et volando se
+                        sublevant, et aliis mella fructificant, quia videlicet viri sancti, et in
+                        altum per contemplationem ascendunt, et aliis melliflua opera, vel etiam
+                        verba fundunt.Eccles.Brevis in volatilibus est
+                        apis, et initium dulcoris habet fructus illius. Apis brevis est homo
+                        humilis, qui est brevis per humilitatem, volatilis per contemplationem,
+                        dulcorosus et fructuosus, per pietatis subventionem.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120118960" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:13:25:564">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:13:26:683">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

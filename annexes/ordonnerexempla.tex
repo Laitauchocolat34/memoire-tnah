@@ -1,0 +1,120 @@
+\subsection{Code pour vérifier la place des \textit{exempla}}
+
+		\begin{lstlisting}[breaklines=true]
+			xquery version "3.1";
+			
+			declare namespace tei="http://www.tei-c.org/ns/1.0";
+			
+			let $output :=
+			let $collection-uri := "/db/apps/thema/data"
+			
+			let $subcollections := xmldb:get-child-collections($collection-uri)
+			
+			for $rec in $subcollections
+			let $rec-uri := $collection-uri || "/" || $rec
+			order by $rec
+			let $collection := collection($rec-uri)
+			let $exempla :=
+			for $exemplum in $collection/tei:TEI
+			order by $exemplum/@xml:id
+			return $exemplum
+			for $ex at $i in $exempla
+			(:   let $update :=  local:insert-number($ex/@xml:id, $i) :)
+			return
+			"UPDATED collection " || $rec-uri || " exempla ID " || $ex/@xml:id || " has position " || $i || " (" || $ex//tei:titleStmt/tei:title/tei:desc[@type eq "title_index"] || ")"
+			
+			
+			return
+			xmldb:store("/db/apps/thema/data-test", "number_check.txt", string-join($output,"&#10;"))
+		\end{lstlisting}
+
+\subsection{Modification des données posant un problème}
+		
+		\begin{lstlisting}[breaklines=true]
+			xquery version "3.1";
+			
+			declare namespace tei="http://www.tei-c.org/ns/1.0";
+			
+			
+			let $collection-uri := "/db/apps/thema/data"
+			let $subcollections := xmldb:get-child-collections($collection-uri)
+			for $rec in $subcollections
+			let $rec-uri := $collection-uri || "/" || $rec
+			let $collection := collection($rec-uri)
+			let $exempla := $collection/tei:TEI
+			let $sorted-exempla :=
+			if ($rec = "TC0131") then
+			for $exemplum in $exempla
+			let $firstPart := fn:substring-before($exemplum, ',')
+			let $number := local:convert-to-number($firstPart)
+			order by $number ascending
+			return $exemplum
+			else if ($rec = "TC0155" or $rec = "TC0012" or $rec = "TC0013"  or $rec = "TC0016"  or $rec = "TC0105" or $rec = "TC0138" or $rec = "TC0150" or $rec = "TC0014") then
+			for $exemplum in $exempla
+			let $num := local:extract-number(string($exemplum//tei:titleStmt/tei:title/tei:desc[@type eq "title_index"]))
+			order by $num ascending
+			return $exemplum
+			else if ($rec = "TC0142") then
+			for $exemplum in $exempla
+			let $parts := tokenize($exemplum, ',\s*')
+			let $roman := $parts[1]
+			let $arabic := local:roman-to-arabic($roman)
+			let $subParts := subsequence($parts, 2)
+			let $firstSubPart := if (count($subParts) > 0) then local:safe-convert-to-integer($subParts[1]) else ()
+			let $secondSubPart := if (count($subParts) > 1) then local:safe-convert-to-integer($subParts[2]) else ()
+			order by $arabic ascending, $firstSubPart ascending, $secondSubPart ascending
+			return $exemplum
+			else
+			for $exemplum in $exempla
+			order by $exemplum/@xml:id
+			return $exemplum
+			for $ex at $i in $sorted-exempla
+			let $update :=  local:insert-number($ex/@xml:id, $i)
+			return $sorted-exempla
+			
+			
+			
+			
+			
+			
+			declare function local:insert-number($exempla-id as xs:string, $number as xs:integer ) {
+				
+				let $exempla := collection("/db/apps/thema/data")/tei:TEI[@xml:id eq $exempla-id]
+				return
+				update insert attribute { "n" } { $number } into $exempla//tei:titleStmt/tei:title/tei:desc[@type eq "title_index"]
+				
+			};
+			
+			declare function local:convert-to-number($str as xs:string) as xs:string? {
+				if (not($str)) then ()
+				else
+				let $parts := tokenize($str, ",\s*")
+				let $number := $parts[1]
+				let $letter := $parts[2]
+				let $letterValue := if ($letter) then xs:string(codepoints-to-string(string-to-codepoints($letter)) - 96) else ""
+				return if ($letterValue) then concat($number, ",", $letterValue) else $number
+			};
+			
+			declare function local:extract-number($str as xs:string) as xs:integer? {
+				let $match := replace($str, ".*\((\d+)\)$", "$1")
+				return if ($match castable as xs:integer) then xs:integer($match) else ()
+			};
+			
+			declare function local:roman-to-arabic($roman as xs:string) as xs:integer {
+				let $map := map {
+					'I': 1, 'IV': 4, 'V': 5, 'IX': 9, 'X': 10, 'XL': 40, 'L': 50, 'XC': 90, 'C': 100, 'CD': 400, 'D': 500, 'CM': 900, 'M': 1000
+				}
+				let $chars := fn:string-to-codepoints($roman)
+				let $values := for $char in $chars
+				return $map(fn:codepoints-to-string($char))
+				let $total := fn:fold-left($values, 0, function($acc, $current) {
+					if ($acc >= $current) then $acc + $current else $current - $acc
+				})
+				return $total
+			};
+			
+			declare function local:safe-convert-to-integer($str as xs:string) as xs:integer? {
+				let $numericPart := replace($str, "[^\d]", "") (: Supprime tout ce qui n'est pas un chiffre :)
+				return if ($numericPart castable as xs:integer) then xs:integer($numericPart) else ()
+			};
+		\end{lstlisting}

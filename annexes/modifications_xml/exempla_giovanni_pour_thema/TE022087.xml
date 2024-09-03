@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022087" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">373</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item nota, quod lex communis, et regula aliquando pretermittitur licite
+                        ex causis specialibus. Cuiusexemplumest in
+                        iure, ubi ea que sunt regulariter de iure communi pretermittuntur aliquando
+                        licite, sive propter priuilegium, sive propter utilitatem, sive propter
+                        consuetudinem, sive propter honestatem. Nam regulare est, ut ad collegium
+                        cuiuscunque Ecclesie spectet eiectio, et tamen plerunque ex consuetudine,
+                        vel priuilegiis alieni intrant, ut extra de electio. Cum ana. et extra, de
+                        causa possessio. et proprie. c. cum Ecclesia et de postula, c. bone, et
+                        extra de consuetudine, ca. cum dilectus, et extra de iure patronatus, c.
+                        nobis. Vocantur etiam aliquando religiosi ex honestate, non ex debito, ut
+                        22. dist. cap. In nomine Domini. 79. distin. cap. 5. Vocatur etiam populus
+                        non ad eligendum, sed ad consentiendum, ut 79. dist. c. electiones, et cap.
+                        sequent. Vocantur etiam Principes, ut ab oppressionibus defendant, ut 62.
+                        dist. c. principibus. Sic etiam ex specialibus causis quidam antiquorum
+                        Patrum legem Dei communem licite pretermiserunt, sicut Samson seipsum
+                        occidit, Iacob duas vxores simul habuit, Dauid laicus panem sanctum comedit;
+                        que omnia non licebant secundum legem communem.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp61016096" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:43:06:154">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:43:07:241">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

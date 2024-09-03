@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021920" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">206</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item peccator non potest gignere, id est facere opus meritorium nisi
+                        deponat peccatum. Cuiusexemplumest in murenula,
+                        et serpente. Murenula enim (utIsidorusdicit) non
+                        invenitur, nisi feminini sexus : coit autem cum serpente, et ex eo generat
+                        aliam murenulam ; sed (utidemdicit) serpens
+                        venenum deponit antequam cocat cum murenula, sed post coitum suum resumit
+                        venenum : propter quod murenula, nec a serpente leditur, nec generat aliquid
+                        venenosum, vel serpentinum, sed sibi simile natura. Quasi igitur serpens
+                        venenosus est homo peccato infectus ; qui si venenum peccati non deponeret,
+                        murenulam bonam, id est, bonam actionem et meritoriam non gigneret, quia
+                        alias cum matre eius id est, gratia, vel charitate, que mater est omnis boni
+                        operis, coniungere se non posset. Hoc tamen non imitabile, sed detestabile
+                        potius existit, quod post murenule coniunctionem serpens venenum resumit, id
+                        est, post receptionem gratie quis ad peccatum redit.Pet.Canis reversus ad vomitum suum, et sus lota in voluptabro
+                        luti.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120208688" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:16:44:575">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:16:45:678">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022013" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">299</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Impatientia tolerandi, vel sustinendi onera, et grauia, precipue
+                        invenitur in accidiosis, et voluptuosis, et opulentis. Cuiusexemplumest in dolore dorsi: Nam dolor dorsi,
+                        licet possit ex pluribus causari, tamen (secundumAuice.) cause eius precipue sunt tres, quia aliquando accidit
+                        propter frigus complexionis, et phlegmatis crudi, aliquando vero propter
+                        multitudinem coitus, aliquando vero propter repletionem magne vene, que est
+                        supra dorsum. Quia igitur dorso feruntur onera, congrue per dolorem dorsi
+                        impatientia accipitur incommoda et onerosa sustinendi: Nam cui dorsum dolet,
+                        onus sustinere non potest. Sed frigus, quod est huius doloris causa,
+                        refertur ad accidiosos, in quibus refriguit spiritus feruore charitatis
+                        expulso. Unde in corporalibus cibis ea que acida sunt, communiter frigida
+                        sunt. Coitus vero frequentia pertinet ad voluptuosos, qui carnis
+                        delectationes sequuntur, plenitudo autem vene magne pertinet ad diuites
+                        opulentos, qui domos plenas habent temporalibus diuitiis. In his ergo est
+                        dolor dorsi, id est, impatientia, et impotentia grauia tolerandi, quia
+                        accidiosi et pigri, non possunt pati laboriosa, propter defectum caloris
+                        charitatis que facit omnia leuia. Voluptuosi non possunt pati penosa propter
+                        mollitiem carnis, quia est delectabilibus asueta. Sed opulenti diuites non
+                        possunt pati iniuriola, propter elationem mentis quam facit divitiarum
+                        affluentia: Nam divitie sicut dicitPhilosophus,
+                        faciunt homines elatos et contumeliosos.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp77257136" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:30:48:033">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:30:49:472">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

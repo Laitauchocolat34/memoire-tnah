@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021907" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">193</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item lachrymarum aqua animam penitentis nutrit, et in ea ardorem et
+                        estum tentationum, et vitiorum extinguit. Cuius reiexemplumest in animalibus aquaticis, que secundumAvicennamduplici ex causa attrahunt ad se aquam.
+                        Nam quedam eorum sunt, que aquam in ventrem recipiunt, sulum per modum
+                        nutrimenti, et non per viam respirationis, sicut conche marine. Et talibus
+                        assimilantur penitentes, qui ex lachrymarum aqua, quasi quodam nutrimento
+                        pascuntur, secundum illudPsalm.Fuerunt mihi
+                        lachryme mee panes die ac nocte. Super quo verboCassiodorusdicit, quod fletus est cibus animarum, corroboratio
+                        sensuum, absolutio peccatorum, refectio mentium, lavacrum culparum. Sed
+                        quedam animalia aquatica sunt, que aquam recipiunt per modum respirationis,
+                        scilicet attrahendo, et emittendo, scilicet ad eventationem interioris
+                        caloris, ad expellendum superfluum calidum, et talibus affimilantur qui
+                        plorant, ut lachrymarum aqua ardorem tentationis extinguant.Psalmus: Transivimus per ignem ; id est, per
+                        ardorem tentationis ; et per aquam compunctionis, et devotionis, et eduxisti
+                        nos in refrigerium.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120168624" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:14:55:425">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:14:56:419">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

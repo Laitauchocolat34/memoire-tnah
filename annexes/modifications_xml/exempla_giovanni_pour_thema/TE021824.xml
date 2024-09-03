@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021824" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">110</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Filius licet sit a patre, secundum naturam, non tamen debet imitari eius
+                        malitiam ; cuiusexemplumapparet in rosis, que
+                        ex spina dura oriuntur, sed naturam spinarum non sequuntur. Nam spina non
+                        est odorifera, nec pulchra, nec est mollis, sed aspera, nec etiam ad
+                        medicinam reperitur valida. Sed econtrario rosa suo odore olfactum afficit,
+                        suo decore visum pascit, suavitatis mollitie tactum lenit. Sed virtute sua
+                        multi languoribus rosa succurrit. Sed filius si habuit patrem per infamiam
+                        fetentem debet ipse studere, ut habeat famam redolentem. Et si habuit patrem
+                        moribus displicentem, debet ipse studere, ut habeat morum pulchritudinem
+                        complacentem. Item si habuit patrem asperum, et pestilentem, debet ipse
+                        conari, ut habeat conversationem mitem, et lenem. Item si habuit patrem
+                        lingua vulnerantem, debet ipse conari, ut habeat linguam medentem. Unde
+                        patet, quod parentes in eo, quod malo sunt, a filiis sequendi non sunt, nec
+                        etiam diligendi, quia in quantum mali sunt, summo patri contrarii sunt, et
+                        sicut dicitAugu.Amandus est generator, sed
+                        preponendus est creator. EtApost.Patres carnis
+                        habuimus erudiores, et reverebamur eos. Num multo magis obtemperabimus patri
+                        spirituum, et videmus ?</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120698432" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:03:44:104">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:03:45:173">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

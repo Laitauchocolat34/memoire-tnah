@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022207" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">28</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Cassianus] [Ex libro
+                           IIIIo]BeatusIohannesab adolescentia seniori
+                        deserviens, tanta humilitate ut ipsi quoque seni stuporem summum obedientia
+                        eius incuteret, audivit ab eo: Curre inquitIohannes, saxum
+                        illud advolve quamtocius. Qui confestim saxum immane, quod turbe multe
+                        hominum vel movere non possent, applicata nunc cervice, nunc toto pectore,
+                        toto nisu atque conatu provolvere contendebat, ut sudore omnium membrorum
+                        totum infunderet vestimentum, parum metiens impossibilitatem precepti,
+                        simplicitate sincera qua credebat senem tota fide nil possem incassum ac
+                        sine ratione precipere. AbbasMuciusabrenunciare desiderans
+                        mundo, tamdiu pre foribus monasterii excubans perduravit, donec contra omnem
+                        consuetudinem cenobiorum cum filio suo parvulo, qui VIII circiter erat
+                        annorum, ut susciperetur, elicuit. Confestim celle habitatione seiuncti
+                        sunt, ut quemadmodum se iam divitem non esse sciebat, ita etiam patrem se
+                        esse nesciret. Quod ut plenius probaretur, utrum scilicet plus faceret
+                        affectione sanguinis an obedientia, de industria negligebatur parvulus,
+                        pannis potius quam vestimentis indutus, colaphis atque alapis expositus
+                        diversorum, quas plerumque sub obtutibus suis innocenti etiam parvulo gratis
+                        cernebat inferri, ita ut nunquam genas eius nisi lacrimarum sordentibus
+                        vestigiis videret infectas. Porro amore nichilominusChristiet
+                        obedientie virtute, rigida semper atque immobilia patris viscera
+                        permanserunt. Non enim iam reputabat filium suum, quem secum pariter
+                           obtuleratChristo. Cenobii senior ad comprobandam penitus
+                        animi eius constantiam, cum plorare quadam die vidisset infantem, simulans
+                        se adversus eum commotum, precepit patri ut eum iactaret in flumen. Tunc
+                        ille velut a domino sibi esse hoc preceptum, comfestim celeri cursu rapiens
+                        filium ulnis propriis usque ad horam fluminis advexit iactaturus, nisi
+                        procurati de industria fuissent fratres, qui sollicite rippam obsiderent,
+                        proiectumque iam et quodammodo de fluminis alveo parvulum rapuissent.
+                        Revelatum est continuo seniori, hac eum
+                        obedientiaAbrahepatriarche opus implesse.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698156169" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:46:34:018">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:46:35:621">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

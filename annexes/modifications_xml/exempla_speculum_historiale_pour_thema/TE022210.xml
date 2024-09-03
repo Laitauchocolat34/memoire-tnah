@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022210" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">31</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Cassianus] ex libro IIoIn crastino vero a nobis
+                        requisitus, hec ait: Omnium virtutum generatrix, custos, moderatrixque
+                        discretio est. Recolite, id quod nuper vidistis, senem
+                           videlicetHeronem, illusione dyaboli a summis ad yma
+                        deiectum, nam licet annis in eadem heremo commoratus, tanto rigore ieiunium
+                        semper exercuit, et solitudinis secreta sectatus est, ut ab eo
+                        participationem ineundi cum fraternitate convivii, nec veneratio quidem diei
+                        pascalis aliquando potuerit optinere, ne quantulumcumque perceptione parvi
+                        leguminis a suo videretur proposito relaxasse. Qua presumptione deceptus,
+                           angelumSathanevelut angelum lucis suscipiens, eius precepto
+                        obediens ac desponsione eius non dubitans, in profundissimum puteum se
+                        deiecit, magnum scilicet virtutis sue meritum probaturus, cum inde exisset
+                        illesus. De quo cum pene inde exsanguis ingenti fratrum labore fuisset
+                        extractus, vitam die tercia finiturus, quod hiis deterius est, ita in sue
+                        deceptionis obstinatione permansit, ut ei ne experimento quidem mortis sue
+                        persuaderi potuerit, quod demonum calliditate fuisset delusus. Hic igitur
+                        quo pacto, quave ratione post tantos labores ab insidiatore delusus,
+                        gravissimo lapsu corruens, cunctos in hac heremo constitutos, luctuo dolore
+                        percussit, nonne, quia minus discrete, suis diffinitionibus regi, quam
+                        consiliis fratrum et institutis maiorum obedire maluit? Quamobrem pro
+                        laborum tantorum et annorum numerositate qua in heremo perduravit, hac
+                        miseratione ab hiis qui eius compatiebantur exitio, vix ab
+                           abbatePafnutiopotuit optineri, ut non inter biothanatos
+                        reputatus, etiam memoria et oblatione pausantium iudicaretur indignus. Quid
+                        etiam de illo commemorem, qui dum longo tempore in angeli claritate demonem
+                        suscepit, et revelationibus eius innumeris sepe deceptus, etiam per omnes
+                        noctes in cella eius lumen absque illius lucerne prebebat officio. Ad
+                        extremum iubetur a demone, ut deo filium suum, qui cum eo pariter in
+                        monasterio commanebat offerret, ut scilicet hoc
+                           sacrificioAbrahepatriarche meritis equaretur. Parricidium
+                        perfecisset opere, nisi eum videns puer cultrum extra consuetudinem
+                        preparare acuendo, et vincula quibus eum velut oblaturus ad immolandum,
+                        constringere disponebat, inquirere, presagio sceleris futuri perterritus
+                        aufugisset.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698158066" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:47:00:810">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:47:03:273">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

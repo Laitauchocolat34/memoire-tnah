@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021927" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">213</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item penitentibus revertentibus ad Deum maxime demones tendunt laqueos
+                        tentationum ; quod pater perexemplumin turdis.
+                        Nam turdi (sicut dicitAmbrosius) in fine autumni,
+                        et hyemis confinio, quasi exacta estate se referunt , id est, ad nos
+                        redeunt, quibus nos molimur insidias, et diverso genere, nunc infida sepe
+                        decipere nunc visco fallere, nunc laqueis eos captare contendimus. Similiter
+                        penitentibus ad Deum, et ad iustitiam redeuntibus, demones velut homines
+                        turdis diversi generis moliuntur insidias, et nunc eos infida sepe, id est,
+                        tentatione dignitatis et superbie decipere, nunc visco luxurie fallere, nunc
+                        laqueis avaritie eos contendunt capere, propter quod qui ad Deum accedit,
+                        monetur abEccl.Fili accedens ad servitutem Dei,
+                        sta in iustitia, et timore, et prepara animam suam ad tentationem. Militia
+                        enim est vita nostra super terram. Habemus enim tres hostes, scilicet
+                        carnem, mundum, et demonem.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120248496" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:17:43:813">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:17:44:804">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

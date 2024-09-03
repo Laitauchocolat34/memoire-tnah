@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022091" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">377</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Negligentia, et dilatio operis, tollit operandi potestatem. Cuiusexemplumest secundum iura canonica in electione;
+                        quia ad eligendum est concessum tempus trium mensium ut c. diso. postquam,
+                        63. dist. ca. obeuntibus. Ulterius enim vacare non debet cathedralis, vel
+                        regularis ecclesia, unde si infra tres menses non fuerit celebrata electio
+                        iusto impedimento cessante, ad superiorem proximum deuoluitur potestas
+                        promouendi, extra de electione, c. fides. Et si infra alios tres menses non
+                        fuerit petita consecratio, Episcopus metropoli sui iudicio cedat, quod
+                        tempus similiter negligentibus cedit, extra de translationibus. c. inter
+                        corporalia. Et idem est de metropolitano respectu suorum superiorum.
+                        Similiter secundum Deum, qui negligit ad Deum converti tempore ad hoc sibi
+                        concesso, quod signatur per tempus trium mensium, propter tres principales
+                        etates, scilicet augmenti, status, et declinationis, que sunt peccatori in
+                        hac vita ad penitendum concessa: postea morte intercedente deuoluitur eius
+                        causa ad iudicium Dei, et priuatur facultate penitendi, et dignitate
+                        celestis regni, unde salubriter consulitur peccatori. Ne tardes converti ad
+                        Dominum, et ne differas de die in diem, etc.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp61036832" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:43:44:768">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:43:45:798">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

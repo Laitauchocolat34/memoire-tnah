@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022107" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">393</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Tentationi non resistens statim a principio damnum incurrit, quod qui
+                        statim resistit, euadit. Cuiusexemplumest, quia
+                        secundum iura, qui vim inferenti incontinenti se defendendo resistit, reatum
+                        non incurrit, quem tamen post interuallum se vindicans, non effugit. Nam si
+                        aliquis incontinenti legitime restiterit, culpas omnium delictorum tempore
+                        violentie commissorum, sive ex parte aggredientis, sive aggressi aliquis
+                        occidatur, in aggredientem constat redundare debere, ut C. de vi publi. l.
+                        quoniam multa facinora, et ff. si quadru. pauper. fe. dic. l. 1. §. cum
+                        arietes. At ille qui est repulsus, cum aliquid fecerit ad vindictam, vel cum
+                        ex interuallo possessionem suam recuperauerit, predonem de ea expellendo,
+                        ciuiliter et criminaliter punitur, ut C. eodem. l. si quis, et Instit. de
+                        publ. iudiciis, §. inter. Iul. Similiter quoque criminis reatum euadit, qui
+                        legitime certando incontinenti a principio tentationi resistit; sed qui per
+                        negligentiam resistendi se primo expoliari permittit, antequam per
+                        penitentiam recuperare possit criminis reatum, incurrit. Unde Isidorus
+                        dicit: Calca serpentis caput, calca praue cogitationis initium: Anima enim
+                        precedit carnem in crimine, repelle ergo cogitationes ab anima, et caro non
+                        peccabit. Psalm. Beatus qui tenebit, et allidet parvulos suos ad petram.
+                        Parvula enim sunt ipsa tentationum initia, que ad petram Christum mox cum
+                        orta fuerint, allidenda sunt antequam crescant.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp61139872" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:46:24:479">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:46:26:326">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

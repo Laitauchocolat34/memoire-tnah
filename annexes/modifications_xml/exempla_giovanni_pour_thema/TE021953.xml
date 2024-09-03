@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021953" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">239</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Compassionem, et auxilium dicunt homines impendere ei qui cecidit in
+                        peccatum, vel in aliquod graue infortunium,exemplo,scilicet elephantum. Dicit enimPhilosophusquod cum elephas quietis gratia, arbori et maxime palme
+                        se appodiat, quandoque arborem frangit, et in terram cadit: qui casum suum
+                        irrecuperabilem videns miro modo barrit, ad cuius barritum multitudo iuuenum
+                        accedit subito elephantum, qui seniorem pro viribus releuant, et ut eum
+                        erigant, miro affectu se inclinant. Tunc autem homo quiescere volens, arbori
+                        se appodiat, quando mundo, vel delectationi peccati inheret, ut desiderio
+                        suo satisfaciat: sed arbore fracta cadit, quia vel mundo deficiente, vel
+                        delectatione transeunte, in adversitatem vel peccatum ruit. Et tunc casum
+                        suum miserabilem agnoscens, debet barrire, id est aliorum auxilium
+                        flebiliter implorare, clamando ad sanctos, vel ad homines pios, et humiles,
+                        et tunc alii fortiores, vel potentiores debent ei compati, et iuuare pro
+                        posse, ut sublevetur.Ecclesia.Si unus ceciderit
+                        ab alio fulcietur.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp124672272" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:21:28:518">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:21:29:563">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022226" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">47</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">HelinandusHoc tempore
+                        PetrusDamianusscripsit ad papamHyldebrannum,
+                        reddens rationem quare episcopatum dimiserat. Erat enim vir religione et
+                        sapientia nominatissimus. Qui quedam ibi narrat que in hoc loco excerpenda
+                        decrevi. Quia inquit refutavi ecclesiasticum regimen C annorum penitentia
+                        michi iniuncta est, secundum remedia regule monastice, forte de talibus
+                        remediis loquitur hic de quibus ibi dicit. Dominicus, inquit, lorica ferrea
+                        vestitus erat ad carnem duobusque ferreis circulis cinctus in corpore et
+                        duobus per armos brachiorum. Hic armata scopis utraque manu XII psalteria
+                        vestibus exutus, totam noctem ducens pervigilem, cum die altera persolvit et
+                        de XIIIo usque ad Beati quorum [eructavit]. Huius viriexemplomos inolevit in nostris partibus ut non solum viri sed et
+                        nobiles mulieres hoc purgatorii genus inhianter arriperent. Nam
+                           relictaCetaldi, mulier magni generis et magne dignitatis,
+                        retulit michi se per prefixam huius discipline regulam C annorum penitentiam
+                        peregisse, tribus disciplinarum milibus pro uno anno computatis. Talis
+                        igitur annorum C penitentia illi iniuncta est quia episcopatum dimiserat
+                        amore religionis, cum esset valde ydoneus ecclesie regimini. Sed ipse
+                        rationem reddens multos sanctos ante se hoc idem dicit
+                           fecisse.Valerius, inquit,yponensisAugustinumsibi successorem constituit.Luciduscitoclensisimminente obitu ad cenobium convolavit. Cui ut
+                           aitGregoriusin registro beatus Andreas apparuit et horam
+                        obitus nunciavit.Adelbertusbemensisepiscopus monachum induens martyrii palmam invenire
+                        promeruit. Item quidam sanctus penitens episcopatu dimisso tandem ab angelo
+                        visitatur et iubetur ad episcopatum redire sed noluit, donec admonente eodem
+                        angelo beatusRemigiusceleriter advenit qui hoc ei imperavit et
+                        tunc primo obedivit. Et infra, melius est pondus abicere quam cum detrimento
+                        domini cuius ego servus sum, fractis cervicibus interire. Unde scriptum est:
+                        Quare non dedisti pecuniam meam ad mensam et ego veniens exegissem cum
+                        usuris utique quod meum est. Id est, inquit,Ieronimus,
+                        deposuisses ad altare quod ferre non poteras, dum enim tu ignarus negociator
+                        denarium tenes, alterius locum qui pecuniam duplicare poterat, occupasti.
+                        Nonne apud quosdam episcopos regales epule cotidie, cotidie apparatus,
+                        cotidie nupciale convivium ? Et unde refrigerare debuerant indigentes,
+                        recreant milites et ad eorum mensam deliciis affluentibus alieni victant,
+                        cum illi quorum est tota substantia, exclusi foras famis inopia
+                        contabescant. Et quod dyabolicam videtur equare maliciam, prediis in
+                        miliciam profligatis omnique possessione terrarum insuper et decime et
+                        plebes adduntur in beneficium secularibus. Que liberalitas pessima et
+                        egentibus adimit unde vivant et dyocesianos deterret ut decimas non
+                        persolvant, illos occidens in corpore, istos in
+                           anima.Florentinecivitatis episcopus ludo scacorum prefuit.
+                        Quem ego increpans adhuc episcopus iniunxi ei ut percurreret tria psalteria
+                        ac XII pauperum pedes lavaret et eos reficeret et singulis singulos daret
+                        denarios ut manibus ablueret quod manibus polluerat.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698260949" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:49:17:943">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:49:20:532">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

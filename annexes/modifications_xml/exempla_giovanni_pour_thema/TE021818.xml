@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021818" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">104</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item contemplativa vita, active addita, fecundiorem eam facit, scilicet
+                        operibus bonis, et facit etiam eam perfectus operari. Cuiusexemplumest in ficu : quia ficus, sicutIsidorusdicit, remedio cuiusdam arboris, que
+                        vocatur caprificus dicitur fecundari. Est enim caprificus ficus nunquam
+                        maturescens, sed quod in se non habet, aliis tribuit. Nam si caprifici
+                        surculus cortici ficus infixus fuerit, eam fecundam efficit, et citius
+                        maturescere facit. Caprificus ergo sive ficus sylvestris, est contemplativa
+                        vita, que sylvas, et solitudines diligit. Sed velut ficus domestica, que ad
+                        manus hominum existit, et nutrimentum fructus tribuit, homo activus est, qui
+                        per misericordie opera tribuit pauperibus vite nutrimenta, et in frequentia
+                        et multitudine hominum est eius habitatio et vita. Sed si radici eius, id
+                        est, cordi surculus caprifici, id est, contemplationis affectus, et sancte
+                        orationis studium inseratur, ad fructus bonorum operum producendos,
+                        fecundior et maturior efficitur, id est, perfectior, quia plura, et magis
+                        completa operatur. Nam fructus est completus, quando est maturus. Sed adhuc
+                        notandum est, quod contemplativi custodiendi sunt maxime ab accidie frigore.
+                        Et in hoc iterum assimilantur arbori fici, quia ficus est arbor tenera, et
+                        delicata, et ideo facile a frigiditate leditur, precipue quando incipit
+                        germinare, propter quod versus aquilonem raro, vel minus proficiunt, et
+                        citius arescunt, metuentes aquilonaria frigora. Sic quia contemplativa vita
+                        facit cor tenerum per affectionem amoris, et delicatum ex nutrimento
+                        celestis consolationis, facile leditur a frigore Aquilonis, id est, ab
+                        accidia, quam malignus spiritus immittit, qui dixit: Sedebo in monte
+                        testamenti in lateribus Aquilonis. Hec enim ubi cor subintraverit, rigidum
+                        et frigidum facit. Rigidum quidem, id est, inflexibile ad compassionem, et
+                        frigidum ad operationem.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp_de_exemplis.3.12.cit6" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:02:57:095">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:02:58:479">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

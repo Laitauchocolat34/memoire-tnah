@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021752" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">38</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Loca diversa adaptant homines ad diversas operationes. Cuiusexemplum,vel similtudo apparet in planetis, ex
+                        quorum coniunctione sequuntur diversi effectus secundum diversitatem
+                        locorum, id est, signorum in quibus coniunguntur : verbi gratia, si plures
+                        coniuncti fuerint in signis aquaticis, scilicet in Scorpione, Cancro, vel
+                        Pisce, in revolutione anni sequitur multitudo pluviarum. Si vero fuerint,
+                        coniuncti in signis igneis, scilicet, Ariete, Leone, vel Sagittario, signat
+                        subtilitatem, et igneum excessum caloris, et siccitatis. Si autem in signis
+                        aereis, scilicet Geminis, Libra, vel Aquario, signat multitudinem ventorum ;
+                        sed si in frigidis sive terreis signis, scilicet Tauro, Virgine, et
+                        Capricorno, signat gravitatem frigoris et temperamentum caloris. Ita quantum
+                        ad spiritualia opera videmus, quod etiam loca multum adaptant homines, et
+                        quodammodo disponunt ad illa sicut solitudo ad contemplandum, ecclesia ad
+                        orandum, cella ad studendum et cetera. Possemus etiam moraliter dicere, quod
+                        in signis aquaticis conveniunt incipientes, id est, penitentes, qui vivunt
+                        in aquis lachrymarum. Et hec lachrymarum compunctio, vel est in Scorpione,
+                        qui cauda pungit, id est, in consideratione mortis, vel supplicii in quibus
+                        est cauda, id est, finis peccati ; quia stipendium peccati est mors. Vel in
+                        Cancro, qui retrograditur, id est, in consideratione vite preterite, vel in
+                        Pisce, id est, in angustia imminentis tribulationis ; quia Piscis moratur in
+                        aqua, per aquam intelligitur tribulatio, unde omnes hi producunt abundantiam
+                        lachrymarum. In signis vero aeris conveniunt proficientes, quorum profectus
+                        est in Geminis, id est, in geminata dilectione Dei et proximi, et in
+                        geminata vita, scilicet activa, et contemplativa : vel in gemino studio,
+                        scilicet, scientie, et virtutis. Item in Libra, id est, in pondere iustitie,
+                        vel in pondere lingue, de quoEcclesiastici. Verba
+                        sapientis statera ponderabuntur. Item in Aquario, id est, in lachrymis
+                        devotionis, vel doctrina sapientie, de quoEcclesiasticus. Aqua sapientie salutaris potavit eum.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp119870384" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:54:24:610">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:54:26:068">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

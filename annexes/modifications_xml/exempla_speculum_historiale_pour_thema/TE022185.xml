@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022185" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">6</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Comestor]Cumque immineret mensis VIIus qui fere
+                        totus apud eos est sollempnis, convenerunt inIherusalemquasi
+                        vir unus. Et accepitNeemiasquod non habebant ignem de sublimi.
+                        Traditumque est ei a senioribus quodIeremiasin diebus
+                        captivitatis absconderat stipites altaris et prunas in inferioribus terre in
+                           valleIozaphat. Cumque venissent ad locum eruderaverunt
+                        puteum et invenerunt stipites et prunas et aquam crassam et tollentes ea
+                        super struem lignorum et hostias que erant super altare proiecerunt. Et
+                        erupit ignis. Et orabant sacerdotesIonathainchoante et ceteris
+                           respondentibus.Neemiasquoque specialem edidit orationem.
+                        Porro prima die scenophegiarum dixeruntEsdreut afferret librum
+                        legis et legeret coram populo. StetitqueEsdrassuper gradum
+                        ligneum iuxta portam aquarum idest portam atrii, secus quam erant luteres et
+                        legit de mane usque ad medium diem. Levite vero XII silentium faciebant in
+                        populo. Flevit autem omnis populus. Et dixit ad eosEsdras:
+                        Nolite contristari, quia sanctus dies domini est. Cumque redissent in diem
+                        secundum, mandanteEsdraegressi sunt et tulerunt frondes arborum
+                        et fecerunt sibi tabernacula in atriis et domatibus suis et in atriis domus
+                        domini, quod non fecerant a diebusIosuefiliiNun.
+                        Et observatum est deinceps inIsrael. Die vero octava fecerunt
+                        collectam iuxta ritum ad oleum et panes propositionis et ligna et
+                        sacrificia. Post hec iuxta legem separaverunt alienigenas ab ecclesia et in
+                        emundationem sui statuerunt in crastinum generale ieiunium ut affligerent
+                        animas suas homines et iumenta usque ad pueros septennes. Et convenerunt
+                        octies ad audiendam legem quater in die et quater in nocte. Lectione
+                        terminata, prosternebatur populus ad orandum et fiebant preces super eum et
+                        tandem benedictio sacerdotalis. Ex hiis ut dicitBedaecclesia
+                        traxitexemplum.Nam octies convenimus ad
+                        ecclesiam, etsi non penitus eo modo quo illi. Semel enim surgimus in nocte
+                        ad nocturnos, secundum illud: Media nocte surgebam ad confitendum tibi. In
+                        die vero septies psallimus, secundum illud: Septies in die laudem dixi tibi.
+                        Singulis autem horis legitur lectio quam et capitulum dicimus. Postquam
+                        prosternimur ad preces in diebus profestis et subditur oratio pro
+                        benedictione.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394697909525" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:43:19:207">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:43:20:806">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

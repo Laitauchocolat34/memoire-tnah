@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021868" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">154</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item abiectos et despectos a mundo, Deus licet excelsus, non tamen
+                        abhorret vel despicit, sed eos de excelso, prospectans potius ad se trahit.
+                        Quod iterumexemploAquile patet, que scilicet
+                        est tam limpidi visus, ut cum in aere super mare feratur, ut vix videatur,
+                        inde tamen pisciculos in mari contemplatur, et instar lapidis imum petit,
+                        pisciculos rapit, attrahit, et comedit. Sic Deus, cuius oculis nuda sunt
+                        omnia, et aperta, quamuis in altitudine sue lucis nobis sit invisibilis,
+                        quia habitat inaccessibilem, quem nemo hominum videre potest ; ipse tamen
+                        pisciculos parvos in mari existentes, id est, despectos et humiles spiritu,
+                        in mundo fluctuantes non despicit, sed prospicit in imo, ad eos venit suo
+                        lumine illustrando, eosque ad se trahit suo amore inflammando, et quasi
+                        cibum comedit, eos sibi per familiarem gratiam coniungendo et
+                           incorporando.Psalm.Quis sicut Dominus Deus
+                        noster qui in altis habitat, et humilia respicit in celo et terra ?</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp122220944" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:09:36:769">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:09:38:588">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

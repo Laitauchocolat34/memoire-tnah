@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022201" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">22</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Ex gestis eius (Iohannes Anachoreta)]Fuit quidam
+                        monachus in heremo omni virtutum flore ornatus, qui cum in corpore instar
+                        angelorum vite fungeretur officiis, dominus cotidiani victus ei curam
+                        exhibebat. Cotidie enim ingrediens speluncam, inveniebat mensam et panem
+                        superpositum mire suavitatis, mirique candoris, ex quo refectus, gratias deo
+                        referens, ad orationes et ymnos convertebatur. Cumque de suis meritis
+                        gloriari cepisset, continuo subintravit in eum desidia quedam animi, tam
+                        parva quam nec posset advertere. Post hec maior crevit negligentia, ita ut
+                        iam tardior fieret ad orationem. Cumque parum psallendi ministerium
+                        exhibuisset, anima eius quasi nimio labore fatigata requiescere festinabat,
+                        quia sensus eius reprobus effectus est, erat enim iam clamdestina quedam in
+                        corde eius turpis cogitatio ac nephanda. Cumque post orationes cibum solito
+                        requisivisset, invenit solito panem mense superpositum, ex quo refectus de
+                        hiis que in corde eius versabantur nichil enim dare curavit, et spernentem
+                        minima paulatim casurum non intellexit. Cumque iam gravis libidinis
+                        stimularetur incendio, post orationem ingressus ut cibum sumeret, panem
+                        quidem invenit, sed aliquantulum sordidiorem, admiratusque et tristis
+                        factus, intellexit quod hoc ipsum respiceret hoc genus monstri, cibo tamen
+                        sumpto refectus est. Post diem tertium triplicatis urgeri stimulis cepit.
+                        Occupaverunt enim eum cogitationes, et quasi iam presens et secum accumbens
+                        ymago mulieris, quam et amplecti sibi videbatur, et ad turpes usus habere
+                        substratam. Processit tamen et alia die ad solita psallendi officia, sed
+                        stabat vagis oculis, et mente captivus. Cumque solito ad vesperam ingressus
+                        est ut sumeret cibum, panem quidem invenit, sed sordidissimum atque
+                        arridissimum, et quasi a muribus vel canibus undique corrosum. Tunc ille
+                        ingemuit et lacrimas fudit, sed non ita uberes que possent tanti ignis
+                        flammam extinguere, sumpsit tamen cibum, sed non tanquam solebat. Cum igitur
+                        cogitationes quasi cohors barbarica eum undique vallarent, exurgens nocte
+                        iter arripuit per heremum tendens ad civitatem. Die autem facto vidit
+                        quandam fratrum cellulam ubi fatigatus requievit. Cumque refectus esset, et
+                        parum quievisset, ex more quasi ab eruditissimo et prudentissimo patre
+                        ceperunt verbum edificationis expetere, interrogareque eum, quis dyaboli
+                        laqueos posset effugere, et turpes cogitationes ab eo inmissas depellere.
+                        Tamen ille eos sufficienter docuit, et in semetipsum regressus, ait: Quomodo
+                        alios moneo, et ipse decipior. Age ergo miser prior, que facere alios mones.
+                        Et intelligens se miserabiliter supplantatum, valedicens fratribus, cursu
+                        rapidissimo ad speluncam suam rediit, prosternens se in orationem et dicens:
+                        Nisi dominus adiuvisset me, paulominus habitasset in inferno anima mea.
+                        Conclusit autem se in speluncam, et in cilicio et cinere cum lacrimis
+                        iacuit, donec astitit angelus domini dicens ei: Suscepit dominus penitentiam
+                        tuam, et repropiciatus est tibi, sed cave tibi ne ultra elatus
+                        decipiaris.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698130740" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:45:42:861">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:45:45:412">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

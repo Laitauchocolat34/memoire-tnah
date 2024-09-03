@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022227" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">48</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Bernardus] [in exhortatorio de passione
+                           domini]SicMarieMagdalenesibilasti de qua non unum, sed
+                           septemEgyptiflumina eiecisti. Intravit inter epulas
+                        discumbentium, cucurrit ad pedesIhesu, effundebat super eos
+                        torrentes lacrimarum. Tu vero ubi affectus vehementior incanduit et velut
+                        carbo lacrimarum ymbre respersus, fortius exarsit, videres ab illa sacratis
+                        vestigiis crebra et insaciabilia oscula infigi, videres effuse unctionis
+                        suavitate totam domum impleri. Quid ergo illa nisi in torrentibus vallium
+                        requiescebat, de qua tot et tanti gratie torrentes effluebant? Unde etiam
+                        dimissis ei peccatis multis, quia multum dilexerat, iam sicut columba, que
+                        lacte est lota, residebat ad pedesIhesuiuxta fluenta
+                        plenissima, cum quidem soror eiusMarthasatageret circa frequens
+                        ministerium. Quid memorem de sepulture officio, quod prevenit de pedibus
+                        ascendens ad unctionem capitis, cum in eam fremeret illud avaricie
+                        sepulchrum fetens odorem pietatis ferre non sustinens? Non potuit amor
+                           tantusChristoetiam moriente mori, fugientibus et latentibus
+                        viris, hoc est apostolis, mulier inperterrita stabat ad monumentum plorans.
+                        Non habebat vivum et tota super mortuum ardebat, quo plus de manibus et
+                        oculis auferebatur, eo ardentius animus insequebatur, si fieri posset pro
+                        redimendo corpore sepulcrum lacrimis implevisset. Conversa retrorsum
+                           viditIhesumstantem et nesciebat quiaIhesusest.
+                        O pium, o delectabile pietatis spectaculum. Ipse qui queritur et desideratur
+                        et occultat se et manifestat, occultat se ut ardentius requiratur et
+                        requisitus cum gaudio inveniatur, inventus cum sollicitudine teneatur et
+                        tentus non dimittatur, donec ipse in amoris sui cubiculo ipse mansionem
+                        facturus introducatur. Hac enim arte sapientia ludit in orbe terrarum et
+                        delicie eius esse cum filiis hominum. Data est tibi
+                        domineIhesuomnis potestas in celo et in terra. Tu es quasi
+                        tenerrimus ligni vermiculus, qui virginaliter editus, humilitate et caritate
+                        tua omnem perforas duriciam, uno impetu spiritus tui octingentos
+                        interficiens principes malicie.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698300740" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:49:26:982">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:49:28:391">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021898" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">184</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item gratia Dei non respicit quem finalis impenitentia ad mortem eternam
+                        ducit, cuius manifestumexemplumapparet in
+                        caladrio. Nam caladrius (utAristotelesdicit) albi
+                        coloris est, nihil nigredinis habens, cuius natura est talis, quod quando
+                        quis gravi infirmitate detentus fuerit, si egritudo ad mortem fuerit,
+                        caladrius ab eo faciem suam avertit, et tunc homo de morte certus existit :
+                        Si autem infirmus curandus sit, et tunc visum in ipsum figit, et quasi
+                        applaudens in eum intendit. Et differt iste caladrius a calandra, que est
+                        avis canora, sicut dicitGlossa super. Deu 15.
+                        Hec ergo avis totaliter alba, est Spiritus sancti gratia, que est munda, et
+                        nullius nigredinis, id est, culpe admixtione infecta.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120131120" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:13:41:967">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:13:42:898">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021725" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">11</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Septimo manifestat similiter dictam similitudinem, ipsius ignis
+                        prodigium: Sicut enim esset prodigium quod frigida aqua exureret, sic etiam
+                        miraculum est quod ignis ardens refrigeret ; quod certe factum legimus in
+                        illis tribus pueris qui missi sunt in fornacem ignis à RegeBabylonis; quia diciturDanielis. Quod Angelus Domini descendit cumAzariaet sociis eius in fornacem, et excussit flamman ignis de
+                        fornace, et fecit medium fornacis quasi ventum roris flantem, et non tetigit
+                        eos omnino ignis, neque contristavit, neque quicquam molestie intulit. Ubi
+                        nota, quod peccatores si aliquando ieiunare coguntur, vel ex inflammation
+                        cholere efficiuntur impatientes, et sic incenduntur ira, vel spiritu accidie
+                        efficiuntur tristes, et sic consumuntur melancholia, vel ex prandii
+                        dilatione efficiuntur esurientes, et sic famis affliguntur molestia. Sed
+                        sancti viri qui ex charitate ieiunant, in sua abstinentia ad modum istorum
+                        puerorum recipiunt rorem divinum id est refrigerium gratie, et nec igne
+                        impatientie tanguntur, nec accidie spiritu contristantur, nec etiam famis
+                        esurie molestantur. Septimum in quo ultimo declaratur predicta similitudo,
+                        est ipsius ignis studium id est quod circa ignem per homines adhibetur : Nam
+                        ignis ab hominibus oleo interdum succenditur, lignis nutritur, et sub cinere
+                        refervatur.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp75686240" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:51:01:288">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:51:02:506">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

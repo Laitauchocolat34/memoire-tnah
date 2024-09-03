@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021787" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">73</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item tribulatio ferventem spiritum compunctionis gignit, et ventum
+                        vanitatis excludit. Cuiusexemplumest, quod
+                        tempore estatis in parte septentrionali generatur spiritus multus, et vapor
+                        coarctatur, qui facit terram tremere. Ibi enim iuxta mare quasi quotidie
+                        terra tremit, et tam fortis est ibi motus equi vel hominis, ita quod vasa
+                        plena liquoribus effunduntur. Unde quidam perforavit terram septentrionalem
+                        lancea longa, et exivit ventus tantus quod fere diruit magnam domum. Per
+                        terram septentrionis intelligitur anima peccatoris frigida a calore
+                        charitatis. Est enim subiacens septem capitalibus vitiis que tamen estate
+                        charitatis calescente concipit spiritum multum contritionis, vaporem
+                        compunctionis, et tremorem humiliationis, ita quod vas cordis plenum liquore
+                        peccati evacuetur effusione confessionis, et interdum dum terra, id est,
+                        corpus perforatur lancea longa attractione diuturne macerationis et
+                        afflictionis, excluditur et exit ab homine ventus omnis peccati, et
+                        vanitatis.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp125083024" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:58:53:773">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:58:54:789">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

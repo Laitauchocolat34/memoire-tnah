@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021795" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">81</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Nam qui ad vere predicationis verba se preparant, necesse est, ut
+                        initium a sacre scripture pagina sumant. In auro vero significatur Martyrum
+                        patientia, cuius conflationis, id est, probationis locus, catholica est
+                        Ecclesia ; quia non nisi in catholica Ecclesia veri Martyres sunt, ex eo
+                        quod sine fide, spe, et charitate, quibus membra iunguntur ecclesie, non
+                        habet passio meritum, sicut in hereticis patet. UndeApostolusdicit : Si tradidero corpus meum, ita ut ardeam,
+                        charitatem autem non habeam, nihil mihi prodest. In ferro autem accipitur
+                        bonum operandi potentia, seu fortitudo Sanctorum, quod ferrum de terra
+                        tollitur, quia fortiores viri a terrena quam prius tenuerant actione
+                        separantur, et pugnatores ipsius Ecclesie ac pugiles deputantur. In lapide
+                        vero significatur interior cordis duritia : et in ere, charitatis
+                        constantia. Unde tunc lapis calore soluitur, quando cor durum, et a divini
+                        amoris igne frigidum, fervore spiritus tangitur, et ad amorem mollitur, et
+                        tunc in es convertitur, quando charitate solidatum ad bona opera roboratur ;
+                        ut sicut prius durus fuerat in amore seculi, ita se postmodum fortem
+                        exhibeat in amorem Dei. Et quia de aliis huiusmodi talibus metallis, seu
+                        lapidibus, de quibusin scripturalegitur
+                        frequenter, et in pluribus locis est idem estimandum, videlicet quod ad
+                        nostram conferant disciplinam. Est nostre intentionis propositum post
+                        exempla simplicium corporum, que iam suntin primo
+                           libroadducta, in hoc secundo libro de metallis atque lapidibus,
+                        tam preciosis, quam communibus, et de aliis mineralibus exempla introducere
+                        varia, et moribus adaptare, eundem servando ordinem, quem scilicet in
+                        principio tenuimus tam in capitulorum materiis, quam in exemplis.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp_de_exemplis.prologue.2.1.cit3" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:59:55:395">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:59:56:778">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

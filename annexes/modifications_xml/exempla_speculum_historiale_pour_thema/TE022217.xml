@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022217" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">38</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Ex gestis eius (Lupus Trecensis)Porro
+                           sanctusLupusLeucorumfamilie primus fuit cui gloriose
+                           memoriePiminiolasanctiHylariiarelatensisepiscopi germana coniunx fuit, VIIo anno coniugii se
+                        ad conversionem hortatu mutuo contulerunt. Tunc ille relictis omnibus
+                           sanctumHonoratumabbatemlirinensemexpetiit,
+                        cuius institutione cervice subdita, omnium vigiliarum abstinentiarumque
+                        dogmatibus institutus est. Post annum vero regrediens, ut que sibi
+                        remanserant pauperibus eroganda distraheret, ad
+                        urbistricassineillico pontificium raptus est. Ubi populum viam
+                        salutis docens, clerumque strenue gubernans, post biennium cum
+                           sanctoGermanoinBritanniamperrexit, in quo
+                        itinere signorum mirabilibus cunctis admirationi fuere. Nec longe post, cum
+                           perGalliasubique diffusus
+                           premeretHunorumexercitus,tricassinamurbem
+                        patentibus campis expositam, nec armis munitam nec muris, vir sanctus
+                        recurrens ad vota presidia, sola ad deum intercessione, et prece deposita,
+                        superno auxilio defendit. Multis quoque aliis miraculis claruit. Nam et
+                        mulierem paraliticam sanavit, impulsu demonis puellam mutam signo crucis
+                        imposito liberavit, et alios plures egros sanavit. Annis ferme XXV expers
+                        lectuli, iacendi laborem superpositus tabule sustinuit, cui indumentum non
+                        nisi cilicii consuetudo fuit, unius tunice semper usu contentus, in
+                        orationibus pervigil alternis noctibus perdurabat, biduanis ieiuniis
+                        defatigato corpusculo, iuventutis incentiva prosternens, fletibus ora,
+                        futuris intentus, indefesse rigabat. Ceterum que fuerint eius facta ex
+                        scolis eiusdem discipulorum virtutisexempladocuerunt. Nam in sanctoPolicroniovindunensiepiscopo curationum gratia perlucebat,
+                           sanctumSeverumTreverisordinatumGermaniegentibus predicantem,
+                        apostolorum non ambigimus societate permixtum. Sanctus
+                           autemLupusLII annis sacerdotio functus, spiritum emisit ad
+                        celum.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698166858" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:48:03:467">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:48:04:911">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

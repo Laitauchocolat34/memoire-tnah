@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021976" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">262</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item peccatum assimilatur mulo. Primo ratione innaturalitatis, quia
+                        mulus generatur contra ordinem nature, scilicet ex comixtione duarum
+                        specierum, scilicet ex equa, et asino, vel econuerso, scilicet ex asina et
+                        equo burdo generatur. Et dicitIsido.quodNaatneposEsaufuit
+                        primus qui asinis equas supposuit, ut contra naturam muli nascerentur. Sic
+                        etiam peccatum, et dicitAugustinusnon est ex
+                        natura, sed vitium nature, appetentis id quod non est sui ordinis. Et sicut
+                        mulus generatur ex eo quod asino equa supponitur, sic etiam nascitur
+                        peccatum, et peruertitur ordo nature, cum ratio sensualitati subiicitur, ita
+                        ut non rationi sensualitas subiiciatur, sed potius rationi sensualitas
+                        dominetur.Eccl.Vidi seruos in equis, et
+                        principes ambulantes quasi seruos super terram.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp125189904" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:25:05:309">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:25:06:313">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

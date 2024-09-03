@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022047" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">333</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item continue, quod notatur cum subditur, quod non reuertebantur cum
+                        ambularent: Nam sicutglos.dicit, cum ambularent
+                        ad bona, non reuertebantur ad mala, et ideo in bono perseverando et
+                        continuando mouebantur,Mat.Qui perseverauerit
+                        usque in finem, hic saluus erit. Sed quia illud verbum bis ponitur, alia
+                        glossa quedam exponit de motu recto. Cum ambularent ante, scilicet ad
+                        spiritualia, non reuertebantur retro, scilicet ad temporalia. Unde non erat
+                        in eis motus reflexus, sed rectus.Apostolus. Que
+                        retro sunt, obliuiscens, ad ea que sunt priora, extendens me.Hieronymus. Qui stiuam aratri tenet, non respiciat
+                        retro, non imitetur uxoremLoth, ne pereat
+                        sicutHeli, qui aliorum vitio Deum offendit.
+                        Sed videtur esse contra quod alibi dicitur, quod animalia ibant, et
+                        reuertebantur in similitudinem fulguris corruscantis. Sed dicendum, quod ibi
+                        loquitur de motu contemplationis, sed hic de imitatione vite, sive de motu
+                        amoris. Unde illud exponitur, quod ibant, scilicet per mentis
+                        contemplationem, sed non diu in ea esse valentes, reuertebantur ad actionem;
+                        sed quia ex contemplatione ipsa anima inflammabatur, et illuminabatur,
+                        idcirco subditur, quod reuertebatur in similitudinem fulguris corruscantis,
+                        id est, inflammantis, et illuminantis: Nam per eos a contemplationis arce
+                        descendentes, celeste lumen nobis spargitur, utglossadicit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp106203856" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:36:37:871">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:36:39:194">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

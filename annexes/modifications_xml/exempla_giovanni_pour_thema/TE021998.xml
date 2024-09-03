@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021998" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">284</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Vita spiritualis paucioribus indiget, quam vita corporalis: Et huiusexemplumapparet in instrumentis quibus animal
+                        mouetur: Nam (sicut dicitAvicenna) omne animal
+                        habens sanguinem mobilem, quatuor mouetur instrumentis, scilicet vel quatuor
+                        pedibus, ut bruta, vel duobus pedibus, et duabus manibus, ut homines; vel
+                        duobus pedibus, et duabus alis, ut aues. Sed quedam animalia sunt que habent
+                        plures quam quatuor pedes, ut patet in cancris, et in quibusdam vermibus, et
+                        quedam plures alas, ut patet in papilionibus, et apibus, et similibus. Sed
+                        hoc ex defectu, et paucitate sanguinis accidit, propter quam causam
+                        efficacius operantur quatuor organa in primis, quam multiplicia in secundis.
+                        Ille ergo habet in se mobilem sanguinem, qui habet gratie humorem. Nam
+                        anima, id est vita omnis carnis in sanguine est, ut diciturLeui.Unde deficiente sanguine, deficit vita
+                        corporis. Ita deficiente gratia, deficit vita spiritualis. Nam (sicut
+                           dicitPhilosophus) vivere est viventibus esse:
+                        sed esse spirituale est per gratiam, secundumillud
+                           Apostoli: Gratia Dei sum id quod sum, ergo anima per gratiam habet
+                        spiritualem vitam.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp82317296" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:28:28:847">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:28:29:946">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

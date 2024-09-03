@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021721" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">7</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Hec autem illuminatio ignis virtuti abstinentie congruit, in quantum per
+                        eam assequimur contra tenebras ignorantie lumen divine sapientie : quod
+                        evidenter apparet trium puerorumexemplo,de
+                        quibus diciturDaniel. QuodMalasartollebat cibaria, et vinum potus eorum, dabatque eis
+                        legumina, et sequitur. Deus dedit pueris his scientima et disciplinam in
+                        omni libro et sapientia. Et ita merito abstinentie acceperunt lumen
+                        scientie, merito etiam abstinentie infunditur lumen revelationis prophetice.
+                        Sic legiturDanielubi dicitur ex personaDaniel. EgoDaniellugebam trium hebdomadarum diebus : panem desiderabilem non comedi, caro et
+                        vinum non introierunt in os meum, sed nec unguento usus trium hebdomadarum
+                        diebus. Postea subditur, quod apparuit ei Angelus, et dixit ei : Ex primo
+                        die quo posuisti ut affligeres te in conspectu Dei tui, exaudita sunt verba
+                        tua, et ego veni propter sermones tuos. Veni autem, ut docerem te que
+                        ventura sunt populo tuo in novissimis diebus. Adhuc etiam per abstinentiam
+                        carnis, conservatur refrigerium et lumen castitatis. Unde inPsalmo. Expandit nubem in protectionem eorum, et
+                        ignem ut luceret eis per noctem. Abstinentia etenim est nubes, protectionem
+                        et refrigerium prestans contra estum concupiscentie carnalis : et ignis
+                        etiam est lumen in nobis accendens virtutem castitatis. Et ideoAugustinusdicit, quod abstinentia ieiunii
+                        libidinis ardorem extinguit, et castitatis lumen accendit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120546112" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:50:31:462">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:50:32:664">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021960" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">246</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Domum mentis sue debet homo solicite edificare, et vite sue finem sepius
+                        considerare,exemploscilicet Castorum, qui
+                        subtilitate multa habitacula sibi parant: nam de lignis que dentibus
+                        precidunt, in extremis aquarum turpibus faciunt domos suas bicameratas, vel
+                        tricameratas per solatia distincta, et aqua crescente superiora loca
+                        inhabitant; sed decrescente, in parte inferiori se locant, et per quoddam
+                        foramen ex industria preparatum, in quolibet solario caudam que est piscee
+                        nature, mittunt in aquam, quia extra aquam diu sine corruptione non
+                        viverent. Sic homo quilibet debet anime sue habitaculum de lignis, id est,
+                        operibus solidis virtutum, solertes edificare; sed in rupibus aquarum, id
+                        est, in studiis Scripturarum edificatur domus sapientie; et hec est
+                        bicamerata, quia scilicet debet esse practica et speculatiua, id est, activa
+                        et contemplatiua, vel in rupibus aquarum, id est, in compunctionibus
+                        lachrymarum edificatur domus penitentie, et hec domus est tricamerata, quia
+                        tres penitentie partes sunt, scilicet contritio, confessio, et satisfactio.
+                        Crescente autem aqua sapientie, eleuatur anima in superiorum
+                        contemplationem, vel quanto plus crescit aqua compunctionis vel
+                        tribulationis, tanto plus ascendit anima ad perfectionem puritatis et
+                        virtutis; et quanto plus decrescit, tanto plus inferius cadit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp124756240" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:22:33:401">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:22:34:602">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

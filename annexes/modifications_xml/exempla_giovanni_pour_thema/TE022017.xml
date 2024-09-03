@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022017" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">303</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Secundo patet dicta similitudo ex febris distinctione. Nam (sicut ipseAuicen.) tradit, aliqua febris procedit ex
+                        membris radicalibus, ut ethica; aliqua ex humoribus, ut putrida; et quedam
+                        ex spiritualibus, ut ephimera. Ethica enim febris prima accensione sua
+                        accenditur in membris radicalibus, pura in corde; Caliditas enim hepatis non
+                        est ethica, sed aliquando perducit ad ipsam; et similiter pulmonis, et
+                        stomachi. Et estexemplumaccensionis huius
+                        febris, sicut si aliquis calefaciat aquam per parietes balnei, aut per ollam
+                        coci, aut per follem ferrarii. Per hanc ergo febrem signantur peccata
+                        prelatorum, et clericorum, qui sunt quasi radicalia et originalia membra
+                        Ecclesie, ex quibus bona et mala proveniunt ceterorum. Est ergo triplex
+                        species ethice designans triplex vitium clericorum. Prima est que consumit
+                        humiditatem nutrimentalem, iam sparsam et unitam in membris, et proximam
+                        coagulationi, que vocatur ros, et est sicut oleum in lucernam infusum. Et
+                        hec species febris est amor inordinatus carnalis, scilicet sui ipsius, vel
+                        consanguineorum, et nepotum, qui communiter invenitur in clericis, desiccans
+                        in eis amorem pietatis, que expandi deberet in membris, id est, in
+                        indigentibus, et pauperibus subditis: Nam ea que deberent dare pauperibus,
+                        sibi, aut auare retinent, aut male consumunt, aut consanguineis largiuntur,
+                        ut magnificentur, et ditentur. UndeBernard.dicit: Timeant ministri ecclesiarum, qui in terris sanctorum quas possident,
+                        tam iniqua gerunt, ut stipendiis que sufficere debeant, minime contenti,
+                        superflua quibus egeni sustentandi essent, impie sacrilegeque sibi retinent,
+                        et in usus sue superbie atque luxurie victum pauperum consumere non
+                        verentur, duplici profecto iniquitate peccantes, qui et aliena diripiunt, et
+                        sacris in suis vanitatibus et turpitudinibus abutuntur. Sexto clericus, utidemdicit, cui concessum est, ut ad
+                        necessitatem viuat de altari, non superbiat, non luxurietur, nec intendat,
+                        ut de clericatu ditior fiat, non sibi de bonis ecclesie ampla palatia
+                        fabricet, mutans quadrata rotundis; neque loculos inde congreget, neque in
+                        vanitate, et superfluitate dispergat, non extollat de facultatibus ecclesie
+                        consanguineos, aut nepotes, ne filios dixerim.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp82692112" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:31:26:952">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:31:28:470">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

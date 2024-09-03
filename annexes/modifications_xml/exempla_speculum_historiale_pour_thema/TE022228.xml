@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022228" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">49</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Idem [Bernardus] ad episcopum SenonensemSi
+                        temptatio est cuiuscumque hominis vita super terram, quantis putatis
+                        periculis patet vita pontificis, cui omnium necesse est ferre temptationes?
+                        Si ego latens in caverna et sub modionisinonquidem lucens sed fumigans, ventorum tamen impetus nec sic
+                        declinare sufficio, sed continuis temptationum variisque impulsibus
+                        fatigatus, instar vento agitate [arundinis], hac illacque circumferor, quidposituspotiussupra montem, positusque super candelabrum? Solus michi servandus,
+                        solus tamen ipse michisinesumscandalo, solus tedio, solus honeri atque periculo, ita ut proprie
+                        gule et ventri et oculo scandalizati frequenter irasci oporteat. Quibus ergo
+                        molestiis angitur, quibus lacessitur iniuriis, cui etiam si propria cessent,
+                        numquam tamen de alienis desunt foris pugne in timore? Omnes iuxta preceptum
+                        domini diligantur inimici etiam, sed ad consilium soli eligantur prudentes
+                        et benivoli. In omnibus etiamexemploapostoli:
+                        Honorificate inquit ministerium vestrum, ministerium dico non dominium.
+                        Honorificabitis autem non cultu vestium, non fastu equorum, non amplis
+                        edificiis, sed ornatis moribus,studiumstudiisspiritualibus, bonis operibus. Despiciant sacerdotes domini
+                        textricum sive etiam pellificum et non propriis operibus gloriari. Horreant
+                        et murium rubricatas pelliculas, quas gulas vocant manibus circumdare
+                        sacratis et sacrantibus tremenda mysteria. Respuant et apponere pectori quod
+                        decentius ornat gemma sapientie. Pudeat et collo circumtexere quod honestius
+                        atque suaviusChristiiugo submittitur. NontibiChrististigmata sunt hec, que isti martyrumexemplocircumferant in corpore suo, muliebria pocius esse
+                        noscuntur insignia, cogitantium que mundi sunt, quomodo placeant viris.
+                        Curritur in clero passim ab omni etate et ordine, a doctis pariter et
+                        indoctis ad curas ecclesiasticas tanquam sine curis iam quisque victurus
+                        sit, cum ad curas pervenerit. Nec mirum de hiis qui necdum in semetipsis
+                        experti sunt. Videntes quippe illos qui iam proprios humeroscapitecupitesarcine submiserunt, non solum non gemere tanquam sub honere, sed
+                        insuper appetere plus honerari non deterrentur periculis, que cupiditate
+                        cecati nonviderentvident, sed favoribus amplius provocantur quos illis invident. O infinita
+                        semper ambitio et insaciabilis avaricia! Cum primos honorum gradus in
+                        ecclesia meruerint, vel vite merito vel pecunie, sive etiam carnis et
+                        sanguinis, que regnum dei non possidebunt, prerogativa, non ideo corda
+                        quiescunt duplici semper estuantia desiderio, quo utique magis [ac magis] et
+                        in plura dilatentur [et] ad celsiora sublimentur.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698304946" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:49:35:236">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:49:37:443">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

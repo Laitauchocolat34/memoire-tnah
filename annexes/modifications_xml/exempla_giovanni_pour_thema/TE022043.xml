@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022043" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">329</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">SecundoAbrahamcertificatus est per
+                        sacrificium, scilicet de promissione implenda; Petiuit enim signum, non ex
+                        diffidentia promissionis, sed scire volens modum impletionis, dicens; Unde
+                        scire possum quod possessurus sim eam? Et tunc iussit, ut offerret
+                        sacrificium, ut in ipso sacrificio signum acciperet. Unde precepit ei, ut
+                        immolaret vaccam, et capram, et arietem, et omnia trina, et insuper
+                        turturem, et columbam, qui sequenti mane accepit omnia hec, et diuisit per
+                        medium, et utrasque partes contra se altrinsecus posuit, aues autem non
+                        diuisit, descenderuntque volucres celi super cadauera, et et abigebat easAbraham. Cumque Sol occubuisset, sopor
+                        irruit superAbraham, et horror magnus et
+                        tenebrosus inuasit eum, et istud fuit aliqua pars signi dati. Hoc ergo est
+                        sacrificium iustitie, quod Deo offerri debet; Nam in vacca significatur
+                        obedientia, et hec debet esse trina, sive triennis, scilicet per
+                        subiectionem triplicis humilitatis, videlicet superiori, pari, et inferiori;
+                        Sic enim decet nos implere omnem iustitiam. In capre vero significatur
+                        penitentia, que etiam debet esse triennis, secundum tria, in quibus
+                        consistit penitentia, scilicet in dolore contritionis, in pudore
+                        confessionis, et in labore satisfactionis. In ariete vero intelligitur
+                        simplicitas, que etiam debet esse trina, quia est triplex genus
+                        simplicitatis contra triplex genus duplicitatis, scilicet heresis, et
+                        hypocrisis, et ambitionis. Duplicitas heresis immiscet falsa veris.
+                        Duplicitas hypocrisis, bona malis, honesta inhonestis. Duplicitas
+                        ambitionis, tendit ad duplicem finem: scilicet lucri temporalis, et premii
+                        celestis, volens duobus Dominis seruire: sed diuisitAbrahamea per medium: Nam obedientia dividenda est, ut fiat in
+                        his scilicetque sunt secundum Deum, non contra Deum. Similiter penitentia
+                        est dividenda, ut fiat cum discretione, ita ut sit rationabile obsequium
+                        nostrum, et occidaturHedomin Valle saliuarum,
+                        ut sic occidatur concupiscentia, quod nutriatur natura: Nam omnis victima
+                        est sale salienda: quia in omni opere est discretio adhibenda.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp106139088" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:35:58:703">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:36:00:135">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

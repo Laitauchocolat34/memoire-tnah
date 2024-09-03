@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022011" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">297</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Secundo, quia barba est maxillarum iuuatiua: Nam sua villositate neruos
+                        maxillares tuetur, etiam a nimia frigiditate defendit. Quasi autem maxille
+                        Ecclesie sunt Predicatores, qui cibum spiritualis doctrine aliis contetunt
+                        exponendo, et prenarrant predicando, ut inde fideles ceteri nutriantur; isti
+                        dicuntur habere barbam, id est, fortitudinem boni operis, vel fortitudinem
+                        contra tentationes, qua frigus peccati repellatur ab eis, ne scilicet cum
+                        aliis predicauerint ipsi reprobi efficiantur. Debent esse barbati, id est,
+                        pilis fortium operum abundare, ut scilicet, quod verbis suadent, operibus
+                        corroborent. Unde sine robore talis barbe non congrue, non laudabiliter
+                        exitur ad opus doctrine. UndeDauidmandauit
+                        nunciis suis, manere inHierichodonec crescat
+                        barba vestra.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp77224752" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:30:29:324">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:30:30:225">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

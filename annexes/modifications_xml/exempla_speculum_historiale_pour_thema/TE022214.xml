@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022214" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">35</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Cassianus] [ex libro VIIo]Proinde nec debere,
+                        nec posse nos universa complere, que vel cum quiete animi, vel cum
+                        commotione decrevimus, etiam aliis scripturarum testimoniis edocemur, quibus
+                        vel viros sanctos, vel angelos, vel ipsum omnipotentem deum, ea quem
+                        diffinierant pro utilitatibus hominum frequenter legimus immutasse. Cum
+                        intracturos se domumLothSodomisangeli denegassent, continuo eius precibus compelluntur
+                        statutum mutare sermonem. Que utique non ob aliam credimus causam, spiritum
+                        sanctum sacris voluminibus indidisse, nisi ut istis erudiamurexemplis,in definitionibus nostris non
+                        pertinaciter permanere, sed eas arbitrio nostro debere subicere, et ita
+                        iudicium nostrum ab omni legis vinculo liberum conservare, ut promptum sit adsecundumsequendumquocumque vocaverit salubre consilium, nec differat ac recuset ad
+                        id quod utilius discretio salutaris invenerit absque ulla cunctatione
+                        transire. Et ut sublimiora adhuc ascendamexempla,dominus cum necesse fuerit, incunctanter se suam
+                        sententiam mutaturum pro nostris meritis promittit dicens: Repente loquar
+                        adversus gentem et cetera. Nec illius precepti utilitas est silenda, quod
+                        etiam si instigante ira vel qualibet alia passione, sacramento nos aliquo
+                        vinxerimus, comparanda est illa res quam statuimus huic, ad quam transire
+                        compellimur, atque ad eam sine cunctatione est transeundum, que
+                        superveniente saniore tractatu iustior fuerit iudicata. Rectius est enim
+                        nostram nos immutare sententiam, quam rei salubrioris ac pie subire
+                        iacturam. Denique numquam rationabiles ac probatos patres, duros aut
+                        irrevocabiles in huiuscemodi diffinitionibus fuisse reminiscimur, sed velut
+                        ceram calore solis, ita eos ratione mollitos, et intercedente salubriore
+                        consilio, melioribus partibus sine hesitatione cessisse. Quoscunque autem
+                        vidimus diffinitionibus suis pertinaciter inherere, irrationabiles semper
+                        probavimus, ac discretionis expertes. Nos quidem non de principalibus
+                        mandatis, sine quibus non potest nostra salus omnino persistere, ista
+                        decrevimus, sed de hiis que sine periculo status nostri [vel] relaxare
+                        possumus, vel tenere, ut puta de inremissio rigore ieiunii, de vini seu olei
+                        perpetua abstinentia, de progressu cellule penitus cohibendo,dilectionisde lectionisseu meditationis incessabili iugitate. Ceterum super observantiam
+                        illorum principalium mandatorum constantissime definiendum est, ac pro hiis
+                        etiam mors si necesse fuerit non vitanda, pro quibus immobiliter est
+                        dicendum: Iuravi et statui. De illis vero corporalibus exerciciis que ad
+                        modicum dicuntur esse utilia, ita est, ut diximus, statuendum, ut si qua
+                        supervenerit certior pietatis occasio, que illa suadeat relaxari, nulla pro
+                        hiis lege teneamur, sed pretermissis eis ad utiliora libere transeamus.
+                        Prefigens siquidem sibi legem unusquisque sub libertatis gratia constitutus,
+                        perniciosa semetipsum obligat servitute, ut ea que licite immo etiam
+                        laudabiliter cum gratiarum actione presumere potuisset, si necessitas
+                        fortasse compulerit, velut transgressor percipere compellatur. Ubi enim non
+                        est lex, nec prevaricatio. Hac beatiIosephinstitutione atque
+                        doctrina velut divino oraculo confirmati, inEgyptoresidere
+                        maluimus, tamen expleto VII annorum numero sponsionem nostram implevimus,
+                        primumque senioribus nostris honorem debitam solvimus. Deinde aculeo nostre
+                        sponsionis avulso adsytioticesolitudinis secreta
+                        redimus.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698162195" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:47:38:191">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:47:40:464">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

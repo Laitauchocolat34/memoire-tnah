@@ -1,0 +1,29 @@
+Pour établir une interconnexion efficace entre les bases de données ThEMA et SourcEncyMe, trois solutions ont été envisagées : la fusion des bases de données, la création d'une API, et l'ajout de liens simples dans les fichiers \index{XML-TEI}XML-TEI. Chacune de ces solutions présente des avantages et des inconvénients, tant sur le plan technique qu'institutionnel et scientifique.
+
+
+\section{Solution radicale : fusionner les deux bases de données}
+L'une des solutions les plus directes pour relier ThEMA et SourcEncyMe consiste à fusionner les deux bases de données en un projet unique. Cette option pourrait être envisagée en regroupant les deux bases sous l'égide d'une infrastructure commune, telle que Biblissima, puisque l'IRHT et l'EHESS sont déjà partenaires de ce projet\footcite{PartenairesProjetBiblissima}. Une autre possibilité serait de les fusionner directement dans ThEMA ou SourcEncyMe. 
+
+La fusion des deux bases de données présente plusieurs avantages. Tout d'abord, elle élimine la nécessité de développer une API, ce qui pourrait simplifier considérablement le processus d'interconnexion. En outre, en consolidant les deux systèmes de gestion de bases de données (\index{SGBD}SGBD), la maintenance serait également simplifiée, car une seule base de données nécessiterait une gestion continue.
+
+Cependant, cette solution présente des inconvénients. Sur le plan institutionnel, la fusion impliquerait que l'une des deux institutions, l'EHESS ou l'IRHT, prenne en charge l'ensemble du travail de gestion des deux bases, ce qui pourrait poser des problèmes de responsabilité et de gouvernance. D'un point de vue historique, la fusion risquerait de brouiller la distinction entre les deux types de sources que sont les \index{Encyclopédies}encyclopédies et les récits exemplaires. Enfin, sur le plan scientifique, bien que les deux bases poursuivent des objectifs similaires en termes de valorisation du patrimoine médiéval, ThEMA se concentre sur la diversité des \index{Récits exemplaires}récits exemplaires\footcite{ThEMA}, tandis que SourcEncyMe se focalise sur la transmission des textes encyclopédiques\footcite{SourcEncyMe}. Ces différences essentielles seraient potentiellement compromises par une fusion.
+
+Face à ces défis, il a été nécessaire de considérer d'autres solutions moins radicales et plus respectueuses des spécificités institutionnelles et scientifiques de chaque base.
+
+
+\section{Solution idéale : développer une API}
+La création d'une \index{API}API (Interface de Programmation d'Applications) permettrait de connecter les deux bases tout en les maintenant distinctes. Une \index{API}API est un ensemble de spécifications techniques permettant à des logiciels de communiquer entre eux en définissant des protocoles, méthodes, et formats de données. Cette solution offrirait un point d'accès centralisé pour interroger les deux bases, et permettrait de manipuler des données provenant de schémas \index{XML}XML différents, même si ces schémas évoluent\footcite{pedroBuildingAPIProduct2024}.
+
+L'avantage de cette approche est de pouvoir, par exemple, rechercher un \textit{exemplum} dans SourcEncyMe et récupérer les \index{Récits exemplaires}récits exemplaires similaires dans ThEMA en utilisant l'indexation de l'\textit{Index exemplorum} de Frederic Tubach\footcite{tubachIndexExemplorumHandbook1969}, sans avoir à recréer un système d'indexation des \textit{exempla} dans SourcEncyMe\footnote{L'ouvrage de Tubach, publié en 1969, propose une classification et un catalogue des récits exemplaires en fonction de leurs thèmes, motifs et caractéristiques. Il est intégré à ThEMA.}.
+
+Cette solution maintient la distinction historique entre les sources et respecte les spécificités scientifiques et institutionnelles des deux bases. Cependant, elle a été écartée en raison de la complexité technique et du temps limité du stage. ThEMA dispose déjà d'une API, mais SourcEncyMe n'en avait pas, et je n'avais pas accès direct au code source, seulement aux fichiers contenant les \index{Encyclopédies}encyclopédies.
+
+Ces contraintes nous ont conduits à opter pour une dernière option : l'ajout de simples liens dans les fichiers XML.
+
+
+\section{Un compromis : l'ajout de liens simples}
+La solution finalement retenue pour l'interconnexion des deux bases de données a consisté à ajouter de simples liens dans les fichiers \index{XML-TEI}XML-TEI. Cette approche, bien que techniquement moins ambitieuse que la création d'une \index{API}API ou la fusion des bases, présente plusieurs avantages.
+
+L'ajout de liens est une tâche relativement simple à mettre en œuvre. Il s'agit d'insérer des balises \index{XML-TEI}XML-TEI qui pointent vers des données similaires présentes dans les deux bases. Ces liens peuvent ensuite être activés dans le HTML des bases de données, permettant aux utilisateurs de naviguer facilement entre ThEMA et SourcEncyMe.
+
+Cette solution présente l'avantage d'être facilement réalisable dans le cadre d'un stage court et de ne nécessiter qu'une formation technique limitée. De plus, elle évite les conflits institutionnels, scientifiques et historiques, car les deux bases restent distinctes tout en étant reliées. Ainsi, cette méthode offre un bon compromis, permettant d'interconnecter les deux bases de manière efficace sans compromettre leur indépendance.

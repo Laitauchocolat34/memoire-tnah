@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022127" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">413</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item quod delinquentis correptio debeat esse mixta, sive temperata ex
+                        asperitate et lenitate, patet alioexemplo.Dicunt enimviri de agricultura periti et
+                        experti, quod si arbor que facit acetosum vel amarum fructum,
+                        perforetur, ita quod foramen per arborem transeat, et in ipsum foramen aqua
+                        mellita perfundatur, et cum clauo, qui fit de ligno eiusdem arboris, ipsum
+                        foramen obstruatur; talis, inquiunt, arbor facit fructum dulcem. Quid autem
+                        est arbor faciens fructum acetosum, vel amarum, nisi peccator faciens opus
+                        malum, quod tandem conscientiam pungit, et amare pene reatum inducit: Sed
+                        eius foramen tunc aqua mellita infunditur, cum blanda eius auri correptio
+                        adhibetur, que tunc cum clauo obstruitur, cum terrore pene, et comminatione
+                        cohibetur. Ex quibus patet, quod in correptione delinquentis, misceri debent
+                        ad invicem aqua, id est, sapientia locutionis, mel, id est, dulcor
+                        mansuetudinis, et clauus, id est, terror pene vel comminationis. Et talis
+                        correptio sic arborem, id est, hominem immutat, ut que primo faciebat poma
+                        acerosa, vel amara, id est, opera corrupta, et praua, producat e contrario
+                        suauia et dulcia, id est, opera de cetero faciat honesta, et
+                        gratiosa.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp76146512" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:49:34:619">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:49:35:964">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

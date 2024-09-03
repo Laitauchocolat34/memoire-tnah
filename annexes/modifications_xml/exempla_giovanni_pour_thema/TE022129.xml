@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022129" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">415</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Secundo ratione potationis: quia subdituribidemde ipsoNoe, quod bibens vinum
+                        inebriatus est, et nudatus iacuit in tabernaculo suo: Tunc enim prelatus de
+                        sua vinea bibit vinum, quando letatur de profectu subditorum: sed tunc vino
+                        inebriatur, quando plus debito gloriatur, nudatur autem quando magnificat
+                        fimbrias suas, et aliis opera sua commendat, thesaurum suum publice in via
+                        portat, et depredari desiderat: sed turpius nudatur, quando propter
+                        immoderatam gloriam, et ignominiosam luxuriam cadere permittitur, ut per
+                        confusionem ignominie curertur ostentatio glorie.Bernardus.Magnum peccatum, quod tam vili emplastro curatur, hoc
+                        sepe accidit prelato, ut denudentur femora sua propter luxuriam.2. Reg. NunciisDauidtruncantur tunice usque ad nares, hoc fit quando usque ad pudenda luxurie de
+                        honestantur predicatores. Inebriatio autem est cordis elatio ex profectu
+                        virtutum, vel abundantia temporalium. Verendorum denudatio est infirme
+                        cogitationis demonstratio; dum humana prelati infirmitate conceptio
+                        gloriationis cogitate per quamlibet iactantiam, vel inanem gloriam, vel per
+                        aliquam humani excessus intemperantiam manifestatur.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp76165328" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:49:55:907">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:49:57:367">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

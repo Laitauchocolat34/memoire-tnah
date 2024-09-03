@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022188" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">474</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item tentari et tribulari Deus hominem permittit, etiam postquam ei
+                        magna dona contulit. UndeSalomon(sicut
+                           dicitGregorius) divinitus sapientiam accepit,
+                        et statim post meretricum mulierum questione puisatus fuit. Quod igiturSalomonmox post tantam reuelationem
+                        certamen turpium mulierum pertulit, designauit, quod mentem nostram sepe
+                        concessis virtutibus respectus intime largitatis illuminat, sed hanc
+                        protinus etiam lubrice cogitationes turbant, ut que subleuata immenso munere
+                        exultat, etiam tentatione pulsata, quid sit inveniat. SicHeliasdivina gratia preditus, sermone celos
+                        aperuit, et tamen probatus, subito infirmus per deserta fugiens, unam
+                        mulierem expauit. Sic etPaulusad tertium
+                        celum ducitur, paradisi penetrans secreta considerat, et tamen ad semetipsum
+                        rediens, contra carnis bellum laborat, legem aliam in membris sustinet,
+                        cuius impugnatione in se fatigari spiritus legem dolet.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp77691936" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:59:40:717">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:59:41:638">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

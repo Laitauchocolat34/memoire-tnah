@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022119" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">405</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Sic etiam fuerunt quidam feruentissimi Sancti, qui quasi nullius
+                        ventilationis refrigerium carni sue prestare voluerunt: Voluerunt enim
+                        potius ipso exteriori cortice, id est, carne mala sentire, quam tentationum
+                        et vitiorum puncturas, et corrosiones, ad mentis sue intima penetrare, sicutpatetde BeatoGermano
+                           AltisiodorenseetHylatione, et beatoMartino, et quibusdam aliis, qui
+                        laboriosissimam et austerissimam vitam duxerunt continue, sed tamenPalla.dicit, quod nihil tamdiu custodiendis
+                        frumentis commodius erit, quam si ex areis in alterum vicinum locum
+                        transfusa refrigerentur aliquantis diebus, atque ita horreis inserantur. In
+                        quo signatur, quod noui, et imperfecti, qui sunt similes frumento quod de
+                        arca trahitur, non sunt in tanta austeritate et arctitudine tenendi, sed
+                        interdum ad breue spacium temporis aliqua recreatione refrigerandi, et post
+                        hoc ad horreum asperitatis et laboris reducendi: ex hoc enim feruentius
+                        laborabunt, et magis etiam consolari in labore persuerabunt.Seneca: Non semper in actu sis, sed interdum animo
+                        tuo requiem dato, sed et ipsa requies plena sit sapientia, bonisque
+                        cogitationibus.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp76092496" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:48:19:208">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:48:20:265">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021870" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">156</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Abundantia prosperitatis sentire prohibet vulnera mentis. Cuiusexemplumapparet in cete, et in pisce balena, qui
+                        tante est pinguedinis, quod quando percutitur, vulnera non sentit, nisi
+                        pinguedo eius totaliter perforata fuerit ; sed quando caro interior leditur
+                        facile capitur, quia amaritudinem aque non sustinens, littus petit, et
+                        moritur cito. Velut autem pinguedo piscis, est abundantia prosperitatis, que
+                        quidem dum peccantibus affluit, mentis vulnera sive dana sentire non
+                        permittit. Unde Dominus contraHierusalemdixit.Luc.Nunc quidem in hac die tua, que ad pacem
+                        tibi, sed abscondita sunt ab oculis tuis. Sed tunc peccator intrinsecus
+                        tangitur, cum temporali adversitate percutitur : Sunt enim mentium vulnera
+                        peccatoribus quasi extrinseca, ex eo quod spiritualia, in quibus leduntur,
+                        quasi reputant extranea. Sed cum in temporalibus, que magis diligunt,
+                        leduntur, quasi in intimis vulnerari affligunt, cuius interdum vulneris
+                        amaritudinem non ferentes, vel compuncti a suis peccatis, littus penitentie
+                        querunt, vel lapsi in desperationis barathrum eternam mortem
+                        incurrunt.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp122227728" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:09:53:862">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:09:55:027">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

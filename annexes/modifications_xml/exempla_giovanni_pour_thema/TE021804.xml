@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021804" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">90</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Tertio, ratione distinctionis, quia corallus duplex est, rubeus et
+                        albus, possumus enim coralli rubiginem inflectere in bonam partem, ut
+                        scilicet corallus albus representet puritatem innocentie, rubeus vero
+                        ruborem penitentie sive confessionis. Penitentia enim quanto magis est
+                        verecunda, tanto validior ; quia erubescentia cum sit pena, magna pars est
+                        satifactionis, secundumAug.Utrumque autem
+                        corallum dicitur magis valere contra fulmen, eique resistere. Quia scilicet
+                        utrumque dictorum, scilicet puritas innocentie, et purgatio penitentie,
+                        valer contra fulmen, id est, contra impetum ire Dei, sive pestilentie. Nam
+                        de puritate innocentie,patetin Sodomitis ; quia
+                        Dominus asseruitAbrahe, quia si fuissent inter
+                        eos decem tantum innocentes inventi, pepercisset omnibus illis. De
+                        purgatione penitentie,patetin Ninivitis, quibus
+                        Deus pepercit penitentia a plaga, quam perIonamProphetam predixerat, quia penitentiam egerunt ad
+                        predicationem illius.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp119696752" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:01:05:765">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:01:06:767">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

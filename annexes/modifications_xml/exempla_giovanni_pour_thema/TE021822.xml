@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021822" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">108</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Fervor divini amoris augetur in afflictione carnis, et abundantia
+                        devotionis : cuiusexemplumapparet in pino. Nam
+                        pinus, que exterius habet durum et grossum corticem, sed interius multum
+                        humorem pinguem, de facili et multum inflammatur, si igni aliquo casu
+                        applicatur. Ille ergo exterius habet durum corticem et asperum, qui carnem
+                        suam per duram abstinentiam, vel asperos labores affligit. Ille interius
+                        habet multum pinguedinis, qui multam habet devotionem mentis, et hic per
+                        divinum amorem faciliter et fortius inflammatur, dum alicui ignite, id est,
+                        affectuose rei applicatur, sive affectuosa verba audiendo.Psal.Eloquium Domini inflammavit eum. Sive devotas
+                        scripturas intelligendoLuc.Nonne cor nostrum
+                        ardens erat in nobis, dum loqueretur in via, et apperiret nobis scripturas :
+                        Sive de passioneIesu Christimeditando : quia
+                        ibi ostensus est singularis amor Salvatoris, scilicet in opere nostre
+                        redemptionis, et ideo maxime debet in nobis accendere ignem amoris. UndeBer.dicit : Dilexit nos Deus dulciter,
+                        sapienter, et fortiter, Dulciter nempe dixerim, quod carnem induit ;
+                        sapienter, quod culpam vitavit, fortiter, quod mortem sustinuit : sed super
+                        omnia reddidit te mihi amabilem, boneIesu,
+                        calix, quem bibisti, opus nostre redemptionis. Hoc enim omnino amorem
+                        nostrum vendicat sibi, hoc inquam, nostram devotionem blandius allicit,
+                        iustius erigit, arctius stringit, et vehementius afficit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120680640" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:03:28:539">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:03:29:696">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

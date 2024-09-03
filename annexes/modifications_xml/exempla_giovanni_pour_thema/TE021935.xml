@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021935" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">221</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Subditi qualiter se habeant ad prelatum suum, ostenditurexemploapum. Nam apes sibi regem creant, ipse sibi
+                        populos ordinant ; et licet sint sub rege, sunt tamen libere, et quem regem
+                        faciunt, naturali affectu diligunt, et summa protectione defendunt, et pro
+                        eo mori pulchrum esse credunt : et ipsi regi tantam reverentiam exhibent, ut
+                        nullatenus exire de domibus audeant, nec prodire ad pastus, nisi rex fuerit
+                        egressus, et volatus sibi vendicaverit principatum. Eligunt sibi illum in
+                        regem, quem magnitudine corporis vident magis insignem, et quod in rege
+                        precipuum est, mansuetudine clariorem. Unde nullum aculeum habet, vel si
+                        habet, non utitur ad vindictam. Miranda est earum circa regem obedientia.
+                        Nam cum procedit, totum conglobatur examen, et regem circundat, ut tunc
+                        videri non valeat. Singule tunc obsequi regis se offerunt, et ei proxime
+                        esse contendunt, et fessum sublevant humeris, et aliquando totum portant,
+                        ubicunque vero rex sederit, ibi totus exercitus castra figit, rege viso
+                        totus animatur exercitus, ipso quoque amisso, examen dilabitur, quia sine
+                        rege esse non possunt. Cum ergo pars apum in labore est, rex solus a labore
+                        immunis est, et intus solus sedet, circa quem semper ad sunt quedam apes
+                        fortem aculeum habentes, tanquam lictores regem custodientes, et offendentes
+                        puniunt : et raro rex foras exit. Unde si quis tunc temporis alam regi
+                        prescinderet ; exercitus non exiret. Quando autem rex moritur, circa ipsum
+                        conglobantur, et more funerantium tristitia torpent, et plebs tota meret,
+                        non comedunt, non procedunt, tristi murmure omnes gemunt non luctus
+                        minuitur, immo fame se mori permittunt, nisi corpus regis de medio
+                        subtrahatur.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp123560848" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:18:50:601">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:18:51:823">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

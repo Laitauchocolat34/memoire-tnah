@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022095" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">381</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item nota, quod peccata puerorum puerilis etas non semper excusat: quod
+                        patet perexemplumtam humane quam divine legis:
+                        Nam secundum leges humanas quedam crimina sunt que minoribus sive pueris
+                        imputantur post 14. annum tantum: Nam in adulterio, vel alio crimine, quod
+                        pro adulterio lex Iulia posuit, puta, si pecuniam accepit pro comperto
+                        stupro, vel domum prebuit ad stuprum, vel adulterium committendum, districte
+                        punitur minor, quia in nullo eidem parcitur aduersus precepta legum
+                        venienti, cum committit in legem, ut ff. de minoribus, et l. auxilium. §. in
+                        delictis, et lege si ex causa: Hec enim iura loquuntur de minore maiore. 14.
+                        annis, quia minor. 14. annis predicta lege lulia non tenetur. Solet autem in
+                        quibusdam malitia anticipare tempus pubertatis, extra de desponsalibus, c.
+                        impube. a nobis, et cap. pubes. Et aliquando tentant quod forsitan complere
+                        non possunt: extra de sponsali. cap. iuvenis. et cap. fin. In quo casu ipsos
+                        peccare intelligas, si alias mulieres tentauerint quam vxores. Ius tamen
+                        presumit, quod in pueris locum non habent peccata que membris genitalibus
+                        committuntur, extra de delict. puer. capitulo primo. Alia autem crimina seu
+                        delicta, impucantur pueris etiam infra 14. annum scilicet a septennio usque
+                        ad 14. quia omne delictum cadit in impuberem, preterquam delictum carnis,
+                        scilicet quoad penam spiritualem, et quoad penitentiam a Sacerdote petendam,
+                        ex quo scilicet septem annos excessit, quia talis potest mentiri, et verum
+                        dicere. Unde dicitAugustinus, sic enim habetur inglossa super canonemde consecratio.
+                        distinctione 4. capitulo parvuli: Septennis etatis pueri, et mentiri, et
+                        verum loqui, et confiteri, et negare possunt. Et ideo cum baptizantur, et
+                        symbolum reddunt, et ipsi per se ad interrogata respondent: Nam et mendaciis
+                        et periuriis plena est etas puerilis: extra de delictis pue. capitulo primo.
+                        Et quamuis iurare non debeant. 22. questione. 5. ca. pueri, et cap. parvuli,
+                        et capitulo honestum, si tamen iurauerit, valet pupilli iuramentum. Potest
+                        ergo puer deierare, ff. de libera. causa. l. ultima: Et furtum committere,
+                        ut ff. de fur. l. impuberem. Etenim malorum vires infirmitas animi non
+                        excusat, ut C. si aduersus delictum, lege 1. Hoc denotat mens verbi positi
+                        eodem capitulo primo pueris grandiusculis, non dicit infantibus, nec dicit
+                        pueris grandibus, sed grandiusculis, quasi de maioribus septem annorum
+                        loquatur: Sic ergo maior septem annis delinquere potest quoad Deum, et
+                        spiritualiter puniri.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp61054880" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:44:22:142">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:44:23:664">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

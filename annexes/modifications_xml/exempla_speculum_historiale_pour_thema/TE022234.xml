@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022234" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">55</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Helynandus] [ad amicum lapsum]Explosa est igitur
+                        omnis illa difficultatis accusatio quam contra ordinem induxisti, et
+                        impossibilitatis excusatio quam parte adduxisti. Necque enim ordo tam
+                        difficilis est ut infirmos non recipiat, cum et illis satisfaciat et
+                        accurrate et delicate. Neque tu tam infirmus aut debilis es ut ad illum
+                        portandum nequaquam sufficias, cum ego non deficiam, te et infirmior et
+                        debilior. Et ut de me taceam, quantos tibi possum ostendere qui de vita
+                        delicatissima ad hunc ordinem quem appellas durissimum et difficillimum se
+                        transtulerunt, nec tamen adhuc ab ea resilierunt, quamvis et etate iuniores
+                        te sint et natura teneriores et debiliores viribus? Et ut de tot milibus
+                        unum excipiam, unum tibi excipio qui certe solus sufficit ad omniumexemplum.Ipse quidem spectaculum factus est, et
+                        angelis et hominibus levitate miraculi, qui prius eis spectaculum fuerat
+                        miraculo levitatis, dum non scena, non circus, non theatrum, non
+                        amphiteatrum, non amphicircus, non forum, non platea, non gignasium, non
+                        harena sine eo resonabat. NostiHelynandum,sed quis non novit
+                        hominem, si tamen hominem? Neque enim tam natus erat homo ad laborem quam
+                        avis ad volandum, circuiens terram et perambulans eam, querens quem
+                        devoraret, aut adulando, aut obiurgando. Ecce in claustro clausus est, cui
+                        totus mundus solebat esse non solum quasi claustrum, sed etiam quasi carcer.
+                        Quomodo ergo non potes quod iste potest, cuius mutatio dextre excelsi,
+                        quantum stuporem intulit seculo pudoremque dyabolo, tantum ipsi domino
+                        contulit honorem. Neque etenim ipse tam levis fuerat, quam ipsa levitas.
+                        Unde et tanta levitas tam leviter mutata, apud plerosque nichil aliud
+                        putatur quam levitas. Hinc est quod iam quinquennis eius conversatio vix
+                        facit alicui fidem de futuro. Nimirum, quantum in seipso experimentum dedit
+                        inconstantie, tantum perseverature constantie nunc debilitat argumentum.
+                        Erubesce igitur miserrime te saltem non sequi istum precedentem, iuniorem,
+                        infirmiorem, debiliorem, delicatiorem. Quis enim attendens unde iste
+                        surrexerit surgere non possit?</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698326805" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:50:29:252">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:50:31:943">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

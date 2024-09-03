@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022202" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">23</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Ambrosius] [de officiis libro Io]Formam iustitie
+                        putaverant quidam, ut quis communia, id est, publica pro publicis habeat,
+                        privata pro suis, sed hoc quidem secundum naturam non est. Natura enim omnia
+                        omnibus in commune profudit, sic enim generarius iussit deus omnia, ut
+                        pastus omnibus communis esset, et terra. Natura igitur ius commune
+                        generavit, usurpatio vero privatum fecit. Non autem probatur largitas, si
+                        quod alteri largitur, alteri quis extorqueat. Nec illa perfecta est libertas
+                        [liberaliter], sed iactantie causa magis quam misericordie largiaris.
+                        Affectus tuus nomen ponit operi tuo, quomodo a te proficiscitur, sic
+                        estimatur. Vides quam moralem iudicem habeas? Teipsum consulit, mentem tuam
+                        interrogat, quomodo opus tuum suscipiat. Nesciat inquit sinistra tua et
+                        cetera. Grandis culpa est si sciente te, fidelis egeat. Nam et si omnibus
+                        debetur misericordia, iusto tamen amplius. Ubi vero causa manifestatur,
+                        persona cognoscitur, tempus urget, largius se perfundere misericordia debet.
+                        Non est autem avarus ut plurimum querat, nec vult simul opes effundi, sed
+                        dispensari. Est etiam illa probanda liberalitas, ut proximos seminis tui non
+                        despicias, si egere cognoscas. Melius est enim ut ipse subvenias tuis,
+                        quibus pudor est deposcere sumptum ab aliis, non tamen ut illi velint eo
+                        fieri ditiores, quod tu in opibus conferre potes. Neminem vero pudere debet,
+                        si ex divite pauper fiat, dum largitur pauperi,
+                        quiaChristuspauper factus est, cum dives esset, ut omnes inopia
+                        sua ditaret. Qui multum, inquit habuit non habundavit, et cetera. Qui
+                        plurimum auri possidet, non habundat, quia nichil est quicquid in seculo
+                        est. Et qui exiguum habet nom minorat, quia nichil est quod amittit. Res
+                        enim sine dispendio est, que tota dispendium est. Potest etiam sic
+                        intelligi: Qui plurimum habet et non dat, [non] habundat, quia quantumvis
+                        acquirat, semper eget, qui plus concupiscit et qui parum habet, non minuit,
+                        quia [non] multum est quod pauperem pascit. Consideranda etiam est in
+                        largiendo etas, atque debilitas, nonnunquam etiam verecundia, que ingenuos
+                        natales prodit, ut senibus et debilibus plus largiaris, qui sibi laborare et
+                        victum querere nequeunt. Pulchrum quoque est propensionem illius habere
+                        rationem, qui tibi aut beneficium aliquod aut minus contulit, si in
+                        necessitate ipse incidit. Quid enim tam contra officium quam non reddere
+                        quod acceperis? Non dare cuiquam vix licet, non reddere vero licet. Nec
+                        mensura pari, sed uberiore reddendum arbitror, et usum pensare beneficii,
+                        quia qui prior contulit, tempore prior est et humanitate. Humanitatisexemplumipsa quoque terra suggerit, que et fructus
+                        ministrat quos non severis, et multiplicatum reddit quod acceperit. Magna
+                        vero benivolentia est, que etiam si nichil conferat, plus exibet.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698133269" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:45:51:745">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:45:53:590">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

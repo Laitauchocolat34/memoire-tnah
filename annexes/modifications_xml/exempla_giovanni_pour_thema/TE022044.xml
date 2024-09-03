@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022044" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">330</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item simplicitas dividenda est, ut non sit fatua, sed religiosa, ut sit
+                        sanctitas, non fatuiras, ut sit simplicitas columbe cum astutia serpentis,
+                        ne sit sicut equus et mulus, in quibus non est intellectus. Sicut enim mulus
+                        cui insidebatAbsalon, ipsum detulit in
+                        suspendium, sic fatua simplicitas multos precipitat in infernum. In columba
+                        autem designatur charitas: quia columba felle caret, et gregatim volat. In
+                        turture vero designatur castitas. Sed has auesAbrahamnon diuisit: quia charitati et castitati ab omnibus et
+                        omni tempore est insistendum. Nam castitas competit non solum virginibus, et
+                        viduis, sed etiam suo modo coniugatis. Vel ideo fit diuisio animalium, et
+                        non autum. Quia per animalia intelliguntur actiui, quorum solicitudo
+                        diuiditur ad multa: sed per aues intelliguntur contemplatiui, quorum tota
+                        intentio fertur in unum.Psal.Unam petii a
+                        Domino, etc. UndeDominusdixitMarthe: Turbaris erga plurima: hoc quantum ad
+                        actiuam. Porro unum est necessarium; hoc quantum ad contemplatiuam. Vel in
+                        turture significatur vita solitaria, quia turtur soliuaga in solitudine
+                        gemit, sic solitarius debet gemere luctu penitentie.Hierem.Non sedi in consilio ludentium, et gloriatus sum a facie
+                        manus tue, sedebam solus, quoniam comminatione replesti me: habens enim
+                        preciosum balsami liquorem in vase fragili, non debet se ponere in pressura
+                        hominum.Sene.Ubi plus est populi, ibi plus est
+                        periculi, cum inter homines fui, minor homo redii.Ose.Ducam eam in solitudinem, et loquar ad cor eius.Moysilocutus est Deus, non in palatio sed in
+                        deserto. Cecus a Domino extra turbam illuminatur. Puella mortua in thalamo,
+                        eiecta turba resuscitatur; Non enim in commotione domus. Clause erant oves
+                        in arca, quia opera spiritualia debent claudi in conscientia. In columba
+                        vero, que gregatim volat, significatur religio in congregatione viventium,
+                        qui debent ad modum columbe carere felle invidie.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp106139856" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:36:08:418">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:36:09:766">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

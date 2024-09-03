@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021798" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">84</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Secundo ratione tenacitatis : nam bitumen est tante tenacitatis, ut nec
+                        aqua, nec ferro dissolui possit, sed sanguine menstruali. Sic charitatis
+                        glutinum tam tenax est, ut nec aqua tribulationis, nec gladio percussionis
+                        solvatur.Cant.A que multe non potuerunt
+                        extinguere charitatem. Et ideo ArcaNoe, ut
+                        esset fortis contra aquas diluvii bitumine liniri eam Deus precepit.Gen.Bitumine linies intrinsecus et extrinsecus.
+                        Arca enimNoeid est, mens iusti, debet contra
+                        aquas diluvii, scilicet contra tribulationes mundi bitumine, id est,
+                        charitate liniri, intrinsecus quoad Deum extrinsecus quoad proximum. Ferrum,
+                        sive gladius persecutionis charitatis bitumen separare non potest, secundum
+                        illudApostol.Quis nos separabit a charitateChristi? an angustia ? an nuditas ? an
+                        tribulatio ? an fames ? an gladius ? Soluitur tamen, et tollit bitumen
+                        charitatis sanguine menstruali, id est, peccato mortali quod ab intimo fluit
+                        ad modum sanguinis, et ad modum menstrui et abominabile et infectivum
+                        existit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp125425040" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:00:19:089">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:00:20:095">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

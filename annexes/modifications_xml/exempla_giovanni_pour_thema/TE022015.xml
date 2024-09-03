@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022015" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">301</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item ociositas, et voluptas sunt causa doloris, et dissipationis anime
+                        et corporis. Cuiusexemplumest: quia secundumAuicen.quies corporis, et tranquillitas, et
+                        dimissio exercitii, coitus plurimus, et precipue coitus super repletionem
+                        cibi, frequentia ebrietatis, et precipue vinum plurimum in ieiunio ante
+                        cibum, quod maxime ledit neruos, sunt precipue causa doloris iuncturarum, et
+                        podagre, et cyathice. Quies ergo spiritualiter refertur ad somnolentiam,
+                        tranquillitas ad pigritiam, dimissio exercitii ad imperseverantiam, coitus
+                        ad luxuriam, repletio vero et ebrietas ad gulam. Hec ergo sunt illa vitia,
+                        que primo ledunt anime iuncturas: sunt enim in anima vis irascibilis, et
+                        concupiscibilis, et etiam rationalis, quas oportet esse in anima invicem
+                        coniunctas per participationem et colligantiam rationis, quod est, quando
+                        passiones irascibilis et concupiscibilis a ratione ordinantur: Et ideo
+                        vocantur aPhilosophoirascibilis, et
+                        concupiscibilis, virtutes rationales: sed has virtutes ledunt, et distingunt
+                        vitia supra dicta: quia per ociositatem et quietem hebetantur passiones
+                        irrascibiles, sed per gulam et luxuriam distemperantur passiones
+                        concupiscibiles, et sic soluitur colligatio et iunctura rationis. Vel per
+                        lesionem iuncturarum intellige lesionem omnium virtutum, quia omnes virtutes
+                        (secundumSanctos, et secundumPhilosophos) sunt invicem connexe et coniuncte. Sed
+                        tamen predicta vitia earum iuncturas dissoluunt: quia per ocium et
+                        somnolentiam, et imperseverantiam tolluntur et separantur virtutum actus,
+                        sed per gulam, et luxuriam, eradicantur etiam virtutum habitus. Undediciturde luxuria, quod ignis est usque ad
+                        consumptionem deuorans, et omnia eradicans genimina.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp82640144" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:31:07:794">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:31:09:741">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022033" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">319</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item superbie tumor aliquando etiam penitentes, et Dominum diligentes
+                        inuadit, et occidit. Cuiusexemplumapparet in
+                        dolore stomachi: Nam (sicut dicitAuicen.) quando
+                        apparet cum dolore stomachi super pedem dextrum aliquid simile vesice,
+                        patiens moritur in xxvii diebus: Est enim quasi dolor stomachi, penitentia
+                        et dolor peccati: Nam sicut dolor cruciat stomachum, sic conscientia peccati
+                        remordet et cruciat animum. Et autem velut pes anime, amor eius: sed tanquam
+                        pes sinister est amor temporalium, tanquam vero dexter per est amor
+                        spiritualium: ergo anima penitens debet habere dolorem quo purificetur, et
+                        pedem dextrum, id est, amorem spiritualium quo promoueatur. Sed inter hec
+                        cauenda est vesica, id est, timenda est superbia: Est enim tumor superbie
+                        velut eleuatio vesice, que tunc in pede dextro nascitur, quando de
+                        spiritualis operis profectu aliquis extollitur, sed hoc patiens ad mortem
+                        appropinquat, quia omnis intumescens superbia ad ruinam peccati festinat.Prov.Qui altam facit domum suam, scilicet
+                        mentis, querit ruinam.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp70521184" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:34:10:390">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:34:12:337">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022137" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">423</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Mundi totius universitas representabatur in tabernaculoMoysi: Nam illud tabernaculum distinguebatur in
+                        duas partes. Quarum una dicebatur Sancta sanctorum, que erat Occidentalis:
+                        Alia vocabatur sancta, que erat ad Orientem. Et iterum ante tabernaculum
+                        erat atrium, et inter utrunque tabernaculum erat velum quatuor colorum. Item
+                        interiora tabernaculi latera tegebantur cortinis diversorum colorum, et
+                        supra tabernaculum erat tectum habens tres cooperturas. Pars igitur illa que
+                        dicebatur sancta sanctorum, significabat seculum altius spiritualium
+                        substantiarum. Pars vero que dicebatur sancta, signabat mundum corporalem.
+                        Velum distinguens inter utrunque, erat ex quatuor coloribus, per quos
+                        quatuor elementa designantur, scilicet bysso, per quam designatur terra,
+                        quia byssus, id est linum, de terra nascitur: purpura per quam designatur
+                        aqua, quia fiebat purpureus color ex quibusdam conchis que inveniuntur in
+                        mari: Iacincto per quem signatur aer, quia habet aereum colorem: et cocco
+                        bis tincto, per quem signatur ignis. Et hoc ideo, quia in materia quatuor
+                        elementorum est impedimentum per quod velantur nobis incorporales
+                        substantie, et ideo interius tabernaculum, id est, sancta sanctorum, solum
+                        summus sacerdos, et semel in anno intrabat, ut designaretur, quod hec est
+                        finalis perfectio hominis, ut illud seculum introeat. In tabernaculum vero
+                        exterius, quod dicebatur sancta, introibant sacerdotes continue, non autem
+                        populus, qui solum ad atrium accedebat, quia scilicet ipsa corporalia
+                        populus percipere potest ad interiores autem rationes eorum, soli sapientes,
+                        vel considerantes, attingere possunt. Per cortinas autem que tegebant latera
+                        tabernaculi interius, et erant ex variis coloribus, signabatur celum
+                        sidereum, quod est diversis stellis variatum. Per saga autem, que erant
+                        super tectum tabernaculi, significabantur aque que sunt supra firmamentum.
+                        Per pelles autem tubricatas, de quibus erat secunda tabernaculi coopertura,
+                        significabatur celum empireum, in quo sunt angeli. Sed per pelles
+                        iacinctinas, ex quibus erat tertia coopertura, significabatur celum sancte
+                        et indiuidue Trinitatis.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp60475552" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:51:21:048">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:51:23:015">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

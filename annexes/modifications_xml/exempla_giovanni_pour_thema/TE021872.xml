@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021872" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">158</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item activa vita requirit maxime puritatem intentionis : quod patetexemplomerule, qua cum ubique sit in pennis nigra,
+                        inAchaiainvenitur candida.Achaia, que interpretatur soror laborans, activam vitam designat,
+                        que requirit germanitatem contemplationis, Due enim sorores fueruntRacheletLya, quarum
+                        prima contemplativam, secunda vero activam significat vitam. Et alie due
+                        sororesin Evangelio, scilicetMaria Magdalena, etMartha, hoc idem figurare dicuntur. Habet etiam activa vita
+                        laborem actionis. Unde et satagebatMartha,
+                        laborans circa frequens ministerium, erat enim solicita erga plurima, et
+                        cetera. Est autem velut candida merula, actionis intentio munda, et ideo
+                        candida merulaAchaie, munda intentio est in
+                        operibus vite, quam Dominus mundandam esse docuit cum dixit, Munda prius
+                        quod intus est calicis, et paropsidis, quia enim calice potatur sitiens,
+                        paropside vero esuriens reficitur, merito quidem in calice et paropside
+                        designantur eleemosyne, et opera vite active, Sed id quod intus est calicis
+                        et paropsidis, est latens intentio eleemosynam facientis, quam quidem prius
+                        mundare debet, quam dare eleemosynam, Ante enim lavatur paropsis, quam fiat
+                        immissio cibi. Et ante mundandus est calix, quam fiat infusio vini et aque.
+                        Iuxta dictumHoratiiPoete. Sincerum nisi sit vas
+                        quodcunque infundis acescit. Sic quoque mundanda est intentio ante
+                        exercitium boni.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp122235152" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:10:09:845">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:10:10:995">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

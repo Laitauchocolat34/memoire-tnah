@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022050" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">336</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Et hinc est, quodIacobin itinere positus,
+                        caput ad lapidem posuit, et dormiuit, et tunc habuit visionem de scala, unde
+                        etiam Dominum et Angelos vidit, in quo significatur, quod in itinere huius
+                        vite ille est aptus ad divinas reuelationes, et contemplationes, qui caput
+                        ad lapidem ponit, id est, qui menteChristoinheret, et dormit, id est, ab appetitu visibilium mentis oculos claudit, et
+                        a rerum temporalium amore quiescit. Sed sequitur, pauor tenuit me, et
+                        tremor, et omnia ossa mea perterrita sunt. Ille enim qui illuminatur ad
+                        contemplandam celsitudinem divine potentie, et rectitudinem divine iustitie,
+                        pauet considerando divinam immensitatem, tremit intuendo suam deformitatem,
+                        et terrentur eius ossa, quia scilicet expauescit etiam de his que fortiter
+                        se egisse crediderat, scilicet, quando considerat divine iustitie
+                        severitatem. Unde hoc terrore percussusDauiddicebat: Non intres in iudicium cum seruo tuo Domine, etc. Nam omnis humane
+                        vite rectitudo ad illam rectissimam divini iudicii regulam deducta,
+                        multipliciter invenitur obliqua, sicut baculus qui videtur ad oculum rectus,
+                        rectissime alicui linee appositus, statim apparet distortus.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp_de_exemplis.7.19.cit5" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:37:09:814">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:37:11:033">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

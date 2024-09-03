@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021900" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">186</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Humilitatis virtus nascitur in spiritu, dum infirmitas, et corruptio
+                        carnis ad memoriam revocatur. Cuiusexemplumapparet in ceto, de quo dicitIorach, quod
+                        abundat in spermate et post coitum eius quod superfluit superenatur, quod
+                        collectum desiccatur, et in ambre lapidis substantiam convertitur. Quid ergo
+                        in superfluo spermate, nisi carnalis corruptio peccati designatur ? Cuius
+                        desiccatio, et eiusdem peccati penitudo. Tunc ergo carnis corruptio
+                        desiccata colligitur, quando cum mentis penitudine ad memoriam revocatur. Et
+                        tunc mollities spermatis in soliditatem convertitur lapidis, quia ex
+                        compunctione corruptionis carnis, nascitur humilitas mentis, que dum mentem
+                        tangit, ambreso liditatem pretendit. SicDavidex
+                        consideratione sue iniquitatis, deductus est in compunctionem humilitatis,
+                        dicens : Quoniam iniquitatem meam ego cognosco, et peccatum meum contra me
+                        est semper. Tibi soli peccati, et malum coram te feci, ut iustificeris, et
+                        cetera.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120139952" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:13:58:072">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:13:59:067">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

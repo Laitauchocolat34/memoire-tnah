@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021933" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">219</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Religionem intrare volentes, vel statum mutare querentes, illam
+                        religionem, vel statum magis eligere debent, qui magis competit eorum
+                        dispositioni, et conditioni : videlicetexemploavium, que secundum varias complexiones sibi varia habitacula querunt. Unde
+                        que magis sunt frigide, et humide, paludes et flumina inhabitant, propter
+                        ciborum assignationem, et pullificationem, ut sunt merguli, anates, et
+                        cygni, per quos intelliguntur homines, qui corpore vel spiritu infirmiores
+                        sunt, quorunt est assumere flatus humiliores, sive propter nutrimentum, si
+                        sunt corpore debiles, vel infirmi ; vel propter nidum, id est, habitationis
+                        locum. Quia interdum etiam periculosum est, quibusdam spiritualiter in
+                        aliquibus locis manere, sive quoad pullificationem, id est, ad regularium
+                        operum laborem. Volatilia vero que calidioris sunt nature, montuosa loca, et
+                        rupium concava inhabitant ; per que significantur illi, qui sunt fortiores
+                        corpore, et spiritu ferventiores, qui securius assumere etiam possunt status
+                        altiores et difficiliores.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120294192" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:18:33:761">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:18:34:760">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

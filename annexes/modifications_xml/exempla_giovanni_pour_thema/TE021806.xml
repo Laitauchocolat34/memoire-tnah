@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021806" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">92</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Has autem similitudines rerumChristustanto moderamine tradidit, ut in eis non tantum rudes facillime informaret,
+                        sed et quoruncunque excelsa ingenia sublimiter exerceret. Quapropter in
+                        verbis propositis plantarum seu arborumexemplumintroduxit ad regni Dei tempora designanda. Videte (inquit) ficulneam, et
+                        omnes arbores, et cetera. Ubi non otiose Dominus inter omnes generaliter
+                        arbores de ficulnea solum curavit facere mentionem, utpote de cuius
+                        singulariter foliis leguntur primi nostri parentes post transgressionem
+                        precepti, nuditatis sue ignominiam contexisse. Namdicitur; Aperti sunt oculi amborum scilicetAde, etEve. Cumque cognovissent se
+                        esse nudos, consuerunt folia ficus, et fecerunt sibi perizomata. Vult ergo
+                        non incongrue Dominus, quod sicut ficulnea in mundi principio humane
+                        transgressionis primum extitit tegumentum, ita quoque in mundi termino fiat
+                        vicine humane reformatioris indicium. Cum producunt (inquit) ex se fructum,
+                        scitis, quoniam prope est estas. Ubi nota, quod non incongrue Dominus per
+                        fructificationem communiter arborum, que tempore fit estatis, Regni Dei, et
+                        iudicii ultime presentiam designavit. Quia cum illud iudicium venerit,
+                        bonitas Dei apparebit in sanctis. Nam virtus radicum in hyeme non videtur
+                        quia ramos vacuos foliis, et fructibus dimittit ; que tamen in estate
+                        apparet, tum easdem, videlicet arbores fructibus, et frondibus replet.
+                        Similiter in communi iudicio bonitas virtutis Dei in sanctis apparebit, cum
+                        eos omni infirmitate et penuria deposita decorabit. Ita (inquit) cum vos videritis hec fieri, scitote,
+                        quoniam prope est regnum celorum. Regnum utique, de quo dicet, Venite
+                        benendicti patris mei percipite regnum. Hoc quippe regnum in quo conformabit
+                        salvator corpus humilitatis nostre, configuratum corpori claritatis sue,
+                        ita, ut regnum Dei etiam intra nos sit. Sed, quia nos generaliter Dominus ad
+                        omnes arbores considerandas inducit. Videte (inquit) non solum ficulneam, sed et omnes arbores, et cetera ut
+                        hanc ipsius doctrinam melius nos implere possimus, in hoc tertio huius
+                        operis libro expletis mineralibus de plantis, et arboribus, ac de ipsarum
+                        partibus, et variis proprietatibus earundem introducemus exempla, quibus non
+                        de ultimis temporibus tantum, ut introducit in verbis prefatis Dominus
+                        instruamur, sed in nostris magis actibus, et moribus dirigamur.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp_de_exemplis.prologue.3.1.cit2" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:01:21:225">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:01:22:704">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

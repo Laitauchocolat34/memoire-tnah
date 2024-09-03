@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021928" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">214</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Perseverantia in bono opere est habenda, et multiplicitas sive varietas
+                        operis est plerunque vitanda, et hocexemploapis. Quia scilicet apis (utAristotelesdicit)
+                        quando extra exit, sive volat, ad diversos flores non intendit, nec unum
+                        florem demittit, et ad alium vadit, donec in illo flore invenit quod querit.
+                        Et sic etiam simili modo in variis actibus homo se occupare non debet :
+                        iuxtaEccl.Fili, ne in multis sint actus tui.
+                        Nam animus quidem hominis (ut dicitGregorius)
+                        dum confusa mente dividitur ad multa et varia, fit minor ad singula, ergo in
+                        illo opere, videlicet bono quod incepit, tamdiu homo debet persistere,
+                        quamdiu illud invenit proficuum et salubre.Seneca. Fastidientis stomachi est multa degustare, et sic est
+                        fastidientis animi multa opera inchoare.Apostolus. Qui cepit in vobis opus bonum, ipse perficiet. EtMatt.Qui perseveraverit usque ad finem, hic saluus
+                        erit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120266672" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:17:52:262">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:17:53:212">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

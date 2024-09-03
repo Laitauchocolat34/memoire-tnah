@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022197" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">18</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Idem [Ieronimus] ad Salvinam viduam de viduitate
+                           servandaNec diviti obsunt opes, si eis bene utatur, nec pauperem
+                        egestas commendabiliorem facit, si inter sordes et inopiam peccata non
+                        caveat. Nichil nocuit militantiNebridiopaludamentum, et
+                        baltheus et apparitorum caterve, quia sub habitu alterius alteri militabat,
+                        sicut e contrario. Nichil prodest aliis vile palliolum, furva tunica,
+                        corporis illuvies, et simulata paupertas, si nominis dignitatem operibus
+                           destruant.Iosephet in egestate et in divitiis dedit
+                        experimenta virtutum.Danielet tres pueri sic
+                           preerantBabilonieoperibus, et inter principes civitatis, ut
+                           habituNabugodonosor, deo mente
+                           servirent.MardocheusetHesterinter purpuram,
+                        sericum et gemmas, superbiam humilitate vicerunt. Divitibus inquit huius
+                        seculi precipe et cetera. Hic discimus, quomodo camelus intrare possit per
+                        foramen acus, quomodo animal tortuosum deposito honere sarcinorum assumat
+                        sibi pennas columbe, et requiescat in ramis arboris, que de synapis semente
+                        succrevit. Legimus inYsaiacamelosMadian,
+                           etEpha, etSaba, aurum et thus ad urbem domini
+                        deportantes. Docet etEsophifabula plenum muris ventrem, per
+                        angustum foramen egredi non valere. ErgoNebridiusmeus cotidie
+                        illud revolvens: Qui volunt divites fieri et cetera. Quicquid et imperatoris
+                        largitio, et honoris infule sibi dederant, in usus pauperum conferebat. Nec
+                        semel abiciebat sarcinam, quod fecerunt apostoli, patrem et rethe et
+                        naviculam relinquentes, sed ex equalitate aliorum inopie suam habundantiam
+                        communicabat, ut postea illorum divitie huius indigentiam sustentarent. Scit
+                        ipsa cui scribo, me non nota, sed audita narrare, nec ex aliquo in me
+                        beneficio scriptorum moreGrecorumgratiam lingua reddere, ubi
+                        namque vile olusculum et cibarius panis, et cibus potusque moderatus, ibi
+                        divitie supervacue, ibi nulla adulatio. Ex quo colligitur, fidele esse
+                        testimonium, quod causas non habet menciendi. Ad virtutes eius ceteras
+                        veniam, quas singulas in paucis hominibus deprehendimus. Quis fornacem
+                           regisbabyloniisine adustione ingressus est? Cuius
+                           adolescentisegyptiadomina pallium non tenuit. Mirum dictu
+                        est: Nutritus in palatio contubernalis et cum discipulus augustorum, quorum
+                        mente ministrat orbis terre ac maria serviunt inter rerum omnium
+                        habundantiam, in primo etatis flore tante verecundie fuit, ut virginalem
+                        pudorem vinceret, et ne levem quidem in se obsceni rumoris fabulam daret.
+                        Deinde purpuratorum propinqus et cum ambobus studiis eruditus, non est
+                        inflatus in superbiam, non ceteros homines adducta fronte contempsit, sed
+                        cunctis amabilis fuit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698125548" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:45:08:511">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:45:10:956">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022193" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">14</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Ex dictis patrum]Dixit senex: Sicut arbor que
+                        frequenter transfertur fructificare non potest, sic neque monachus
+                        frequenter migrans. Quidam frater IX annis impugnatus est a cogitatione hac,
+                        scilicet quod exiret de congregatione et cotidie tollebat pelliculam suam,
+                        in qua solitus est iacere ut exiret et in vespere dicebat: Cras hinc
+                        recedam, et in mane dicebat: Extorqueamus nobis hic stare etiam hodie
+                        propter deum. Qui cum ita faciens de die in diem novem annos adimplesset,
+                        abstulit deus ab eo omnem temptationem. Quidam frater in tribulatione
+                        temptationum perdidit monachalem regulam, nec valens reinchoare monachale
+                        opus, affligebatur. Senex vero hoc audiens adhibuit hocexemplum:Homo quidam habuit terram et per negligentiam eius
+                        spinis et tribulis repleta est. Cumque postea vellet eam tollere, dixit
+                        filio suo: Vade et purga agrum illum. Et cum ibi venisset pre multitudine
+                        spinarum et tribulorum animo deficiens, ait intra se: Quando purgavero hec
+                        omnia et proiciens se in terram cepit dormire, et hoc fecit multis diebus.
+                        Quod videns pater ait: Fili ad mensuram latitudinis qua iacens terram
+                        occupas cotidie operare, et paulatim proficiens et patri obediens terram
+                        purgavit, similiter et tu frater paulatim operare et deus per gratiam
+                        restituet te in ordine tuo. Senex quidam frequenter solitus egrotare, uno
+                        anno non egrotavit. Ideo graviter afflictus plorabat dicens: Dereliquit me
+                        dominus et non visitavit me. Frater quidam propter cogitationes suas
+                        desperans et ad seculum rediens, audivit vocem dicentem: Temptationes tue
+                        quas novem annis sustinuisti, corone tibi sunt. Revertere ergo et sublevabo
+                        te a cogitationibus.Achillasfratri interroganti cur patior
+                        accidiam, respondit quia nundum vidisti vel requiem quem speramus vel
+                        tormenta que timemus. Hec enim si diligenter inspiceres de cella plena
+                        vermibus usque ad collum, accidiatus non exires. Cum quidam frater
+                           abbatemSysoimfrequenter taliter requireret dicens: Quid
+                        faciam pater quia cecidi? Surge inquit: Illo vero se et surrexisse et iterum
+                        cecidisse professo, respondit: Ne desistas surgendo. Cui frater: Usquequo
+                        possum surgere? At ille: Usquequo aut in bono opere aut in malo deprehensus
+                        occumbas. In quo enim opere fuerit homo deprehensus, in eo
+                        iudicabitur.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698116328" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:44:33:372">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:44:35:093">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022101" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">387</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item puniendi sunt peccatores manifesti, non solum a Deo, sed etiam ab
+                        hominibus, quod patet perexemplumin usurariis
+                        manifestis, qui preter penam eternam, quam merentur apud Deum, secundumcanonestriplici pena puniuntur. Nam usurarii
+                        manifesti, nec ad communionem altaris admittuntur, nec Christianam, si in
+                        hoc peccato decesserint, accipiunt sepulturam, sed nec viuorum oblationes
+                        recipi debent; quod si quis clericus contrauenerit, quod accipit reddere
+                        cogitur, et donec ad arbitrium Episcopi sui satisfecerit ab officii sui
+                        manet executione suspentus. Vocantur autem usurarii manifesti, secundum
+                        Hostien. notorii, vel ex evidentia facti: quia usurarius mensam tenet
+                        paratam ad pecuniam mutuandam cuilibet sub usuris, sicut meretrix in
+                        prostibulo. patet arg. extra, de cohabi. cler. c. tua et c. fi. Et in hoc
+                        casu ipso iure penam patitur canonis pretaxatam. Vel manifesti intelliguntur
+                        notorii iuris, puta quia sunt per Episcopum in Ecclesia publicati, secus si
+                        adhuc ab Ecclesia tolerentur, ut extra de cohabit. cle. et muli. c. nostra:
+                        Nam si manifesti sunt per famam tantum, non tamen notorii, non patiuntur
+                        hanc penam ipso iure, sufficit autem ad publicationem faciendam, quod vocati
+                        confiteantur, vel negantes per testes conuincantur, ut de cohabitatio.
+                        cleri. c. tua. Sufficiunt autem et certa argumenta, ut extra de usur c. cum
+                        tu 81. dist. c. si qui sunt.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp61087392" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:45:17:988">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:45:19:161">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021734" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">20</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Amor carnalis assimilatur Veneri. Nam Venus (ut dicitPtolomaeus) ex parte corporis disponit ad
+                        pulchritudinem, et ad voluptates, tactus, olfactus, gustus et auditus
+                        inclinat et impellit, vestium muliebrum incisores efficit : Domus eius sunt
+                        libra et taurus : regnat in piscibus, sed in virgine regnum eius deficit et
+                        abscedit. Sic etiam amor carnalis ad pulchritudinem corporis aspicit,
+                        sensuum voluptates exquirit, sive tactuum, sive odorum, sive ciborum, sive
+                        cantionum : ornamenta et mulieres appetit. Aliquando etiam iustos viros qui
+                        designantur in libra propter equalitatem iustitie, quia in libra existens
+                        Sol, facit equinoctia et viros fortes, qui designantur in tauro aggreditur
+                        et inficit. Regnat autem maxime in piscibus, id est, in hominibus sub aquis
+                        delitiarum viventibus : sed in virginibus, id est, incontinentibus deficit
+                        vigor eius. Amor temporalis prosperitatis impedit dulcedinem
+                        contemplationis, et privat fructu boni operis. Cuiusexemplumapparet in rore. Cadit enim aliquando ros fluens et
+                        viscosus ad modum mellis super herbas et folia arborum. Sole autem agente in
+                        ipsum, evaporat humidum, et terrestre siccum comburitur et efficitur quasi
+                        farina sparsa : que a sua siccitate siccat herbas, et inducit sterilitatem,
+                        Quasi enim dulcedo roris est delectatio contemplationis : quam calor solis,
+                        id est, amor temporalis prosperitatis humidum devotionis educens, et
+                        terrestrem affectum accendens, et mentem ad vana spargens, tollit, et a
+                        fructu boni operis animam sterilem reddit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp80912576" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:52:08:272">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:52:09:484">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

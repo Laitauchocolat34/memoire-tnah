@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021895" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">181</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Sed nota quod inordinatus amor parentum ad filios, est etiam ipsis
+                        parentibus causa perdendi virtutes. Cuius quidem reiexemplumapparet in ciconiis. Nam ciconia (sicut dicitAmbrosius) miro affectu pullos suos diligit et
+                        custodit, ita quod ex cubatione assidua super eos pennas perdit : sic
+                        parentes qui filios suos inordinate diligunt, frequenter propter nimiam
+                        curam, vel lucra illicita, que faciunt propter illos, pennas virtutum
+                        amittunt. In hoc tamen ipse ciconie redduntur imitabiles ; quod quantum
+                        expendunt temporis in fetibus educandis, tantum ab eis vice reciproca
+                        educantur (ut dicitAmbrosius) ut videlicet filii
+                        hominum, quos parentes in infantia eorum cum magna cura educant, eisdem in
+                        senectute sua vicariam opem reddant. Consimilem quoque pietatis speciem
+                        upupe erga suos parentes senes servare repetiuntur : Nam cum upupa senuerit,
+                        ita ut videre vel volare non possit, pulli eius evellunt ei pennas
+                        invalidas, liniunt oculos eius quibusdam herbarum succis, et suis etiam
+                        fovent sub alis, donec plume creverint, et clare viderint, in quoexemploinnuitur, quod filii a parentibus senibus
+                        vel infirmis debent, quantum possunt, mala et molesta removere, curas
+                        necessarias eorum infirmitatibus adhibere, obsequiis propriis et personis
+                        confovere, sive servire, nec eos deserere debent, quousque eos viderint suis
+                        obsequiis vel auxiliis non amplius indigere.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp_de_exemplis.4.30.cit3" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:13:17:243">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:13:18:348">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

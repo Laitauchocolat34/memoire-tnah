@@ -1,0 +1,1307 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{17LinkingSegmentation}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{langid}{SCHEME=iso639 en}
+      \field{title}{{17 Linking, Segmentation, and Alignment - The TEI Guidelines}}
+      \field{urlday}{15}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/WFKU6RZN/SA.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tei-c.org/release/doc/tei-p5-doc/en/html/SA.html
+      \endverb
+      \verb{url}
+      \verb https://www.tei-c.org/release/doc/tei-p5-doc/en/html/SA.html
+      \endverb
+      \keyw{Web}
+    \endentry
+    \entry{20GraphsNetworks}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{langid}{SCHEME=iso639 en}
+      \field{title}{{20 Graphs, Networks, and Trees - The TEI Guidelines}}
+      \field{urlday}{31}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/9W8UJXZF/GD.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tei-c.org/release/doc/tei-p5-doc/en/html/GD.html
+      \endverb
+      \verb{url}
+      \verb https://www.tei-c.org/release/doc/tei-p5-doc/en/html/GD.html
+      \endverb
+      \keyw{Web}
+    \endentry
+    \entry{BasesDonneesTextuelles}{misc}{}
+      \list{publisher}{1}{%
+        {Nom de votre éditeur}%
+      }
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Pionnier dans la constitution de bases de données depuis les années 1960, le CRH consacre une part importante de son activité à la constitution d'outils de recherche et à leur mise à disposition auprès de l'ensemble de la communauté savante. Des publications « papier » aux bases de données en ligne, ces outils se sont considérablement diversifiés. Le Collectif « Sources et données de la recherche » s'est donné pour mission de participer activement à l'accompagnement et au développement de cette branche d'activité du centre. ~ Bibliographie européenne des Exempla (Bibliex) Bibliex est une base bibliographique internationale sur les exempla médiévaux. Si elle ne prétend pas à l'exhaustivité, elle essaie cependant de suivre l'actualité scientifique. Elle est actuellement herbergée sur la plateforme Zotero. Il s'agit d'un projet collectif auquel participent M.-A. Polo de Beaulieu (responsable), C. Ribaucourt (†), P. Collomb, J. Berlioz, tous les quatre menbres du CRH ; et G. Blangez (Univ. de Reims), Cl. Bremond (EHESS), B. Darbord (Paris X), M. Paulmier-Foucart (ARTEM), Cl. Cazalé-Berard (Univ. De Lille III), N. Fujita (Univ. de Tokyo), P. Canizares (Univ. de Madrid), V. Novak (Univ. de Budapest), Cr. Legimi (Univ. de Rome). Responsable : Marie Anne Polo de Beaulieu (CNRS). URL : https://www.zotero.org/groups/2304628/bibliex/library ~ Quodlibase, base de données des Quodlibets théologiques (1230-1350) Au Moyen Âge, les Quodlibets permettaient à un public élargi d'inter}
+      \field{journaltitle}{http://crh.ehess.fr}
+      \field{langid}{french}
+      \field{title}{{Bases de données textuelles du CRH}}
+      \field{urlday}{26}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/XNVAJR7F/index.html
+      \endverb
+      \verb{urlraw}
+      \verb http://crh.ehess.fr/index.php?7473
+      \endverb
+      \verb{url}
+      \verb http://crh.ehess.fr/index.php?7473
+      \endverb
+      \keyw{Web}
+    \endentry
+    \entry{beauguitteAnalyseReseauxSciences2016}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4bcd50f0531fb553662fb42ea591b55d}{%
+           family={Beauguitte},
+           familyi={B\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=ea9b69d45daaef6432d28a102bada720}{%
+           family={Letricot},
+           familyi={L\bibinitperiod},
+           given={Rosemonde},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8824adc63a2b6f4bf1f40d910ca2ba0e}{%
+           family={Cuxac},
+           familyi={C\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod}}}%
+        {{hash=aaf3bda831c8110ecb9a4d445005d68e}{%
+           family={Uzcategui\bibnamedelima Moncada},
+           familyi={U\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=839a4fc3fb41ab6811c8ae4b0c354544}{%
+           family={Cavaletto},
+           familyi={C\bibinitperiod},
+           given={Andréa},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Louvain-La-Neuve}%
+      }
+      \list{publisher}{1}{%
+        {Presses Universitaires de Louvain}%
+      }
+      \strng{namehash}{4bcd50f0531fb553662fb42ea591b55d}
+      \strng{fullhash}{4bcd50f0531fb553662fb42ea591b55d}
+      \strng{bibnamehash}{4bcd50f0531fb553662fb42ea591b55d}
+      \strng{authorbibnamehash}{4bcd50f0531fb553662fb42ea591b55d}
+      \strng{authornamehash}{4bcd50f0531fb553662fb42ea591b55d}
+      \strng{authorfullhash}{4bcd50f0531fb553662fb42ea591b55d}
+      \strng{editorbibnamehash}{ea3f61fe44dba4666f048b83b91a9dda}
+      \strng{editornamehash}{1435fd07b9a459d12af99fc6f47e5dfc}
+      \strng{editorfullhash}{ea3f61fe44dba4666f048b83b91a9dda}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Le réseau. Usages d'une notion polysémique en sciences humaines et sociales}}
+      \field{langid}{french}
+      \field{title}{{L'analyse de réseaux en sciences sociales et en histoire}}
+      \field{urlday}{31}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{9\bibrangedash 24}
+      \range{pages}{16}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/7F5R2F33/Beauguitte - 2016 - L'analyse de réseaux en sciences sociales et en hi.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://shs.hal.science/halshs-01476090
+      \endverb
+      \verb{url}
+      \verb https://shs.hal.science/halshs-01476090
+      \endverb
+      \keyw{bibl}
+    \endentry
+    \entry{berliozIntroductionGenerale2010}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b88df39bf6239c8118386b4d58f29de2}{%
+           family={Berlioz},
+           familyi={B\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=c04f7dfeabd23c464948f1bd1284045a}{%
+           family={Beaulieu},
+           familyi={B\bibinitperiod},
+           given={Marie\bibnamedelimb Anne\bibnamedelima Polo},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=1,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4e6c65f55906af9b26502991005a08fe}{%
+           family={Polo\bibnamedelimb De\bibnamedelima Beaulieu},
+           familyi={P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Marie-Anne},
+           giveni={M\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=e7e1cd5f6400d939bb04c43f38805e89}{%
+           family={Collomb},
+           familyi={C\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rennes}%
+      }
+      \list{publisher}{1}{%
+        {Presses universitaires de Rennes}%
+      }
+      \strng{namehash}{6fa32e40ea9392e13c34713da610d994}
+      \strng{fullhash}{6fa32e40ea9392e13c34713da610d994}
+      \strng{bibnamehash}{6fa32e40ea9392e13c34713da610d994}
+      \strng{authorbibnamehash}{6fa32e40ea9392e13c34713da610d994}
+      \strng{authornamehash}{6fa32e40ea9392e13c34713da610d994}
+      \strng{authorfullhash}{6fa32e40ea9392e13c34713da610d994}
+      \strng{editorbibnamehash}{0fcf0840b3157977c74a54c55e9099b4}
+      \strng{editornamehash}{0fcf0840b3157977c74a54c55e9099b4}
+      \strng{editorfullhash}{0fcf0840b3157977c74a54c55e9099b4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Le tonnerre des exemples : Exempla et médiation culturelle dans l’Occident médiéval}}
+      \field{isbn}{978-2-7535-6759-7}
+      \field{langid}{french}
+      \field{title}{{Introduction générale}}
+      \field{urlday}{1}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{11\bibrangedash 15}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.4000/books.pur.132003
+      \endverb
+      \verb{urlraw}
+      \verb https://books.openedition.org/pur/132003
+      \endverb
+      \verb{url}
+      \verb https://books.openedition.org/pur/132003
+      \endverb
+      \keyw{bibl}
+    \endentry
+    \entry{berliozRecueilsExemplaDiffusion1994}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b88df39bf6239c8118386b4d58f29de2}{%
+           family={Berlioz},
+           familyi={B\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=669b18d0cbfa7e48c9af04102328327a}{%
+           family={{Polo de Beaulieu}},
+           familyi={P\bibinitperiod},
+           given={Marie-Anne},
+           giveni={M\bibinithyphendelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=f9afbce1cfe9416da2f8bb97e5ad312d}{%
+           family={Picone},
+           familyi={P\bibinitperiod},
+           given={Michelangelo},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ravenna}%
+      }
+      \list{publisher}{1}{%
+        {Longo}%
+      }
+      \strng{namehash}{34af132e8925de50cd210c6d55abfd31}
+      \strng{fullhash}{34af132e8925de50cd210c6d55abfd31}
+      \strng{bibnamehash}{34af132e8925de50cd210c6d55abfd31}
+      \strng{authorbibnamehash}{34af132e8925de50cd210c6d55abfd31}
+      \strng{authornamehash}{34af132e8925de50cd210c6d55abfd31}
+      \strng{authorfullhash}{34af132e8925de50cd210c6d55abfd31}
+      \strng{editorbibnamehash}{f9afbce1cfe9416da2f8bb97e5ad312d}
+      \strng{editornamehash}{f9afbce1cfe9416da2f8bb97e5ad312d}
+      \strng{editorfullhash}{f9afbce1cfe9416da2f8bb97e5ad312d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{L'enciclopedismo medievale}
+      \field{title}{Les recueils d'exempla et la diffusion de l'encyclopédisme médiéval}
+      \field{year}{1994}
+      \field{pages}{179\bibrangedash 212}
+      \range{pages}{34}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/LTJQY8K4/anzeige.html
+      \endverb
+      \keyw{bibl}
+    \endentry
+    \entry{bremondclaudeExemplum1982}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a32ed1bca8f908e3f9ea6540bb381777}{%
+           family={{Bremond Claude}},
+           familyi={B\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=af44a8f5f6431e78c8412cbcf429f891}{%
+           family={{Schmitt Jean-Claude historien}},
+           familyi={S\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=3c21bec6299afa5e5dbc87ad955ed433}{%
+           family={{Le Goff Jacques}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Turnhout}%
+      }
+      \list{publisher}{1}{%
+        {Brepols}%
+      }
+      \strng{namehash}{440c758e104745a3a4aaed9c1453dbe3}
+      \strng{fullhash}{440c758e104745a3a4aaed9c1453dbe3}
+      \strng{bibnamehash}{440c758e104745a3a4aaed9c1453dbe3}
+      \strng{authorbibnamehash}{440c758e104745a3a4aaed9c1453dbe3}
+      \strng{authornamehash}{440c758e104745a3a4aaed9c1453dbe3}
+      \strng{authorfullhash}{440c758e104745a3a4aaed9c1453dbe3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-2-503-36000-3}
+      \field{title}{L'{{Exemplum}}}
+      \field{year}{1982}
+      \keyw{bibl}
+    \endentry
+    \entry{burghartInformatisationThEMA2005}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5607a66a450df7bde62a061291e4634c}{%
+           family={Burghart},
+           familyi={B\bibinitperiod},
+           given={Marjorie},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5607a66a450df7bde62a061291e4634c}
+      \strng{fullhash}{5607a66a450df7bde62a061291e4634c}
+      \strng{bibnamehash}{5607a66a450df7bde62a061291e4634c}
+      \strng{authorbibnamehash}{5607a66a450df7bde62a061291e4634c}
+      \strng{authornamehash}{5607a66a450df7bde62a061291e4634c}
+      \strng{authorfullhash}{5607a66a450df7bde62a061291e4634c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{La forme de l’informatisation du ThEMA fut liée aux choix d’un développement académique indépendant. Il s’agissait d’être maître de l’outil, en conservant la possibilité de faire évoluer librement la base, en toute autonomie~; il convenait aussi d’être maître des données, pour envisager diverses possibilités~: décliner le ThEMA sous différentes formes (CDRom~; papier)~; favoriser son intégration à d’autres projets (Thesaurus des sermons médiévaux, par exemple). Le choix de l’autonomie passai...}
+      \field{issn}{0990-9141}
+      \field{journaltitle}{Les Cahiers du Centre de Recherches Historiques}
+      \field{langid}{french}
+      \field{title}{{L’informatisation du ThEMA}}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{35}
+      \field{year}{2005}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.4000/ccrh.3025
+      \endverb
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/DL2JVCGR/Burghart - 2005 - L’informatisation du ThEMA.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.openedition.org/ccrh/3025
+      \endverb
+      \verb{url}
+      \verb https://journals.openedition.org/ccrh/3025
+      \endverb
+      \keyw{bibl}
+    \endentry
+    \entry{burnardQuEstceQue2015}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=277f5a773aab2b436af3bd283c432331}{%
+           family={Burnard},
+           familyi={B\bibinitperiod},
+           given={Lou},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Marseille}%
+      }
+      \list{publisher}{1}{%
+        {OpenEdition Press}%
+      }
+      \strng{namehash}{277f5a773aab2b436af3bd283c432331}
+      \strng{fullhash}{277f5a773aab2b436af3bd283c432331}
+      \strng{bibnamehash}{277f5a773aab2b436af3bd283c432331}
+      \strng{authorbibnamehash}{277f5a773aab2b436af3bd283c432331}
+      \strng{authornamehash}{277f5a773aab2b436af3bd283c432331}
+      \strng{authorfullhash}{277f5a773aab2b436af3bd283c432331}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-2-8218-5581-6}
+      \field{journaltitle}{Qu’est-ce que la Text Encoding Initiative~?}
+      \field{langid}{french}
+      \field{title}{{Qu’est-ce que la Text Encoding Initiative~?}}
+      \field{urlday}{11}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://books.openedition.org/oep/1237
+      \endverb
+      \verb{url}
+      \verb https://books.openedition.org/oep/1237
+      \endverb
+      \keyw{bibl}
+    \endentry
+    \entry{CytoscapeOpenSource}{misc}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{title}{Cytoscape: {{An Open Source Platform}} for {{Complex Network Analysis}} and {{Visualization}}}
+      \field{urlday}{31}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/ENXR2EEG/cytoscape.org.html
+      \endverb
+      \verb{urlraw}
+      \verb https://cytoscape.org/
+      \endverb
+      \verb{url}
+      \verb https://cytoscape.org/
+      \endverb
+      \keyw{Web}
+    \endentry
+    \entry{draelantsEncyclopediesMedievalesMilieu2022}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ca3907b8ae9105eb458929bdd353f5a1}{%
+           family={Draelants},
+           familyi={D\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7676c0376d90b1f8ba2c5173e9bcdd65}{%
+           family={Kuhry},
+           familyi={K\bibinitperiod},
+           given={Emmanuelle},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=71c3e778fc1d52cf675b89d70051d81a}{%
+           family={Idmhand},
+           familyi={I\bibinitperiod},
+           given={Fatiha},
+           giveni={F\bibinitperiod}}}%
+        {{hash=769b8eb85f542ae000985f31b0a22c2d}{%
+           family={{Marasescu-Galleron}},
+           familyi={M\bibinitperiod},
+           given={Ioana},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Editions des archives contemporaines}%
+      }
+      \strng{namehash}{dada2aa6939effaeb2e9b29bff408717}
+      \strng{fullhash}{dada2aa6939effaeb2e9b29bff408717}
+      \strng{bibnamehash}{dada2aa6939effaeb2e9b29bff408717}
+      \strng{authorbibnamehash}{dada2aa6939effaeb2e9b29bff408717}
+      \strng{authornamehash}{dada2aa6939effaeb2e9b29bff408717}
+      \strng{authorfullhash}{dada2aa6939effaeb2e9b29bff408717}
+      \strng{editorbibnamehash}{07028f97cf27091bcceae6f6d9d6cc4b}
+      \strng{editornamehash}{07028f97cf27091bcceae6f6d9d6cc4b}
+      \strng{editorfullhash}{07028f97cf27091bcceae6f6d9d6cc4b}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{{Dix ans de corpus d'auteurs}}
+      \field{edition}{éditions des archives contemporaines}
+      \field{isbn}{978-2-8130-0435-2}
+      \field{langid}{french}
+      \field{month}{7}
+      \field{shorttitle}{{Encyclopédies médiévales en milieu numérique}}
+      \field{title}{{Encyclopédies médiévales en milieu numérique: Les nouveaux enjeux de SourcEncyMe pour le traitement des auctoritates}}
+      \field{urlday}{8}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{155\bibrangedash 178}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.17184/eac.5479
+      \endverb
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/DY4E6EMW/Draelants et Kuhry - 2022 - Encyclopédies médiévales en milieu numérique Les .pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://eac.ac/articles/5479
+      \endverb
+      \verb{url}
+      \verb https://eac.ac/articles/5479
+      \endverb
+      \keyw{bibl}
+    \endentry
+    \entry{GephiOpenGraph}{misc}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeltitlesource}{title}
+      \field{title}{Gephi - {{The Open Graph Viz Platform}}}
+      \field{urlday}{31}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/MFJ3ZBW3/gephi.org.html
+      \endverb
+      \verb{urlraw}
+      \verb https://gephi.org/
+      \endverb
+      \verb{url}
+      \verb https://gephi.org/
+      \endverb
+      \keyw{Web}
+    \endentry
+    \entry{holtzInstitutRechercheHistoire2005}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4c44cdfca78430b5ba302524c0ef8807}{%
+           family={Holtz},
+           familyi={H\bibinitperiod},
+           given={Louis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4c44cdfca78430b5ba302524c0ef8807}
+      \strng{fullhash}{4c44cdfca78430b5ba302524c0ef8807}
+      \strng{bibnamehash}{4c44cdfca78430b5ba302524c0ef8807}
+      \strng{authorbibnamehash}{4c44cdfca78430b5ba302524c0ef8807}
+      \strng{authornamehash}{4c44cdfca78430b5ba302524c0ef8807}
+      \strng{authorfullhash}{4c44cdfca78430b5ba302524c0ef8807}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{L’Institut de recherche et d’histoire des textes a largement bénéficié, je me fais un plaisir de le rappeler, de la bienveillance et de l’estime des fondateurs de l’École des hautes études en sciences sociales (EHESS). Jean Glénisson, qui a dirigé cette équipe du Centre national de recherche scientifique (CNRS) de 1965 à 1985, est un élève de Fernand Braudel, à qui du reste il a succédé dans son enseignement à Sâo Pauolo. Par ailleurs, des membres éminents de l’EHESS ont siégé dans le conseil...}
+      \field{issn}{0990-9141}
+      \field{journaltitle}{Les Cahiers du Centre de Recherches Historiques}
+      \field{langid}{french}
+      \field{title}{{L’institut de recherche et d’histoire des textes (IRHT)}}
+      \field{urlday}{11}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{36}
+      \field{year}{2005}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.4000/ccrh.3046
+      \endverb
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/AH483B65/Holtz - 2005 - L’institut de recherche et d’histoire des textes (.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.openedition.org/ccrh/3046
+      \endverb
+      \verb{url}
+      \verb https://journals.openedition.org/ccrh/3046
+      \endverb
+      \keyw{bibl}
+    \endentry
+    \entry{holtzIRHTAuFil2015}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4c44cdfca78430b5ba302524c0ef8807}{%
+           family={Holtz},
+           familyi={H\bibinitperiod},
+           given={Louis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4c44cdfca78430b5ba302524c0ef8807}
+      \strng{fullhash}{4c44cdfca78430b5ba302524c0ef8807}
+      \strng{bibnamehash}{4c44cdfca78430b5ba302524c0ef8807}
+      \strng{authorbibnamehash}{4c44cdfca78430b5ba302524c0ef8807}
+      \strng{authornamehash}{4c44cdfca78430b5ba302524c0ef8807}
+      \strng{authorfullhash}{4c44cdfca78430b5ba302524c0ef8807}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2493-4399}
+      \field{journaltitle}{Les carnets de l'IRHT}
+      \field{langid}{french}
+      \field{title}{{L’IRHT, au fil des ans}}
+      \field{urlday}{26}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.58079/qhxe
+      \endverb
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/NKK975IF/1293.html
+      \endverb
+      \verb{urlraw}
+      \verb https://irht.hypotheses.org/1293
+      \endverb
+      \verb{url}
+      \verb https://irht.hypotheses.org/1293
+      \endverb
+      \keyw{bibl}
+    \endentry
+    \entry{InformationsThEMA}{misc}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeltitlesource}{title}
+      \field{title}{Informations sur {{ThEMA}}}
+      \field{urlday}{26}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/EPFDDDQ6/about.html
+      \endverb
+      \verb{urlraw}
+      \verb https://thema.huma-num.fr/about/
+      \endverb
+      \verb{url}
+      \verb https://thema.huma-num.fr/about/
+      \endverb
+      \keyw{Web}
+    \endentry
+    \entry{jiangLiteratureReviewDevelopment2023}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3b8bb04a3b360bbf27324e9849f72fb6}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Tianyin},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9746d1f724b7556c75576bf1a24559d7}{%
+           family={Hou},
+           familyi={H\bibinitperiod},
+           given={Yaxin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54d4ddb73a847d9451bc7b80522a74ff}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Jaebum},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{eca34943b126b69cfad247fd66e36e6f}
+      \strng{fullhash}{eca34943b126b69cfad247fd66e36e6f}
+      \strng{bibnamehash}{eca34943b126b69cfad247fd66e36e6f}
+      \strng{authorbibnamehash}{eca34943b126b69cfad247fd66e36e6f}
+      \strng{authornamehash}{eca34943b126b69cfad247fd66e36e6f}
+      \strng{authorfullhash}{eca34943b126b69cfad247fd66e36e6f}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the past decade, the visualization and transformation of data and information have attracted lots of research interest, while visualization has gradually extended to all industries. Based on the retrieval of core literature in a Web of Science search from 2012 to 2022, this study finds that these developments mainly discussed the change of visualization and its related concepts, current research hotspots, and influential journal papers. Consequently, it aims to explore research gaps and provide directional guidance for future research.}
+      \field{issn}{2673-4591}
+      \field{journaltitle}{Engineering Proceedings}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{title}{Literature {{Review}} on the {{Development}} of {{Visualization Studies}} (2012–2022)}
+      \field{urlday}{31}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{38}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.3390/engproc2023038089
+      \endverb
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/3RN59UPG/Jiang et al. - 2023 - Literature Review on the Development of Visualizat.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2673-4591/38/1/89
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2673-4591/38/1/89
+      \endverb
+      \keyw{bibl}
+    \endentry
+    \entry{kuhryQuelsTraitementsNumeriques2022}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7676c0376d90b1f8ba2c5173e9bcdd65}{%
+           family={Kuhry},
+           familyi={K\bibinitperiod},
+           given={Emmanuelle},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7676c0376d90b1f8ba2c5173e9bcdd65}
+      \strng{fullhash}{7676c0376d90b1f8ba2c5173e9bcdd65}
+      \strng{bibnamehash}{7676c0376d90b1f8ba2c5173e9bcdd65}
+      \strng{authorbibnamehash}{7676c0376d90b1f8ba2c5173e9bcdd65}
+      \strng{authornamehash}{7676c0376d90b1f8ba2c5173e9bcdd65}
+      \strng{authorfullhash}{7676c0376d90b1f8ba2c5173e9bcdd65}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2646-0645}
+      \field{journaltitle}{Gloses philosophiques à l’ère digitale}
+      \field{langid}{french}
+      \field{shorttitle}{{Quels traitements numériques pour les corpus encyclopédiques ?}}
+      \field{title}{{Quels traitements numériques pour les corpus encyclopédiques ? Les projets \emph{SourcEncyMe} et \emph{Mythologia} en dialogue (retour sur la séance du séminaire « Les p’tits déj’ ‘Humanités numériques’ de l’IRHT », 14/01/22)}}
+      \field{urlday}{8}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.58079/nmg9
+      \endverb
+      \verb{urlraw}
+      \verb https://digigloses.hypotheses.org/1361
+      \endverb
+      \verb{url}
+      \verb https://digigloses.hypotheses.org/1361
+      \endverb
+      \keyw{bibl}
+    \endentry
+    \entry{LabexHastecEPHE}{misc}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeltitlesource}{title}
+      \field{title}{Labex {{Hastec}} ({{EPHE}}) | {{Un}} laboratoire d'excellence de {{PSL}} - {{Paris Sciences}} et {{Lettres}}, une université internationale, au coeur de {{Paris}}}
+      \field{urlday}{26}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://labexhastec.ephe.psl.eu/
+      \endverb
+      \verb{url}
+      \verb https://labexhastec.ephe.psl.eu/
+      \endverb
+      \keyw{Web}
+    \endentry
+    \entry{legoffPourquoiXIIIeSiecle1994}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3c21bec6299afa5e5dbc87ad955ed433}{%
+           family={Le\bibnamedelima Goff},
+           familyi={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=f9afbce1cfe9416da2f8bb97e5ad312d}{%
+           family={Picone},
+           familyi={P\bibinitperiod},
+           given={Michelangelo},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ravenna}%
+      }
+      \list{publisher}{1}{%
+        {Longo}%
+      }
+      \strng{namehash}{3c21bec6299afa5e5dbc87ad955ed433}
+      \strng{fullhash}{3c21bec6299afa5e5dbc87ad955ed433}
+      \strng{bibnamehash}{3c21bec6299afa5e5dbc87ad955ed433}
+      \strng{authorbibnamehash}{3c21bec6299afa5e5dbc87ad955ed433}
+      \strng{authornamehash}{3c21bec6299afa5e5dbc87ad955ed433}
+      \strng{authorfullhash}{3c21bec6299afa5e5dbc87ad955ed433}
+      \strng{editorbibnamehash}{f9afbce1cfe9416da2f8bb97e5ad312d}
+      \strng{editornamehash}{f9afbce1cfe9416da2f8bb97e5ad312d}
+      \strng{editorfullhash}{f9afbce1cfe9416da2f8bb97e5ad312d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{L'enciclopedismo medievale}
+      \field{title}{Pourquoi le {{XIIIe}} siècle a-t-il été plus particulièrement un siècle d'encyclopédisme?}
+      \field{year}{1994}
+      \field{pages}{23\bibrangedash 40}
+      \range{pages}{18}
+      \keyw{bibl}
+    \endentry
+    \entry{PoleNumerique}{misc}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Le Pôle numérique soutient l’activité du laboratoire au niveau national et international, en s’investissant dans les volets de la documentation et de la recherche.}
+      \field{journaltitle}{IRHT - CNRS}
+      \field{langid}{french}
+      \field{title}{{Le Pôle numérique}}
+      \field{urlday}{26}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/Z39TP2AS/pole-numerique.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.irht.cnrs.fr/fr/qui-sommes-nous/l-organisation-de-l-irht/pole-numerique
+      \endverb
+      \verb{url}
+      \verb https://www.irht.cnrs.fr/fr/qui-sommes-nous/l-organisation-de-l-irht/pole-numerique
+      \endverb
+      \keyw{Web}
+    \endentry
+    \entry{RecitsExemplairesMoniale}{misc}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeltitlesource}{title}
+      \field{title}{Les récits exemplaires de la moniale chaste et bavarde dans {{ThEMA}}}
+      \field{urlday}{1}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/XEBDU7N6/search.html
+      \endverb
+      \verb{urlraw}
+      \verb https://thema.huma-num.fr/search?term=&collection=all&author=all&context=all&keyword=&keyword=&keyword=&tubach=TUB723&tubach=&tubach=&allegory=all
+      \endverb
+      \verb{url}
+      \verb https://thema.huma-num.fr/search?term=&collection=all&author=all&context=all&keyword=&keyword=&keyword=&tubach=TUB723&tubach=&tubach=&allegory=all
+      \endverb
+      \keyw{Web}
+    \endentry
+    \entry{nurmikko-fullerLinkedDataDigital2023}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dac60f2f557ee98f5ebd31f6cdb82f27}{%
+           family={{Nurmikko-Fuller}},
+           familyi={N\bibinitperiod},
+           given={Terhi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{dac60f2f557ee98f5ebd31f6cdb82f27}
+      \strng{fullhash}{dac60f2f557ee98f5ebd31f6cdb82f27}
+      \strng{bibnamehash}{dac60f2f557ee98f5ebd31f6cdb82f27}
+      \strng{authorbibnamehash}{dac60f2f557ee98f5ebd31f6cdb82f27}
+      \strng{authornamehash}{dac60f2f557ee98f5ebd31f6cdb82f27}
+      \strng{authorfullhash}{dac60f2f557ee98f5ebd31f6cdb82f27}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Linked Data for Digital Humanities provides insights into how digital technologies can enrich and diversify humanities scholarship and make it pioneering in the digital age.Written in non-specialist language, the book illustrates how information is captured, published, represented, accessed, and interpreted using computational systems and, in doing so, shows how technologies actively shape the way we understand what we encounter. Focusing as it does on underlying Web architecture and projects accessible online, the book has an inherently international focus. The interdisciplinary case study examples include bibliographic data from works published in England between 1470 and 1700; literature from ancient Iraq; jazz performances, predominantly from the USA in the 1930s; and even reach as far as an alien, fictional future. Whilst these case study examples span vast spatio-temporal distances, they all share a common thread in the use of the Linked Data information publication paradigm. Using existing computer science methods, as well as processes such as ontology development and database design, the book also includes reflections on practical considerations and offers advice about how to take institutional policies, socio-cultural sensitivities, and economic models into consideration when implementing Linked Data projects.Linked Data for Digital Humanities discusses technological issues in the context of Humanities scholarship, bridging disciplines and enabling informed conversations across disciplinary boundaries. It will be of interest to humanities scholars, computer and data scientists, and library and information scientists.}
+      \field{isbn}{978-1-03-205515-2}
+      \field{langid}{Anglais}
+      \field{month}{8}
+      \field{title}{{Linked Data for Digital Humanities}}
+      \field{year}{2023}
+      \keyw{bibl}
+    \endentry
+    \entry{oldoniGiovanniSanGimignano1994}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8a261b0dbf776a5b7425ad3cda37b35a}{%
+           family={Oldoni},
+           familyi={O\bibinitperiod},
+           given={Massimo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=f9afbce1cfe9416da2f8bb97e5ad312d}{%
+           family={Picone},
+           familyi={P\bibinitperiod},
+           given={Michelangelo},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ravenna}%
+      }
+      \list{publisher}{1}{%
+        {Longo}%
+      }
+      \strng{namehash}{8a261b0dbf776a5b7425ad3cda37b35a}
+      \strng{fullhash}{8a261b0dbf776a5b7425ad3cda37b35a}
+      \strng{bibnamehash}{8a261b0dbf776a5b7425ad3cda37b35a}
+      \strng{authorbibnamehash}{8a261b0dbf776a5b7425ad3cda37b35a}
+      \strng{authornamehash}{8a261b0dbf776a5b7425ad3cda37b35a}
+      \strng{authorfullhash}{8a261b0dbf776a5b7425ad3cda37b35a}
+      \strng{editorbibnamehash}{f9afbce1cfe9416da2f8bb97e5ad312d}
+      \strng{editornamehash}{f9afbce1cfe9416da2f8bb97e5ad312d}
+      \strng{editorfullhash}{f9afbce1cfe9416da2f8bb97e5ad312d}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{L'enciclopedismo medievale}
+      \field{title}{Giovanni da {{San Gimignano}}}
+      \field{year}{1994}
+      \field{pages}{213\bibrangedash 228}
+      \range{pages}{16}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/34JTZ7HQ/anzeige.html
+      \endverb
+      \keyw{bibl}
+    \endentry
+    \entry{PageDedieeAu2024}{misc}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Page Version ID: 35038953}
+      \field{journaltitle}{Wiktionnaire, le dictionnaire libre}
+      \field{langid}{french}
+      \field{month}{6}
+      \field{title}{{Page dédiée au mot exemplum dans Wikitionnaire}}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/F8MNC94C/exemplum.html
+      \endverb
+      \verb{urlraw}
+      \verb https://fr.wiktionary.org/w/index.php?title=exemplum&oldid=35038953
+      \endverb
+      \verb{url}
+      \verb https://fr.wiktionary.org/w/index.php?title=exemplum&oldid=35038953
+      \endverb
+      \keyw{Web}
+    \endentry
+    \entry{PartenairesProjetBiblissima}{misc}{}
+      \list{publisher}{1}{%
+        {Biblissima}%
+      }
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Biblissima+ EquipEx is built on a base composed of the partners of the Biblissima EquipEx (2012-2021): supported by the Campus Condorcet, Biblissima has brought together major French players in research and conservation on the written heritage of the Middle Ages and the Renaissance: BnF, CESR (Tours), CIHAM (Lyon-Avignon), CJM (ENC-PSL), SAPRAT (EPHE-PSL), IRHT (CNRS, Paris-Orléans), CRAHAM and MRSH of Caen, and, since 2017, the Archives nationales.}
+      \field{langid}{english}
+      \field{title}{Partenaires du projet {{Biblissima}}}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/85K2FPXP/founding-partners.html
+      \endverb
+      \verb{urlraw}
+      \verb https://projet.biblissima.fr/en/community/founding-partners
+      \endverb
+      \verb{url}
+      \verb https://projet.biblissima.fr/en/community/founding-partners
+      \endverb
+      \keyw{Web}
+    \endentry
+    \entry{pedroBuildingAPIProduct2024}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ab94e29120283a57c8c1c963a8293ad5}{%
+           family={Pedro},
+           familyi={P\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Birmingham}%
+      }
+      \list{publisher}{1}{%
+        {Packt Publishing, Limited}%
+      }
+      \strng{namehash}{ab94e29120283a57c8c1c963a8293ad5}
+      \strng{fullhash}{ab94e29120283a57c8c1c963a8293ad5}
+      \strng{bibnamehash}{ab94e29120283a57c8c1c963a8293ad5}
+      \strng{authorbibnamehash}{ab94e29120283a57c8c1c963a8293ad5}
+      \strng{authornamehash}{ab94e29120283a57c8c1c963a8293ad5}
+      \strng{authorfullhash}{ab94e29120283a57c8c1c963a8293ad5}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-1-83763-044-8}
+      \field{langid}{english}
+      \field{shorttitle}{Building an {{API Product}}}
+      \field{title}{Building an {{API Product}}: {{Design}}, {{Implement}}, {{Release}}, and {{Maintain API Products That Meet User Needs}}}
+      \field{year}{2024}
+      \keyw{bibl}
+    \endentry
+    \entry{PortailBiblissima}{misc}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IRHT - CNRS}
+      \field{langid}{french}
+      \field{title}{{Portail Biblissima}}
+      \field{urlday}{29}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/QIAKBWHN/biblissima.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.irht.cnrs.fr/fr/ressources/sites-web-outils-corpus/biblissima
+      \endverb
+      \verb{url}
+      \verb https://www.irht.cnrs.fr/fr/ressources/sites-web-outils-corpus/biblissima
+      \endverb
+      \keyw{Web}
+    \endentry
+    \entry{RecitExemplaireUtilise}{misc}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{title}{Récit exemplaire utilisé pour la comparaison de textes}
+      \field{urlday}{1}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/W4UXN3SG/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609.html
+      \endverb
+      \verb{urlraw}
+      \verb http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp119842416
+      \endverb
+      \verb{url}
+      \verb http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp119842416
+      \endverb
+      \keyw{Web}
+    \endentry
+    \entry{rehrThesaurusExemplorumMedii2021a}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=11b88ff2e63af355effe781549716699}{%
+           family={Rehr},
+           familyi={R\bibinitperiod},
+           given={Jean-Paul},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=a3d944c321c63caeddd5ec4f6557049b}{%
+           family={Beaulieu},
+           familyi={B\bibinitperiod},
+           given={Marie-Anne\bibnamedelima Polo},
+           giveni={M\bibinithyphendelim A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=1,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{77f10523acd9e9d5867fe56861a5cea8}
+      \strng{fullhash}{77f10523acd9e9d5867fe56861a5cea8}
+      \strng{bibnamehash}{77f10523acd9e9d5867fe56861a5cea8}
+      \strng{authorbibnamehash}{77f10523acd9e9d5867fe56861a5cea8}
+      \strng{authornamehash}{77f10523acd9e9d5867fe56861a5cea8}
+      \strng{authorfullhash}{77f10523acd9e9d5867fe56861a5cea8}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2736-2337}
+      \field{journaltitle}{Humanités numériques}
+      \field{langid}{french}
+      \field{number}{2}
+      \field{shorttitle}{{Thesaurus Exemplorum Medii Aevi}}
+      \field{title}{{Thesaurus Exemplorum Medii Aevi : une base de données collaborative sur les exempla médiévaux}}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{4}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.4000/revuehn.2630
+      \endverb
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/996W332H/Rehr et Beaulieu - 2021 - Thesaurus Exemplorum Medii Aevi une base de donn.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.openedition.org/revuehn/2630
+      \endverb
+      \verb{url}
+      \verb https://journals.openedition.org/revuehn/2630
+      \endverb
+      \keyw{bibl}
+    \endentry
+    \entry{SourcEncyMe}{misc}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{{{SourcEncyMe}}}
+      \field{urlday}{29}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/MFJASTBG/sourcencyme.irht.cnrs.fr.html
+      \endverb
+      \verb{urlraw}
+      \verb http://sourcencyme.irht.cnrs.fr/
+      \endverb
+      \verb{url}
+      \verb http://sourcencyme.irht.cnrs.fr/
+      \endverb
+      \keyw{Web}
+    \endentry
+    \entry{SourcEncyMeSourcesEncyclopedies}{misc}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{{{SourcEncyMe Sources}} des {{Encyclopédies Médiévales}}, corpus annoté}
+      \field{urlday}{26}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/QXYTK8DV/historique.html
+      \endverb
+      \verb{urlraw}
+      \verb http://sourcencyme.irht.cnrs.fr/historique
+      \endverb
+      \verb{url}
+      \verb http://sourcencyme.irht.cnrs.fr/historique
+      \endverb
+      \keyw{Web}
+    \endentry
+    \entry{SourcesDonneesRecherche}{misc}{}
+      \list{publisher}{1}{%
+        {Nom de votre éditeur}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Extrait du premier article du numéro: Le Collectif « Sources et données de la recherche » est une structure transversale du Centre de recherches historiques, centrée sur les thématiques afférentes aux données. Le Conseil de laboratoire a acté sa création le 8 avril 2019. Espace de discussion entre ingénieurs, chercheurs et enseignants-chercheurs, le Collectif a pour but de lancer et d'accompagner des projets numériques qui s'appuient tant sur des données collectées récemment qu'issues des bases historiques du CRH. Il s'est aussi fixé pour objectif d'organiser des manifestations scientifiques et de contribuer au développement d'une culture numérique chez les chercheurs et les étudiants du laboratoire à travers des séminaires. Le travail du Collectif Sources et données de la recherche est mené en association avec le pôle d’ingénierie géomatique pour l’histoire du CRH. Les réflexions sur la place du numérique dans les travaux des historiens abordées au sein du Collectif sont prolongées au sein du séminaire «~Enjeux et pratiques du numérique dans la recherche en histoire »~du Centre de recherches historiques. Une réunion plénière a lieu chaque trimestre, tandis que les groupes de travail se réunissent tout au long de l'année. Le Collectif est ouvert à de nouvelles participations. Pour prendre contact, écrivez à :~gestion.sourcesetdonnees@ehess.fr. ~ Missions - Être acteur de la définition de la politique du laboratoire en matière de construction, de traitement et de valorisation des données numériques}
+      \field{journaltitle}{http://crh.ehess.fr}
+      \field{langid}{french}
+      \field{title}{{Sources et données de la recherche}}
+      \field{urlday}{26}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/R5L8JS6G/index.html
+      \endverb
+      \verb{urlraw}
+      \verb http://crh.ehess.fr/index.php?6813
+      \endverb
+      \verb{url}
+      \verb http://crh.ehess.fr/index.php?6813
+      \endverb
+      \keyw{Web}
+    \endentry
+    \entry{ThEMA}{misc}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{title}{{{ThEMA}}}
+      \field{urlday}{29}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/6D8K49ZN/thema.huma-num.fr.html
+      \endverb
+      \verb{urlraw}
+      \verb https://thema.huma-num.fr/
+      \endverb
+      \verb{url}
+      \verb https://thema.huma-num.fr/
+      \endverb
+      \keyw{Web}
+    \endentry
+    \entry{thierryJeanPhilippeGenetAndrea2014a}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a011a4721346c9eba99efa0511632e15}{%
+           family={Thierry},
+           familyi={T\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Armand Colin}%
+      }
+      \strng{namehash}{a011a4721346c9eba99efa0511632e15}
+      \strng{fullhash}{a011a4721346c9eba99efa0511632e15}
+      \strng{bibnamehash}{a011a4721346c9eba99efa0511632e15}
+      \strng{authorbibnamehash}{a011a4721346c9eba99efa0511632e15}
+      \strng{authornamehash}{a011a4721346c9eba99efa0511632e15}
+      \strng{authorfullhash}{a011a4721346c9eba99efa0511632e15}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{eprinttype}{jstor}
+      \field{issn}{0752-5702}
+      \field{journaltitle}{Histoire, Économie et Société}
+      \field{number}{3}
+      \field{shorttitle}{Review of {{Les Historiens}} et l'informatique}
+      \field{title}{Jean-{{Philippe Genet}} et {{Andrea Zorzi}} (dir.), {{Les Historiens}} et l'informatique : un métier à réinventer}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{33}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{119\bibrangedash 120}
+      \range{pages}{2}
+      \verb{eprint}
+      \verb 24467721
+      \endverb
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/L52VR62A/Thierry - 2014 - Review of Les Historiens et l'informatique un mé.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/24467721
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/24467721
+      \endverb
+      \keyw{bibl}
+    \endentry
+    \entry{tubachIndexExemplorumHandbook1969}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=44e5546699c597c4fd5c1e61226e8e99}{%
+           family={Tubach},
+           familyi={T\bibinitperiod},
+           given={Frederic\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Helsinki, Finlande}%
+      }
+      \list{publisher}{1}{%
+        {Suomalainen tiedeakatemia : Academia scientiarum fennica}%
+      }
+      \strng{namehash}{44e5546699c597c4fd5c1e61226e8e99}
+      \strng{fullhash}{44e5546699c597c4fd5c1e61226e8e99}
+      \strng{bibnamehash}{44e5546699c597c4fd5c1e61226e8e99}
+      \strng{authorbibnamehash}{44e5546699c597c4fd5c1e61226e8e99}
+      \strng{authornamehash}{44e5546699c597c4fd5c1e61226e8e99}
+      \strng{authorfullhash}{44e5546699c597c4fd5c1e61226e8e99}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0014-5815}
+      \field{langid}{anglais}
+      \field{shorttitle}{{Index exemplorum}}
+      \field{title}{{Index exemplorum: a handbook of medieval religious tales}}
+      \field{year}{1969}
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/F7SR3IGJ/SRCH.html
+      \endverb
+      \keyw{bibl}
+    \endentry
+    \entry{wesselsOpenDataKnowledge2017}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a0774a3ac5fd6a8b18d091f22a62fa2f}{%
+           family={Wessels},
+           familyi={W\bibinitperiod},
+           given={Bridgette},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57f9b9adf579a4a5f95a0b4e4f634a2f}{%
+           family={Wadhwa},
+           familyi={W\bibinitperiod},
+           given={Kush},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27c23da3595a01e17b0b3ff43651e0da}{%
+           family={Finn},
+           familyi={F\bibinitperiod},
+           given={Rachel\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {University Press}%
+      }
+      \strng{namehash}{c87764153d52d518e7260d083bddc4c3}
+      \strng{fullhash}{c87764153d52d518e7260d083bddc4c3}
+      \strng{bibnamehash}{c87764153d52d518e7260d083bddc4c3}
+      \strng{authorbibnamehash}{c87764153d52d518e7260d083bddc4c3}
+      \strng{authornamehash}{c87764153d52d518e7260d083bddc4c3}
+      \strng{authorfullhash}{c87764153d52d518e7260d083bddc4c3}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-90-485-2936-0}
+      \field{langid}{english}
+      \field{title}{Open {{Data}} and the {{Knowledge Society}}}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1515/9789048529360
+      \endverb
+      \verb{file}
+      \verb /home/port-pret-etu01/snap/zotero-snap/common/Zotero/storage/W6JFJ3AP/Wessels - 2017 - Open Data and the Knowledge Society.pdf
+      \endverb
+      \keyw{bibl}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

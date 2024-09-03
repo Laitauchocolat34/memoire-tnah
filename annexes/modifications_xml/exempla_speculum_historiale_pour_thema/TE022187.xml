@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022187" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">8</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">ActorChristusdominus non indigebat curatione, quia nullum peccatum
+                        contraxit in sua generatione. Voluit tamen circumcidi propter VII causas.
+                        Prima fuit ut in nobis fidem humanitatis sue roboraret, quia in hoc ostendit
+                        se veram carnem assumpsisse, non fantasticam, ut dixerunt quidam heretici.
+                        Secunda ut spem in nobis erigeret scilicet spiritualis circumcisionis, que
+                        in nobis futura est in VIIIa resurrectionis ab omni corruptione culpe et
+                        pene. Tercia ut caritatem confirmaret, quia tantillus infans scilicet octo
+                        dierum iam incepit sanguinem suum pro nobis fundere. Quarta ut nobisexemplumhumilitatis preberet et maxime prelatis
+                        qui leges instituunt, ne scilicet aliis presumant imponere honera que ipsi
+                        portare nolunt, sicut illi quos reprehendit dominus in evangelio: Alligant,
+                        inquit,honera gravia et cetera. Quinta ut nos aliorum inter quos habitamus
+                        scandala vitare doceret scilicet conformando nos eis. Omnes enim alii
+                        infantes in illo populo circumcidebantur. Et dicitAugustinus in libro confessionum IIIoquod turpis est omnis pars
+                        universo suo non congruens. Unde
+                           etPauluscircumciditTymotheumut evitaret
+                           scandalumIudeorum. Sexta ut in nobis luxurie vitium, quod in
+                        isto membro dominatur, aboleret. Unde sicut primo passus est in illo membro,
+                        sic ultimo in lingua, in signum scilicet detestationis luxurie et gule
+                        quibus fere omnis humana vita infecta est. Septima ut mysterium deitatis
+                        celaretur, tum propter dyabolum, tum propter homines indignos.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394697967105" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:43:36:151">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:43:37:421">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

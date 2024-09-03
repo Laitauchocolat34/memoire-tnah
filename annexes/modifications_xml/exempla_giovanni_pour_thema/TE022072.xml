@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022072" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">358</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Bona que quis facit existens in charitate, si transferat in alium, non
+                        propterea ipse illa perdit quantum ad meritum. Cuiusexemplumest, quia licet populus Romanus auctoritatem condendi
+                        constitutiones, seu etiam leges, legatur transtulisse in principem, ut C. de
+                        veteri iure. en. l. j. §. et hoc etiam, tamen intelligitur translata, id est
+                        concessa, non quod omnino populus a se abdicauerit potestatem. Et sic
+                        dicitur transferri iurisdictio a delegante in delegatum: ut ff. de officio
+                        eius cui mandata est iurisdictio. l. j. §. qui mandatum: Nam et si olim
+                        potestatem condendi leges populus in principem transtulisset, tamen postea
+                        reuocauit, ut ff. de orig. iu. l. 2. §. ex actis, et §. cum placuisset. Sed
+                        licet, sic esset antiquitus, hodie tamen dicunt aliqui, quod nec populus,
+                        nec senatus potest condere legem generalem, sed soli principi licet condere
+                        legem talem C. de legibus, lege fi. Quod ego verius credo, ut etiam patet C.
+                        de vetere iurenu. l. 2. §. sed hoc. Sicut enim translato sacerdotio necesse
+                        est, ut legis translatio fiat, sic dici potest, quod translato Imperio,
+                        necesse, quod potestatis condendi legis translatio etiam fiat, extra de
+                        consti. c. translato. Nam qui nihil retinuit, insolidum presumitur
+                        transtulisse. arg. extra. de offi. de leg. c. venera ad fi. Sed et prima
+                        opinio, ut sentit Hosti. est de consuetudine inumbrata: que necdum
+                        opinionem, sed etiam legem tollit, ut in proemio Instit. §. igitur post
+                        libros, et in Auth. de here. et fal. §. j. Col. 1.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp121790352" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:40:39:326">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:40:40:478">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

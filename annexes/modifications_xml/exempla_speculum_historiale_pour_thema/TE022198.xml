@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022198" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">19</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Iterum [Ieronimus] contraHelinandiumHelvidiumHelvidiusiste homo turbulentus simul et laycus, loquacitatem
+                        facundiam estimat et maledicere omnibus bone conscientie signum arbitratur.
+                        Discat aliquando reticere, qui nunquam didicit loqui. In partu virginis
+                        nulla obstetrix fuit, nulla muliercula, sedulitas interfuit. Ipsa pannis
+                        infantem involvit, ipsa mater et obstetrix fuit, et eum in presepio
+                        reclinavit. Sed unde inquit fratres domini dicti sunt, qui fratres non
+                        erant? Iam nunc doceberis IIIIor modis fratres in scripturis dici, natura,
+                        gente, cognatione, affectu. Natura utEsauetIacob,
+                        gente ut omnesIudei, cognatione
+                           utAbrahametLoth, affectu qui in duo scinditur,
+                        in spirituale, et sic omnes christiani fratres vocantur, et commune, et sic
+                        omnes homines quia ex uno patre. Imperitissime hominum, ista non legeras, et
+                        toto scripturarum pelago derelicto, ad iniuriam virginis tuam rabiem
+                        contulisti. Inexemplumeius quem fabule ferunt,
+                        qui cum vulgo esset ignotus, et nichil boni posset facinoris excogitare, quo
+                        nobilis fieret,Dyanetemplum incendit sacrilegium. Fertur ipse
+                        in medium processisse, clamitans sese incendium subiecisse.
+                           SciscitantibusEphesiprincipibus quam ob causam hoc facere
+                        voluisset, respondit: Ut quia bene non poteram, male omnibus innotescerem.
+                        Et hoc quidem de illogrecanarrat hystoria. Tu vero templum
+                        dominici corporis succendisti. Tu contaminasti sacrarium spiritus sancti, ex
+                        quo vis quadrigam fratrum et sororum processisse congeriem. Apud christianos
+                        soloecismus est magnus et vitium turpe quid vel narrare vel facere. Si
+                        describatur infansIhesus, tegmine menbranorum solite involutus,
+                        ingerantur dura presepia, vagitus parvuli, octava die circumcisio, non
+                        erubescimus, non silemus. Quanto humiliora sunt que pro me passus est, tanto
+                        illi plus debeo. Et cum omnia replicaveris, nichil cruce proferes
+                        contumeliosius, quam profitemur et credimus, et in qua de hostibus
+                        triumphamus. Tu dicisMariamvirginem non permansisse, ego michi
+                        plus vendico, etiamIosephvirginem perMariamfuisse,
+                        ut ex virginali coniugio, virgo filius nasceretur, et
+                        cumMariavirgo permansit, qui pater domini appellari meruit. Nec
+                        hoc ideo dicimus, quo nuptias condempnemus. Opera quoque virginitas est
+                        fructus nuptiarum. Virgo cogitat que sunt domini, ut sit sancta corpore et
+                        spiritu. Nupta autem cogitat que mundi sunt et cetera. Idem vero tu putas
+                        esse diebus et noctibus vacare ieiuniis atque orationi, et ad adventum
+                        mariti faciem expolite, gressum frangere, blanditias simulare. Illa hec agit
+                        ut turpior appareat, et nature bonum fuscat iniuria. Hec ad speculum
+                        pingitur et in contumeliam artificis conatur pulchrior esse quam nata est.
+                        Inde infantes garriunt, familia perstrepit, liberi ab ore dependent,
+                        computantur sumptus, preparantur impendia. Hinc coquorum accincta manus
+                        carnes terit. Hinc dextricunq in turba commurmurat. Nunciatur interim vir
+                        venire cum sociis. Illa ad yrundinis modum lustrat omnia penetralia, si
+                        thorus rigeat, si pavimenta urunt, si ordinata sunt pocula, si prandium
+                        paratum. Responde queso, inter ista ubi sit dei cogitatio? Nec tamen negamus
+                        maritatas sanctas mulieres inveniri, sed que uxores esse desierunt et que in
+                        ipsa neccessitate coniugii imitantur virginum castitatem.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698126746" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:45:17:630">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:45:19:920">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022180" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">1</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Actor]Tricesimus primus liber continet hystoriam
+                        XXXIIII annorum quibus imperavitFredericussecundus, et habet
+                        capitula CLI. I De imperioFredericisecundi et
+                           expulsioneOthonis. II DeMemmiliniregis
+                           etalbigensiumdestructione. III De
+                           recessuReginaldicomitisBoloniea
+                           regnoFrancie. IIII De moribus eiusdem comitis, et eius
+                        federe cum regeAnglie. V De preparatione
+                           itinerisPhilippiregis inAngliamet de
+                        crucesignatione puerorum. VI De
+                        reconciliationeIngelburgisregine, et
+                           itinerePhilippiusque inFlandriam. VII De
+                           belloPapiensiumetCremoniensiumcontraMediolanenses.
+                        VIII De transituIohannisAnglieregis
+                           inAndegaviametGuarinoepiscoposilvanectensi,
+                           etGaufridomeldensi. IX De bello nostrorum contraAlbigenseset
+                        nece regisArragonum. X De
+                           sanctaMariadeOegnieset
+                           magistroIacobodeVitriaco. XI De sanctis
+                        mulieribus que tunc habundabant in partibusLeodii. XII De illis
+                        qui detrahebant illis. XIII De probatione sanctitatis earum. XIIII De
+                        quibusdam singularibus personis quibus data est gratia spiritualis. XV Item
+                        de eodem. XVI De origine et infantia beateMarie. XVII Qualiter
+                        eius maritus per ipsam ad amorem castitatis conversus est. XVIII De gratia
+                        lacrimarum eius. XIX Qualiter cuidam sacerdoti obtinuit copiam lacrimarum.
+                        XX De confessione et austeritate penitentie. XXI De ieiunio et refectione
+                        illius. XXII Item de eodem. XXIII De orationibus eius. XXIIII Item de eodem.
+                        XXV De hiis que circa eam in nocte gerebant. XXVI De habitu eius et opere et
+                        silentio. XXVII Qualiter in eius facie gratia resplendebat. XXVIII De
+                        infirmitate eius curata et aliorum per ipsam. XXIX De timore illius casto et
+                        amore paupertatis. XXX De pietate eius perexemplum.XXXI Itemexemplade eodem.
+                        XXXII Item de eodem. XXXIII Item de eodem. XXXIIII Item de eodem. XXXV De
+                        spiritu sciencie et discretionis quem habuit. XXXVI Itemexemplade eodem. XXXVII Item de eodem. XXXVIII De
+                        spiritu consilii quem habuit. XL Item de eodem. XLI De spiritu intellectus
+                        ipsius. XLII Item de eodemexempla.XLIII De
+                        spiritu sapientie eiusdem. XLIIII Item de eodem. XLV Itemexemplade eodem. XLVI Adhuc de eodem. XLVII De
+                        transitu eius a locoWillembrodoapudOegnies. XLVIII
+                        Qualiter obitum suum magistroIacobopredixit et exultationis
+                        vocibus prevenit. XLIX De ultima eius egritudine, et qualiter in ea se
+                        habuit. L Item de eodem. LI De felici eiusdem transitu. LII De
+                           victoriaLudoviciiunioris inPictavia. LIII De
+                           introituPhilippiregis inFlandriamet
+                        preparatione belliflandrensis. LIIII De ordinatione acierum in
+                        utroque exercitu. LV De exhortationeFrancorumad pugnam et
+                        oratione permissa. LVI De primo congressu militum. LVII De adventu
+                        communiarum et de pugna contra regemPhilippum. LVIII De
+                        conflictu belli et fugaOthonis. LIX De
+                           comiteBoloniequaliter captus est. LX Qualiter
+                           rexPhilippusvictor cum gaudio rediit. LXI Qualiter
+                           comitemBoloniede ingratitudine redarguit. LXII De
+                        captivitate eiusdem comitis etFerrandiet aliorum. LXIII De
+                           maliciaIohannisregisAnglieet
+                           inconstantiaPictonumet treuga data. LXIIII De
+                           concilioInnocentiiet reprobatione
+                           dogmatumIoachimetAmalrici. LXV Qualiter
+                           beatusDominicusordinem suum petiit
+                        abInnocentiopapa confirmari. LXVI Qualiter idem ordo
+                        confirmatus est abHonoriopapa. LXVII De dispersione fratrum ad
+                        predicandum per mundum. LXVIII De visionibus quibusdam ostensis super statu
+                        ordinis. LXIX De magistroReginaldoaurelianensi, qualiter cardinali propositum suum aperuit. LXX
+                        Qualiter propositum suum per beatam virginem adimplevit. LXXI De duobus
+                        mortuis quos beatusDominicusoratione suscitavit. LXXII De
+                        miraculo panum fratribus semel et iterum divinitus oblatorum. LXXIII De
+                        quibusdam aliis eius miraculis. LXXIIII De denario pro naulo divinitus ab eo
+                        procurato, et dono linguarum impetrato. LXXV De quibusdam obsessis a
+                        demonibus per eum liberatis. LXXVI De demone quem in specie cati ad
+                        conversionem IX mulierum ostendit et fugavit. LXXVII Qualiter idem vir
+                        sanctus prophetie spiritu claruit. LXXVIII De
+                        transituLudovicifilii
+                           regisPhilippiinangliam. LXXIX De passagio
+                        peregrinorum generali transmarino et primo eorum equitatu. LXXX De secundo
+                        equitatu. LXXXI De tercio equitatu. LXXXII De edificatione castri
+                        peregrinorum. LXXXIII De excitationeColoniensiumad signi
+                        crucis. LXXXIIII De profectione peregrinorum contraDamiatam.
+                        LXXXV De quibusdam incidentibus illius temporis. LXXXVI De
+                           captioneIherusalemperCoradinumTurquiesoldanum. LXXXVII De miseria obsessorum
+                           inDamiata. LXXXVIII De captioneDamiateabsque
+                        sanguinis effusione. LXXXIX De civium eius strage. XC De spoliorum eius
+                        distributione. XCI De captioneThaniset opulentia ipsius ac
+                        fortitudine. XCII De libro recepto in quo predicta
+                        estDamiatevastatio et quedam alia. XCIII De
+                           legationeGeorgianorumad nostros admirantium super
+                           captioneDamiate. XCIIII De captioneSaphetac
+                           redditioneDamiate. XCV
+                        DeGeorgianorumdestructione. XCVI De
+                           crismateGeorgianorumet erroribus ipsorum. XCVII De
+                           vastationeArmeniorum. XCVIII De erroribus ipsorum. XCIX De
+                        quibusdam sanctiFranciscidocumentis et conscientie et puritate
+                        illius. C Qualiter etiam absentia cognoscebat spiritu revelante. CI De
+                        abstinentia eius et vera humilitate. CII De magnanimitate et fidutia
+                        eiusdem. CIII Qualiter volucribus predicavit. CIIII Quod et avibus et bestis
+                        ac piscibus et elementis imperavit. CV Quod illas precipue creaturas amabat
+                        que figuramChristipreferunt ut agnos et oves. CVI
+                           QuodChristinomen etiam in vermibus et in cedulis et maxime
+                        in pauperibus honorabat. CVII De miraculis gestorum eiusdem. CVIII De
+                        orationis eius assiduis et confidentia in domino. CIX Qualiter in eius
+                        corpore apparuerunt stigmata passionis dominice. CX De virtute orationum
+                           beatiDominiciin animabus convertendis. CXI De moribus
+                        eiusdem precipuis. CXII Qualiter spatium diei et noctis impedebat deo et
+                        proximis. CXIII De felici transitu eiusdem. CXIIII De revelatione gloriosi
+                        transitus eius facta quibusdam fratribus. CXV De elevatione sacri corporis
+                        eius. CXVI De mortuis per eum inHungariasuscitatis. CXVII Adhuc
+                        de eodem. CXVIII De ceteris eius miraculis ibidem exhibitis. CXIX De
+                        miraculis eius ostensis inLumbardia. CXX De hiis que facta sunt
+                           inSycilia. CXXI De infirmitatibus
+                           sanctiFrancisciquas passus est ante mortem. CXXII De felici
+                        obitu eiusdem. CXXIII De confirmatione trium ordinum per
+                           papamGregorium. CXXIIII De obitu quorumdam virorum
+                        illustrium in regnoFrancorum. CXXV De adventu
+                           regisIherusaleminFranciamet obitu
+                           regisPhilippiet de reditu regniFrancorumad
+                           styrpemKaroli. CXXVI De itinere
+                           regisLudovicicontraPictavenses, et simulato
+                           comiteBalduino. CXXVII De captioneAvignionisper
+                           regemLudovicum. CXXVIII De obituLudoviciregis
+                        et coronatione filii eius eiusdem nominis, et transitu
+                           papeHonorii. CXXIX De dissensione
+                           baronumFrancieet regeLudovicoiuniore. CXXX De
+                        conversione beatiAnthoniad ordinem fratrum minorum. CXXXI De
+                        predicationis gratia divinitus sibi collata. CXXXII De felici transitu
+                        eiusdem. CXXXIII De ipsius exequiis. CXXXIIII De canonizatione ipsius et
+                        miraculis. CXXXV De sanctaElyzabeth. CXXXVI De dispersione
+                           scolariumparisiensiumet quibusdam aliis. CXXXVII De itinere
+                        transmarino sub ducatu regisNavarieet discordia
+                           interFredericumet papamGregorium. CXXXVIII De
+                        tyranide paparoissole et inTurcosdebachatione. CXXXIX De ipsius
+                        ac suorum destructione. CXL De
+                           longaTurcorumaTartarisimpugnatione. CXLI De
+                        nobilitate et magnitudine regniTurquie. CXLII De opulentia
+                        eiusdem. CXLIII De magnatibus subiectis eius dominio. CXLIIII De soldano
+                        ibidem constituto perFrancos. CXLV De
+                           probitateFrancorumcontraTartaros. CXLVI De
+                        destructione quarumdamTurquiecivitatum. CXLVII De
+                           itinereLudoviciregis inPictaviamcontra
+                           comitemMarchieac regemAnglie. CXLVIII De
+                           vastationePolonieacHungarieperBathoducemTartarorum.
+                        CXLIX De vastatione regniTurcorum. CL De cocerino qui postea se
+                        voluit erigere in soldanum. CLI De inicio
+                           pontificatusInnocentiiquarti et quibusdam incidentibus
+                        illius temporis.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394697807252" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:42:31:733">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:42:39:234">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022185" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">471</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item penitens, vel tentatus, debet studiose opera sua discernere, et
+                        corrigere. Cuiusexemplumest, quia mos
+                        antiquorum fuit in dolore vestimenta scindere: Vestimenta enim, sicutGregoriusdicit, scindimus, cum discernendo nostra
+                        opera pertractamus. Si enim apud Deum nostra opera nos quasi vestimenta non
+                        tegerent, nequaquam voce angelica diceretur: Beatus qui vigilat, et custodit
+                        vestimenta sua, ne nudus ambulet, et videant turpitudinem eius. Turpitudo
+                        enim tunc nostra cernetur, cum vita nostra ante iustorum oculos
+                        reprehensibilis monstratur. Tanquam enim subsequentis operis tegmine
+                        velamur, quando culpa tentati ad lamenta accendimur, atque ipsis lamentis
+                        excitati ad perspiciendum lumen iustitie subtilius oculos mentis aperimus.
+                        Quasi in dolore vestimenta scindimus, quando ex fletu discretione crescente
+                        cuncta que agimus districtius irata manu iudicamus.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp77618976" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:59:11:563">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:59:12:488">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022195" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">16</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Ieronimus] [adEstogiumEustochiumde virginitate servanda]Si quid itaque in me potest esse
+                        consilii, si experto creditur, hoc primum moneo, hoc obtestor quod
+                           sponsaChristivinum fugiat pro veneno. Hec adversus
+                        adolescentiam prima arma sunt demonum. Non sic avaritia quatit, inflat
+                        superbia, delectat ambitio, facile aliis caremus vitiis. Hic hostis intus
+                        inclusus est, quocumque pergimus nobiscum portamus inimicum. Vinum et
+                        adolescentia, duplex incendiium voluptatis. Quid oleum flamme adicimus? Quid
+                        ardenti corpusculo fomenta ignium
+                           subministrantur?PaulusadTimotheum: Iam noli
+                        inquit aquam bibere et cetera. Vide quibus causis vini potatio concedatur,
+                        ut ex hoc stomachi doloris frequens medeatur infirmitas. Et ne nobis
+                        forsitan de egrotationibus blandiremur, modicum precepit esse bibendum,
+                        medici potius consilio quam apostoli.Noevinum bibit et
+                        inebriatus est, rudi adhuc seculo, et ut intelligas in omnibus sacramentum,
+                        margarita quippe est sermo dei, et ex omni parte forari potest, post
+                        ebrietatem nudatio femorum subsequta est, libido iuncta luxurie, post venter
+                        extenditur, et sic cetera menbra concitantur. Manducavit enim populus et
+                        bibit et surrexerunt ludere.Lothamicus dei in monte salvatus,
+                        et de tot milibus populi solus iustus inventus inebriatur a filiabus suis et
+                        licet ille putarent genus hominum defecisse et hoc facerent liberorum magis
+                        desiderio quam libidinis, tamen virum iustum sciebant hoc nisi ebrium non
+                        esse facturum. Denique quid fecerit ignoravit, et quamquam voluntas non sit
+                        in crimine, error tamen in culpa
+                           est.HelyascumIezabelfugeret et sub quercu
+                        fessus iaceret ecce ad caput eius panis colliride, et vas aque. Revera
+                        numquid non poterat deus conditum ei merum mittere, et exoletos cibos et
+                        carnes concusione mutatasHelyseusfilios prophetarum invitat ad
+                        prandium, et herbis aggrestibus eos alens, consonum prandentium audit
+                        clamorem: Mors in olla homo dei. Non iratus est coquis, lautioris enim mense
+                        consuetudinem non habebat, sed farina desuper iacta, amaritudinem
+                        dulcoravit, eadem spiritus virtute
+                           quaMoysesmutaveratMarak. Et primus e paradyso
+                        homo ventri magis obediens, quam deo, in hanc lacrimarum deiectus est
+                        vallem, et ipsum dominum fameSathanastemptavit in deserto. Et
+                        apostolus clamitat de luxuriosis quorum deus venter est. Id enim colit
+                        unusquisque quod diligit, ex quo sollicite providendum est, ut quos
+                        saturitas de paradyso expulit, reducat esuries. Quod si volueris respondere
+                        te nobili stirpe generatam semper in deliciis, semper in plumis, non posse a
+                        vino et succulentioribus cibis abstinere, nec his legibus vivere districtius
+                        respondebo: Vive ergo lege tua, que dei non potes, non quo deus
+                        universitatis creator et dominus, intestinorum nostrorum rugitu et inanitate
+                        ventris pulmonumque delectetur ardore. Sed quia aliter pudicitia tuta esse
+                        non possit.Iobdeo carus, audi quid de diabolo suspicetur:
+                        Virtus eius in lumbis eius, et cetera. Honeste viri mulierisque genitalia,
+                        immutatis sunt appellata nominibus. Omnis igitur adversum viros dyaboli
+                        virtus in lumbo est, omnis in umbilico est feminarum fortitudo. Vis scire
+                        ita esse? Accipeexempla:Sampsonleone fortior, saxo durior, et qui unus et nudus mille
+                        est persequtus armatos, inDalilemollescit
+                           amplexibus.Davidsecundum cor domini electus, et qui
+                           venturumChristumsancto sepe ore
+                           cantaverat,Betsabeecaptus nuditate, adulterio iunxit
+                           homicidium.Salomonper quem se cecinit ipsa sapientia,
+                        recessit a domino quia amator mulierum fuit, et ne aliquis sibi de sanguinis
+                        propinquitate confideret in illicitumThamarsororis amore frater
+                        exarsit incendium.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698123455" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:44:49:884">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:44:52:295">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

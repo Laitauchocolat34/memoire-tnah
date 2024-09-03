@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022018" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">304</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item peccatum assimilatur paralysi quo ad quatuor: primo quantum ad
+                        subiectum, quia paralysis secundumAvicennamquandoque est in toto corpore preter caput, quandoque est in
+                        uno latere tantum, quandoque in uno membro tantum: sic inter peccatores illi
+                        sunt quasi ex toto paralytici, qui totum tempus vite sue male expendunt,
+                        excepto capite, id est tempore innocentie, scilicet etate puerili post
+                        baptismum: Quidam enim statim cum attingunt ad annos discretionis, incipiunt
+                        facere mala, et semper continuant in peius usque ad mortem, et tales sunt
+                        potius dicendi demones quam homines: quia (secundumHieronymum) humanum est peccare, sed diabolicum est perseverare.
+                        Sed quasi in uno latere paralytici sunt, qui licet aliquam partem vite
+                        expendant in peccatis, tamen postea convertuntur, et bene viuunt in residuo
+                        tempore, utMagdalena.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp82698512" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:31:36:879">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:31:37:810">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

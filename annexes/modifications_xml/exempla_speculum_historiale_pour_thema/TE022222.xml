@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022222" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">43</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Ex gestis eius (Audomarus Tarvannensis)Hic quoque
+                        ex nobilibus et religiosis parentibus oriundus fuit
+                        inAureavalle, non longe aConstantiacivitate. Qui
+                        religiose a cunabulis educatus, matre defuncta, ipse et pater
+                           eiusFriulphusetate dispares, mente similes, omnia
+                           proChristorelinquentes ad cenobiumLuxoviuma
+                           beatoColumbanoinBurgundiafundatum pariter
+                        perrexerunt. Ibique sub sancto abbateEustasiosacre regule se
+                        devote subiecerunt. IllicFriulphuslaudabiliter usque ad finem
+                        perseveravit. De hincAudomarusfama eius pervulgata, ad
+                        gubernandum et docendumteruanensisurbis populum episcopalem
+                        honorem cum magna mentis humilitate sumpsit. In quo gradu verbum dei
+                        seminans, animarum et corporum langores curans et misericordie operibus
+                        insistens plebem sibi creditam rite gubernavit,
+                           ipsosqueTeruanenses, qui post
+                           beatorumFuscianietVictoricimartyrium a doctrina
+                        sana quam ab eis audierant ad ydololatriam reversi fuerant, ewangelii luce
+                        iterum illuminavit et ydolorum culturam in urbe funditus evertit. Cum autem
+                        quadam nocte ex more dominum exoraret, dyabolus tam incentivam ei carnis
+                        temptationem immisit, quod ei similem numquam se habuisse meminit.
+                        Reminiscensqueexemplumincendii
+                           beatiBenedicti, in urticarum et veprium aculeis omni
+                        indumento exutus egressus foras ilico se proiecit, ibique diu volutatus toto
+                        corpore vulneratus exiit. Cumque bene penaliterarderearderetforis, quod intus illicite ardebat extinxit. Idem cum ab urbe ad
+                        vicinia loca lustranda pergeret, in quodam loco prope villam
+                           queIorniacusdicitur contra meridiem volens pausare iacuit
+                        sub quadam arbore. Inde vero cum a sompno surrexit, crucem domini ex lignis
+                        editam in eadem arbore fixit. Sequenti autem nocte multa ibi apparuerunt
+                        luminaria et ab eo temporeChristuspro milite suo multorum
+                        ibidem sanavit infirmitates, atque innumerabiles declaravit virtutes. Ad
+                        meritorum autem suorum cumulum augendum, per plurimos ante obitum suum annos
+                        oculorum lumen amisit. Sicque foris cecus, intus illuminatus,
+                           novusIsrahelitadeum videbat, et corde semper devoto dicebat:
+                        Ad te levavi oculos meos qui habitas in celis. Cum autem obitum suum
+                        imminere sciret, ipsa ultima die vite sue de lecto in quo iacebat febre
+                        correptus surrexit, et ingressus ecclesiam prolixe cum lacrimis oravit,
+                        factaque diutissima exhortatione ad clerum et populum ad stratum rediit et
+                        more solito mortuorum omnium corpore extensus, inter verba gratiarum
+                        actionis et divine laudis spiritum cum gaudio et vultu preclaro emisit.
+                        Testatique sunt qui tunc ibidem aderant, quod tanta in transitu ipsius anime
+                        sancte in domo illa fragrantia odoris est aspersa, ac si domus illa omnibus
+                        aromatibus fuisset repleta.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698221123" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:48:44:672">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:48:46:668">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

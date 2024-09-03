@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022199" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">20</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Ex gestis eius (Iohannes Anachoreta)]Idem contra
+                        detractores ait: Mulier quedam nuda exilivit de dolio et cooperuit se pannis
+                        veteribus. Altera vero nuda remanens, dicebat marito: Ecce meretrix illa
+                        nuda est, et non confunditur. Sic faciunt detractores. Idem contra
+                        praesumptuosos: Erat quidam monachus in spelunca, summe abstinentie cunctis
+                        animi florens virtutibus. Cumque in profectibus suis confidens, non totum
+                        deo sed sibi ipsi tribueret, hanc presumptionem intuens temptator, quodam
+                        vespere fingit se in speciem mulieris oberrantis per heremum. Que ut fessa,
+                        ad hostium spelunce lassitudinem simulans, intus seipsam proiecit, et
+                        obvoluta genibus eius, ut sui misereatur exorat. Nox inquit me comprehendit,
+                        iube me quiescere in angulo cellule tue ne forte efficiar bestiis preda. At
+                        ille primo miserationis obtentu recepit eam in speluncam, querens causam
+                        errandi eam per heremum. At illa causam fingit accurate, et interim venena
+                        blandimentorum per textum narrationis interserit, et nunc se miserandam,
+                        nunc defensione dignam ostendens, elegantia et suavitate sermonis affectum
+                        hominis illecebroso amore deflectit. Hinc iam blandiora colloquia, ioci,
+                        risusque miscentur, manus etiam procax ad mentum barbamque quasi venerandi
+                        specie protendit. Tunc vero palpare cervicem mollius, collumque levigare.
+                        Quid multa? Ad ultimum captivum ducit militemChristi, continuo
+                        enim libidinis fluctibus estuans, etiam laborum preteritorum ac professionis
+                        oblitus, obscenos iam conabatur inire amplexus. Illa vero ululatum
+                        teterrimum emittens, ut umbra erat tenuis, per manus amplectentis elabitur,
+                        ipsumque dedecoris moribus inanes auras sectantem, fedissima cum irrisione
+                        deseruit. Tunc multitudo demonum in aere ad hoc ipsum spectaculum
+                        congregata, ingenti clamore inquit: O qui te usque ad celum extollebas,
+                        quomodo demersus es in infernum? Disce ergo, quia qui se extollit,
+                        humiliabitur. Tunc ille velut amens effectus, et deceptionis sue non ferens
+                        pudorem, gravius a seipso decipitur, quam fuerat a demonibus deceptus. Cum
+                        enim se reparare et certamen renovare deberet, desperans semetipsum,
+                        tradidit se omni impudicitie et impietati.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698130615" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:45:26:508">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:45:28:253">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022186" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">7</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Actor]Nullum autem est illustriusexemplumdivine predestinationis et gratie, quam
+                        mediator ipse. Nec enim in homine illo meritum aliquod precessit, ut a filio
+                        dei assumeretur in unitate persone. Itaque homo ille est gratia dei filius,
+                        et ad hoc est predestinatus, id est ex gratia preparatus. Nec ob hoc
+                        sequitur quod filius dei predestinatus sit, ut esset ille homo, quoniam esse
+                        hominem non est ex gratia dei filio sed econverso, proprie namque loquendo
+                        subiectum gratie non est dei filius sive deitas, sed homo vel humanitas.
+                        Itaque predestinatio secundumAugustinumest
+                        gratie preparatio, qua deus hominiChristocunctisque quos
+                        ymaginis filii sui conformes fieri prescivit, bona sine meritis ab eterno
+                        preparavit. Nec tamenChristusipse secundum quod homo dicitur
+                        filius adoptivus aliquo modo, sed naturalis tantummodo, quoniam illi soli
+                        dicuntur adoptivi, qui cum prius non essent filii, postmodum in filios sunt
+                        adoptati. Sciendum est autem illum hominem ab ipsa conceptione recepisse
+                        gratie plenitudinem, cui soli datus est spiritus non ad mensuram. In ipso
+                        namque habitat omnis plenitudo, quia omni gratia plenus est, sicut in capite
+                        sunt omnes sensus, in ceteris autem membris solus tactus. Sic et singulis
+                        eius membris gratia data est ad mensuram, qui de plenitudine eius
+                        acceperunt, non secundum essentiam, sed secundum similitudinem. Numquam enim
+                        illam eandem sed similem accipiunt gratiam, puer igitur ille plenus
+                        sapientia et gratia fuit, ab ipsa conceptione, nec obstat quod legitur
+                        profecisse sapientia, et etate et gratia apud deum et homines. In aliis
+                        namque non in se proficiebat, dum eis sapientie sue et gratie munenera
+                        secundum processum etatis magis ac magis patefaciebat, ac per hoc eos et ad
+                        vite sue profectum et ad dei laudem excitabat, sicque deo patri ad laudem et
+                        hominibus ad salutem proficiebat. Dicimus autem
+                        animamChristiper sapientiam sibi datam in verbo dei cui unita
+                        est, quod etiam ipsa perfecte intelligit, omnia scire que Deus scit. Capax
+                        est enim scientie, et ob hoc id ei congrue sine mensura datum est, cuius
+                        ipsa naturaliter capax est. Non est autem ei datum omnia posse facere, que
+                        deus facit, quia soli divinitati omnipotentia congruit. Sed et licet omnia
+                        sciat que deus, non tamen ita clare ac limpide omnia capit ut deus, sed omni
+                        alia creatura liquidius atque presentius. Simul
+                        ergoChristusviator fuit et comprehensor, tantamque sapientie et
+                        gratie plenitudinem ab hora conceptionis recepit, ut deus ei plenius
+                        conferre non potuerit. Nec habuit fidem, virtutem vel etiam spem, quia non
+                        enigmaticam et specularem, sed clarissimam habuit de deo cognitionem, ac
+                        veram comprehensionem. Habuit tamen quandam certam boni expectationem, que
+                        non erat alicuius virtutis proprie sed rationis. Caritatem vero tantam
+                        habuit, quod nulla maior esse potest, sicut ipse dicit: Maiorem ac
+                        dilectionem nemo habet et cetera.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394697965609" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:43:27:338">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:43:29:274">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022172" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">458</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Custodia sui mala et debilis, est causa mortis et perditionis anime;
+                        sicut ille qui haberet inimicos feroces et capitales eum querentes, si
+                        ostium domus in qua quiesceret, apertum dimitteret, aut ibi debilem custodem
+                        poneret, faciliter occideretur, sicut patet2.
+                           Regum.ExemploIsboseth, qui ad custodiam domus non ostiarium
+                        posuit: unde venientes filiiRemon Berochite,Rechab, etBanaa, ingressi sunt domumIsboseth,
+                        qui dormiebat super fratum suum meridie, et ostiaria domus purgans triticum
+                        obdormiuit. Ingressi sunt autem domum latenter assumentes spicas tritici, et
+                        percusserunt eum in inguine. Sicut enim dicitGregorius, ostiaria triticum purgat, cum mentis custodia
+                        discernendo virtutes a vitiis separat; que si dormiat, in mortem proprii
+                        domini insidiatores admittit; quia cum discretionis solicitudo cessauerit,
+                        ad interficiendum animam malignis spiritibus iter pandit; qui ingressi
+                        spicam tollunt, qui mox bonarum cogitationum germina auferunt atque in
+                        inguine feriunt, quia virtutem cordis delectatione carnis occidunt. In
+                        inguine quippe ferire, est vitam mentis carnis delectatione perforare.
+                        Nequaquam autemIsbosethiste hac morte
+                        succumberet, si non ad ingressum domus mulierem, id est, ad mentis aditum
+                        mollem custodiam deputasset. Fortis namque virilisque sensus preponi cordis
+                        foribus debet, quem nec negligentie somnus opprimat, nec ignorantie error
+                        fallat. Unde beneIsbosethappellatus est, quia
+                        a custodia femine hostilibus gladiis traditur.Isbosethquippe vir confusionisdicitur: Vir autem confusionis est, qui forti mentis custodia
+                        munitus non est. Quia dum virtutes se habere estimat subintrantia vitia
+                        nescientem necant. Tota itaque virtute muniendus est aditus mentis, ne
+                        quando eam insidiantes hostes penetrent foramine neglecte
+                        cogitationis.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp80759312" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:57:07:188">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:57:08:434">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

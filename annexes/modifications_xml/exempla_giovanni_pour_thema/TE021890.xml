@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021890" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">176</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Exemplum humilitatis, et patientieChristi, contra omnes adversitatis procellas animum fortem reddit.
+                        Cuiusexemplumapparet in quodam pisciculo, qui
+                        echinus est vocatus ; de quoAmbros.dicit, quod
+                        dum procellas ventorum sentit, calculum validum arripit, et tanquam ancoram
+                        ne excutiatur fluctibus trahit ; et sic non suis viribus liberatur, sed
+                        pondere alieno munitur et contra futuram tempestatem lapidis auxilio
+                        stabilitur, quod naute attendentes, sibi precavent ne eos turbo preveniat
+                        imparatos. Sic qui procellas evadere vult, id est, adversitates seculi
+                        sevientis, arripiat calculum validum humilitatis, scilicet patientie,Christiexemplo; qui ait : Si mundus vos odit,
+                        scitote, quia me priorem vobis odio habuit, undePet.Christuspassus est pro nobis, vobis relinquens
+                        exemplum, ut sequamini vestigia eius. Et ideo, qui hunc lapidem angularem,
+                        scilicetChristum, accipit in exemplum, nullus
+                        ei nocere potest impetus tempestatis : nam si passioChristiad memoriam revocetur, nihil est adeo durum, quod non
+                        equo animo toleretur, sicutGreg.dicit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120111024" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:12:36:522">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:12:37:532">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

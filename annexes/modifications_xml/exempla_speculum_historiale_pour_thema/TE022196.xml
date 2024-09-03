@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022196" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">17</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Ieronimus] [adEstogiumEustochiumde virginitate servanda]Videas plerasque viduas antequam
+                        nuptas, infelicem conscientiam mentitas, tantum veste fusca protegere, quas
+                        nisi tumor uteri, vel infantum vagitus prodiderint, erecta cervice et
+                        ludentibus pedibus incedunt. Alie vero sterilitatem prebent, et nec sati
+                        hominis homicidium faciunt. Nonnulle cum se senserint concepisse de scelere
+                        abortiva veneno meditantur et frequenter ipse cummortue trium criminum ree,
+                        sic ad inferos perducuntur, homicide sui, adultereChristi,
+                        necdum nati filii parricide. Hee sunt que per publicum notabiliter incedunt,
+                        et furtivis occulorum nutibus adolescentium greges post se trahunt, et quam
+                        viderint pallentem ac tristem, miseram ac manicheam vocant. Et cum se mero
+                        ingurgitaverint, sacrilegium corpus domini sumendo committunt. Purpura
+                        tantum in veste sic tenuis et laxius ut crines decidant ligatum caput,
+                        saccus vilior et per humeros mavorte volitans, stricte manice brachiis
+                        adherentes et solutisque genibus sit fractus incessus. Hec est apud illas
+                        tota virginitas. Habeant istiusmodi laudatores suos et sub virginali nomine
+                        citius pereant. Libenter talibus non placemus. Pudet dicere, proh nephas,
+                        triste, sed verum est. Unde in ecclesias agapitarum pestis intravit? Unde
+                        sine nupciis aliud nomen uxorum? que eadem domo, uno cubiculo, sepe uno
+                        tenentur et lecto et suspiciosos nos vocant, si aliquid estimemus.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698123612" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:44:58:871">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:45:01:643">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

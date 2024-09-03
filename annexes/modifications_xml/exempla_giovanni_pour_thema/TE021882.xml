@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021882" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">168</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Quarto aves docent qualiter se debent coniuges ad matrimonialem actum
+                        coniungere, scilicet tantum coniugali federe et affectu, scilicet intentione
+                        et causa prolis procreande ; Hac enim sola de causa aves ad invicem
+                        sociantur, scilicet ad generationem, et hinc est, quod aves quasi solum
+                        generationis tempore videntur esse in amore. Hinc est, quod solum etiam in
+                        coniunctione carnali inter sexum et sexum diiudicant, exceptis perdicibus,
+                        que sexum non servant, sicut dicitPhilosophus.
+                        Unde surgit in perdicibus masculus in masculum, femina in feminam. Sed ex
+                        tali coitu non fiunt ova pullificativa : Immo faciunt ova vento plena, et
+                        addit, quod ex tali coitu malus fetor sentitur. In quo videlicetexemploostenditur vitium contra naturam triplici
+                        de causa detestabile. Primo, propter infructuositatem, quia non est ad
+                        generationem. Unde in perdicibus ex tali coitu non generantur ova
+                        pullificantia. Secundo, propter insatiabilitatem, quia facit ova plena
+                        vento : Ventus enim, licet repleat, non tamen reficiendo satiat. Sic in
+                        huiusmodi operibus, licet quis suum malum desiderium impleat, tamen non
+                        satiat. Tertio, propter fetoris feditatem, quia producit malum fetorem
+                        infamie vel mali exempli.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp122290320" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:11:30:667">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:11:31:680">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

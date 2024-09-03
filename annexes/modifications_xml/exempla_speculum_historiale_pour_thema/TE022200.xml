@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022200" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">21</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Ex gestis eius (Iohannes Anachoreta)]Fuit vir
+                        quidam pessimam vitam ducens, qui dei miseratione conpunctus, intra
+                        sepulchrum quoddam se recludens, priorum scelerum pollutiones lacrimarum
+                        fontibus diluebat. Semper prostratus, levare oculos ad celum nolebat, neque
+                        etiam nomen dei nominare, sed et in solis gemitibus perdurabat. Nocte
+                        venerunt ad eum demones in sepulchro clamantes: Quid est quod agis o
+                        impiissime et flagitiosissime? Postquam omni spurcitia et impuritate
+                        satiatus es, nec iam sufficiunt vires ad facinora, tu christianus videri
+                        vis, et pudicus, et patiens, quasi iam alius tibi dari possit locus satiato
+                        in malum, quam qui tibi nobiscum debetur? Unus ex nobis es, aliud esse non
+                        potes, redi ad nos, et quod tibi superest tempus, in perfruenda voluptate
+                        non perdas. Quid temetipsum ante tempus suppliciis tradis? Quid enim aliud
+                        passurus esses in inferno, nisi hoc quod tibi nunc ipse conquiris? Si te
+                        pena delectat, expecta paululum et invenies paratam. Nunc interim fruere
+                        muneribus nostris, que dulcia semper et grata duxisti. Ille autem tacitus
+                        iacebat, et cum eadem et duriora sepe repeterent, nec ille moveretur.
+                        Videntes demones verba comtempni, in furorem prolapsi verberibus eum cedere
+                        aggressi sunt, ita quod seminecem reliquerunt, nec tamen moveri potuit de
+                        loco, in quo orationis causa iacuerat. Altera vero nocte repente eum
+                        gravioribus verberibus cruciant, nec tunc moveri potuit, melius esse dicens
+                        mori quam demonibus obedire. Tertia etiam nocte absque ulla miseratione
+                        irruentes in eum, omnibus penis et cruciatibus eum conficiunt . Cumque iam
+                        corpus in suppliciis defecisset, tamen extremus spiritus demum obsistebat
+                        imperio. Quod postquam viderunt impii, voce magna clamantes: Vicisti,
+                        inquiunt, vicisti. Et ut virtute quadam celitus fugati, precipites
+                        abscedunt.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698130673" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:45:34:743">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:45:36:311">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

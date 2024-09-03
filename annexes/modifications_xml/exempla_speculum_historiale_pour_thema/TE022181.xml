@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022181" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">2</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Actor?]Cumque sit omnium deus excelsus
+                        inaccessibilis, omnique virtute inestimabilis, unus est in substantia,
+                        trinus in personis. Unus quidem est ne differentia contrarietatem et
+                        contrarietas pugnam, pugna vero corruptionem inducat. Trinus vero ne
+                        solitudo vel singularitas eum vel minus potentem, vel minus bonum, vel minus
+                        etiam felicem ostendat. Pater namque fontalis omnium bonitas quia potuit et
+                        voluit filium dilectum genuit, cui beatitudinis sue delicias plenissime
+                        communicavit. Non enim inopi dando subvenit sed ipsam copiam genuit,
+                        alioquin beatius esset dare quam accipere. Ac per hoc sibi per omnia
+                        coequalem genuit, ne si hoc non posset infirmus et si nollet invidus
+                        videretur. Sed et coeternum genuit quia nunquam sine illo fuit, ne aut sine
+                        generatione imperfectus, aut post generationem superfluus arguatur,
+                        consubstantialem quoque ne divinitatis substantia duplicetur. Hic est
+                        sapientia, veritas et verbum, figura et splendor patris, eius ymago
+                        perfectissima per quam ipse secretissimus dignis animis innotescit. Per hunc
+                        etiam omnia facit, non quasi per organum ministrale, sed illi quasi
+                        subsistenti virtute, sicut ignis lucet eo quod non ex ipso provenit lumine.
+                        Et quoniam in deo nulla est indigentia, ac per hoc etiam nulla in eo
+                        necessitas est, preire autem voluntas sapientiam non potest, nec voluntate
+                        precedente pater filium genuit, nec ulla necessitate sed semper manente
+                        bonitatis plenitudine. Ne autem esset immoderata divina generatio filius non
+                        genuit, sed ex utroque spiritus sanctus procedit, ut ambo se mutuo
+                        diligentes tertium quoque condilectum haberent cui caritatis sue delicias
+                        omnino communicarent in quo etiam vel per quem creature rationales pro
+                        modulo sue capacitatis eisdem participarent. Ipse est enim, secundumAugustinum, caritas utrumque coniungens,
+                        nosque subiungens. Quoniam igitur ad summum bonum pertinet et summa
+                        perfectio et summa iocunditas, filius a patre processit per modum
+                        generationis que est emanatio perfectissima, et spiritus sanctus ab eodem
+                        per modum liberalitatis. Hec est iocundissima atque gratissima. Nichil est
+                        enim iocundius quam diligere et diligi, simulque deliciis frui communibus,
+                        nec ullius boni possessio iocunda est sine socio. Primum autem et precipuum
+                        liberalitatis donum, in quo et cetera cuncta donantur, amor est, omnia enim
+                        amato gratis communicantur. A fonte igitur bonitatis, qui pater est,
+                        procedit donum amoris qui spiritus sanctus est. Si autem a patre
+                        consequenter et a filio, quia pater nichil sibi retinuit quod non filio suo
+                        gignendo dederit, sicut ipse ait: Omnia que habet pater mea sunt, propterea
+                        dixi: Quia de meo accipiet et annuntiabit vobis. Est autem spiritus sanctus
+                        equalis utrique, quia ex summa liberalitate oportuit summum donum procedere,
+                        ergo et summum bonum. Est etiam deus quia donum intrinsecum est, et quicquid
+                        est in deo deus est. Ob hoc et utrique coeternus est, quia donum intrinsecum
+                        prius in deo fuit, quam esse vel aliud quicquam creaturis communicaret
+                        exterius et distribueret. Tempus autem et creatura coeva sunt. Est autem
+                        unicus in substantia, multiplex in donis, quia divisiones gratiarum sunt.
+                        Idem autem et cetera.Exemplumquidem trinitatis
+                        unius substantie nullum in creatura satis expressum invenitur, ob hoc tamen
+                        in igne maxime deus apparuisse legitur, quia in eo tria, scilicet ignis et
+                        splendor et calor simul consistunt et unum lumen sunt. Que cum
+                        inseparabiliter operentur, igni tamen attribuitur ustio, splendori
+                        illuminatio, calori calefactio.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394697808357" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:42:44:544">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:42:47:173">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

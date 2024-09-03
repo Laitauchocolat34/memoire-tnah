@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022193" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">479</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Christusnobis tradidit tria multum virtuosa,
+                        que similia sunt illis tribus, in quibusdiciturcommuniter esse magna virtus, scilicet verbis, lapidibus, et herbis. Que
+                        tria quidam expertus est semel, dum propter mala verba que dicebat socio
+                        suo, socius ipsum impegit in fossatum, ubi punctus est ab urtica, et lapis
+                        de muro in caput suum cadens ipsum usque ad effusionem sanguinis vulnerauit,
+                        et tunc recognoscens errorem suum, a socio petiit veniam dicens: quod nunc
+                        didicerat verum esse, quod virtus erat in verbis que ipsum impegerant, et in
+                        herbis que ipsum pupugerant, et in lapidibus qui ipsum cruentauerant. Nos
+                        igitur aChristoDomino habemus verba doctrine,
+                        lapides id estexemplasolida iustitie, et
+                        herbas, id est me dicamina, sive sacramenta gratie. Et his verbis anima non
+                        solum sanatur, sed etiam pascitur, et vegetatur. Sicut patet precipue de
+                           Eucharistia.Ezechiel. Requiescent in herbis
+                        virentibus.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp77732640" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 18:00:29:250">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 18:00:30:192">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

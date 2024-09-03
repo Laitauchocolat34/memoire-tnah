@@ -1,0 +1,119 @@
+\begin{lstlisting}[breaklines=true]
+import xml.etree.ElementTree as ET
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.firefox.service import Service as FirefoxService
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import time
+from bs4 import BeautifulSoup
+
+# Chemin vers le geckodriver sur votre système
+geckodriver_path = '/snap/bin/geckodriver'  # Mettez à jour ce chemin si nécessaire
+
+# Initialiser le service Firefox avec le chemin vers geckodriver
+service = FirefoxService(executable_path=geckodriver_path)
+
+# Initialiser le pilote WebDriver pour Firefox
+driver = webdriver.Firefox(service=service)
+
+def extract_quotes_from_xml(xml_file):
+	with open(xml_file, 'r', encoding='utf-8') as file:
+		content = file.read()
+
+	soup = BeautifulSoup(content, 'xml')
+
+	quotes = []
+	for cit in soup.find_all('cit'):
+		ref = cit.find('ref', target="#exemplum")
+		if ref is not None and ref.text == 'Exemplum':
+			quote = cit.find('quote')
+			if quote is not None:
+				quote_text = ''.join(quote.stripped_strings)
+				if quote_text:
+					quotes.append(quote_text)
+
+	return quotes
+
+# Exemple d'utilisation
+xml_file_path = 'speculum_historiale_31_07_2024.xml'  # Mettez à jour ce chemin si nécessaire
+quotes = extract_quotes_from_xml(xml_file_path)
+
+try:
+	# URL de la page de connexion
+	login_url = "http://127.0.1.1:8080/exist/apps/thema/login"
+	driver.get(login_url)
+
+	# Attendre que la page se charge
+	WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.ID, 'user')))
+
+	# Remplir le nom d'utilisateur
+	username_input = driver.find_element(By.ID, 'user')
+	username_input.send_keys("admin")
+
+	# Remplir le mot de passe
+	password_input = driver.find_element(By.ID, 'password')
+	password_input.send_keys("admin")
+
+	# Soumettre le formulaire en utilisant .submit() sur le formulaire lui-même
+	login_form = driver.find_element(By.ID, 'form')
+	login_form.submit()
+
+	# Attendre que la page se charge après la connexion
+	WebDriverWait(driver, 20).until(EC.url_changes(login_url))
+
+	# Utiliser les cookies pour rester connecté lors de futures visites
+	cookies = driver.get_cookies()
+	for cookie in cookies:
+		driver.add_cookie(cookie)
+
+	# Naviguer vers l'onglet "Collections"
+	collections_url = "http://127.0.1.1:8080/exist/apps/thema/collections/TC0180"
+	driver.get(collections_url)
+
+	# Attendre que la page TC0179 se charge
+	WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//a[@id="profile-tab"]')))
+
+	# Trouver le bouton "Liste des exempla" et cliquer dessus
+	liste_exempla_button = driver.find_element(By.XPATH, '//a[@id="profile-tab"]')
+	liste_exempla_button.click()
+
+	# Aller à la page de création d'exempla
+	creat_exempla_url = "http://127.0.1.1:8080/exist/apps/thema/edit?exemplum=new&addcoll=TC0180"
+
+	for index, quote in enumerate(quotes, start=1):
+		driver.get(creat_exempla_url)
+
+		# Attendre que la page se charge
+		WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.ID, 'source_text')))
+
+		# Remplir le champ source_text avec la citation extraite
+		source_text_input = driver.find_element(By.ID, 'source_text')
+		source_text_input.clear()
+		source_text_input.send_keys(quote)
+
+		# Remplir le champ title_for_exempla avec le numéro d'exemplum (index)
+		title_for_exempla_input = driver.find_element(By.ID, 'title_for_exempla')
+		title_for_exempla_input.clear()
+		title_for_exempla_input.send_keys(str(index))
+
+		# Cliquer sur le bouton "btn-save-collection"
+		save_button = driver.find_element(By.ID, 'btn-save-collection')
+		save_button.click()
+
+		# Attendre un peu pour que les actions se terminent et le formulaire se réinitialise
+		time.sleep(5)
+
+		# Retourner à la page d'accueil du recueil 
+		collec_url = "http://127.0.1.1:8080/exist/apps/thema/collections/TC0180"
+		driver.get(collec_url)
+
+		list_exe_button = driver.find_element(By.XPATH, '//a[@id="profile-tab"]')
+		list_exe_button.click()
+
+
+finally:
+	# Fermer le navigateur à la fin du script
+	driver.quit()
+	
+\end{lstlisting}

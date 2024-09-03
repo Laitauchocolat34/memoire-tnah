@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022190" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">11</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Comestor]Per manus autem apostolorum fiebant
+                        signa et prodigia, et augebatur credentium multitudo. Et ponebant in plateis
+                        infirmos in lectulis et grabatis, ut venientePetro, umbra
+                        corporis illius obumbrari liberarentur ab infirmitatibus suis,
+                           quiaPetrusprivilegiatus est in miraculis, et maiora legitur
+                        fecisse, quamChristus. Exurgens autem princeps sacerdotum et
+                        Saducei repleti sunt zelo, et iniecerunt manus in apostolos, et posuerunt
+                        eos in publica custodia. Angelus autem domini per noctem aperiens ianuas
+                        carceris eduxit eos. Intraverunt apostoli diluculo in templum et docebant
+                        plebem. Tunc abiit magistratus cum ministris et adduxit eos sine vi, non
+                        audens [eis] facere violentiam propter populum qui favebat eis. Et
+                        statuerunt eos in concilio. Et ait illis pontifex: Precepimus vobis ne
+                        doceretis in nomine isto, scilicetIhesuet ecce
+                           replestisIherusalemdoctrina vestra. Et responderunt: Obedire
+                        oportet deo magis quam hominibus. Hec audientes dissecabantur cordibus suis.
+                        Tunc surgens phariseusGamaliel, legis doctor honorabilis
+                        universe plebi, precepit ut ad breve amoverentur. IsteGamaliel,
+                        ut dicitClemensin quadam epistola sua, fuit discipulus
+                        apostolorum sicutNichodemus, et de concilio eorum, erant
+                           interIudeos, ut sepe mitigarent furorem eorum adversus eos.
+                        Ait ergo: Viriisraelite, attendite vobis, quid acturi estis
+                        super hominibus istis. Ac si diceret: Non debetis subito iudicare, sed
+                        expectare. Quia si opus eorum tantum est opus hominum per se destruetur. Si
+                        autem est opus dei, stabit nec poterit destrui. Et hoc ostenditexemploduorum
+                           scilicetTheodeetIudegalylei.Theodasmagus, ut
+                           traditIosephus, dicebat se prophetam. Ad cuius persuasionem
+                        multi venditis omnibus suis et sublatis ex urbe facultatibus, venerunt ad
+                           ripasIordanis, et promisit se facturum post triduum ut
+                           dividereturIordaniset transirent sicco pede, sicut
+                        transierunt filiiIsrael. Et dum expectarent in triduo illo,
+                        superveniens procurator presidisSyrie, cum multitudine equirum
+                        multos ex eis occidit, et caput ipsiusTheodeIerosolimamreportavit. Post hunc extititIudasgalyleusin diebus professionis id est descriptionis universalis
+                           abAugustofacte, quando unusquisque solvens censum capitis
+                        profitebatur se subditumromanoimperio. IsteIudasgalyleussuitEsseusgenere, et ut
+                           traditIosephus, persuadebatIudeisut negarent
+                           tributaRomanis, asserens eos qui decimas et primicias deo
+                        solvebant, non debere tributa hominibus. Et in tantum prevaluit hec eius
+                        doctrina ut pharisei et magna pars populi quererent ab ipso domino an
+                        solvendum esset tributumCesari. Postea periit ipse, et quotquot
+                        ei consenserunt. Consenserunt ergo exhortationiGamalielis, et
+                        flagellatos dimiserunt.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394697983934" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:44:04:526">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:44:08:459">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

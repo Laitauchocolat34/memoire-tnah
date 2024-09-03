@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022215" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">36</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Cassianus] [ex libro VIo]Germanus: Parentum viciniam quam nec vos nimium respuistis cur
+                        tanto opere a nobis debeat evitari, non satis claret.Abraham:
+                        Nonnunquam mala ex bonis rebus sumi videntur exempla. Nam si quis eadem
+                        agere non eodem affectu atque proposito aut dissimili virtute presumpserit,
+                        profecto exinde laqueum deceptionis ac mortis incurrit, unde aliis eterne
+                        vite fructus acquiritur. Quod perDavidgiganti illi in certamine
+                        comparatus haud dubie pertulisset, si fortissimisSaulisarmis
+                        fuisset indutus, et non tam prudenti discretione congrua adolescentie sue
+                        armorum genera delegisset.QuamQuamobremmensura virium suarum considerare convenit unumquemque nostrum. Non
+                        enim quia bona est anachoresis, universis eam congruam comprobamus. Nec quia
+                        institutionem cenobiorum, vel curam fratrum sanctam nec laudabilem merito
+                        profitemur, idcirco ab universis eam expetendam esse censemus. Proinde
+                        primum regionis vestre atque huius interpensanda sunt instituta, deinde
+                        vires hominum iugi vel virtutum, vel vitiorum assiduitate collecte diversa
+                        invicem lance trutinande. Fieri etenim potest, ut quod alterius gentis
+                        homini arduum atque impossibile est, hoc aliis insita consuetudo quodammodo
+                        verterit in naturam. Itaque diligenter expendite utrum in illis torpidis ut
+                        fama est regionibus et velut frigore nimie infidelitatis obstrictis, hanc
+                        nuditatem sustentare possitis. Nostris enim istam propositi fortitudinem
+                        naturaliter quodammodo indidit sancte conversationis antiquitas, quorum si
+                        substantie atque virtuti pares esse vos cernitis, viciniam patrum fratrumque
+                        vestrorum similiter fugere non debetis. Rimamini itaque nunc archana
+                        pectoris vestri prudenterque conicite, an talem etiam vos iuxta parentes
+                        vestros districtionem mentis iugiter retentare possitis. Cumque vos in hac
+                        animi mortificatione consimiles eidem senseritis, tunc scitote parentum
+                        fratrumque viciniam, vobis quoque similiter noxiam non futuram, ut scilicet
+                        eis quamvis in proximo constitutis, velut mortuos vos esse credatis, ita ut
+                        nec illos vestris fovere solaciis, nec vos illorum sinatis obsequio
+                        relaxari.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698164260" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:47:47:069">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:47:48:945">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

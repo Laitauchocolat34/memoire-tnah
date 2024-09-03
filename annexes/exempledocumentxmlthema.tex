@@ -1,0 +1,126 @@
+\subsection{Exemple de fichier \index{XML} dans ThEMA}
+
+\begin{lstlisting}[breaklines=true]
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:dc="http://dublincore.org/documents/dcm -namespace/" xml:id="TE002904" corresp="TC0011"
+	type="exemplum">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>
+					<desc type="custom_title"/>
+					<desc type="title_index">p. 27b</desc>
+				</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority/>
+				<publisher>ThEMA (http://thema.huma-num.fr)</publisher>
+				<availability status="published">
+					<licence corresp="copyright-cc-by-nc-sa-4.0"/>
+				</availability>
+				<idno type="old_sql_id">2904</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<list type="source_details">
+					<item type="source_text">
+						<p/>
+					</item>
+					<item type="sources">
+						<p/>
+					</item>
+					<item type="exemplum_context">
+						<p>Feria quarta primae hebdomadae. Sermo I.</p>
+					</item>
+					<item type="commentary">
+						<p/>
+					</item>
+					<item type="allegory">y</item>
+				</list>
+				<listBibl>
+					<bibl type="manuscripts-editions" corresp="Z-IU7WR86C" n="t. I, p. 66-67"/>
+				</listBibl>
+				<list type="links">
+					<item type="link" corresp="http://sermones.net/thesaurus/document.php?id=jvor_210">Sermones.net</item>
+				</list>
+				<list type="linked_exempla"/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term corresp="KW0039">KW0039</term>
+					<term corresp="KW0048">KW0048</term>
+					<term corresp="KW0155">KW0155</term>
+					<term corresp="KW0319">KW0319</term>
+					<term corresp="KW0435">KW0435</term>
+					<term corresp="KW0439">KW0439</term>
+					<term corresp="KW0458">KW0458</term>
+					<term corresp="KW0465">KW0465</term>
+					<term corresp="KW0756">KW0756</term>
+					<term corresp="KW0889">KW0889</term>
+					<term corresp="KW1118">KW1118</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	<xenoData/>
+	<revisionDesc>
+			<listChange>
+				<change type="modify" resp="jrehr" when-custom="2019-08-06 14:14:00">eXist-db setup</change>
+				<change type="modify" resp="jrehr" when-custom="2020-11-20 20:45:55">transformation to new schema</change>
+			</listChange>
+		</revisionDesc>
+	</teiHeader>
+	<fascimile/>
+		<text>
+			<body>
+				<p xml:lang="de"/>
+				<p xml:lang="en"/>
+				<p xml:lang="es"/>
+				<p xml:lang="fr">L’odeur de la bonne réputation du Christ est assimilée aux odeurs du cèdre, de la myrrhe et de la vigne qui font fuir les crapauds (représentation de la luxure), les serpents (représentation de l’avarice) et les vers (représentation de l’orgueil). Les crapauds naissent souvent des organes génitaux des cadavres des hommes.</p>
+				<p xml:lang="it"/>
+			</body>
+		</text>
+	</TEI>
+\end{lstlisting}
+
+\subsection{Exemple de fichier \index{XML} dans SourcEncyMe}
+
+\begin{lstlisting}[breaklines=true]
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xxe="http://www.unicaen.fr/mrsh/pddn/xxe/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns="http://www.tei-c.org/ns/1.0" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:examples="http://www.tei-c.org/ns/Examples" xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:ad="http://ns.adobe.com/AdobeInDesign/5.0/" xmlns:a="http://ns.adobe.com/AdobeInDesign/4.0/" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.unicaen.fr/mrsh/pddn/schemas/ichtya.xsd" xml:id="summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title ref="#liber_de_exemplis_et_similitudinibus_rerum_iohannis_de_sancto_geminiano">Summa de exemplis ac similitudinibus rerum (éd. Anvers, 1609)</title>
+	<author>Iohannes de Sancto Geminiano</author>
+	<respStmt>
+	<persName xml:id="Beatrice.Amelotti">Beatrice Amelotti</persName>
+	<resp>Mise en forme de l'édition</resp>
+	</respStmt>
+	<respStmt>
+	<persName xml:id="Emmanuelle.Kuhry">Emmanuelle Kuhry</persName>
+	<resp>Transformation TEI</resp>
+	</respStmt>
+	</titleStmt>
+	<editionStmt>
+	<edition>Avertissement : Le texte du De exemplis de G. da S. Giminiano est mis provisoirement en ligne sur SourcEncyMe, car il est régulièrement modifié et corrigé par parties ; il n’a pas encore bénéficié d’une relecture complète.</edition>
+	</editionStmt>
+	<publicationStmt>
+	<authority>François Bougard</authority>
+	<publisher>IRHT</publisher>
+	<pubPlace>Aubervilliers</pubPlace>
+	<date>2017</date>
+	</publicationStmt>
+	<sourceDesc>
+	<p/>
+	</sourceDesc>
+	</fileDesc>
+	</teiHeader>
+	<text>
+	<body>
+	<div type="oeuvre" xml:id="de_exemplis">
+	<div n="1" subtype="prologue" type="section1" xml:id="de_exemplis.prologue.1">
+	<head>DE EXEMPLIS ET RERUM SIMILITUDINIBUS LOCUPLETISSIMA. PROLOGUS.</head>
+	<cit xml:id="cit_idp119503344">
+	<quote>Omnia facito secundum exemplar quod tibi monstratum est (inquit Apostolus). In omnibus operibus artium videmus, quod eorum opifices diriguntur et regulatur duplici exemplari&#160;: Nam qui sunt in arte periti, interius habent exemplar, scilicet formam artis, secundum quam operantur&#160;: qui vero artem addiscunt nondum eruditi in ipsa, aspiciunt ad exemplar exterius per aliquem artificem factum, sicut pueri qui scribere discunt, tenent pre oculis exemplar magistri.</quote>
+	</cit>
+\end{lstlisting}

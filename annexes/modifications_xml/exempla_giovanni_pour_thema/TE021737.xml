@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021737" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">23</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Primo ratione ordinis, quia scilicet sit in eis circulus post circulum.
+                        Nam sicut lapis proiectus in aquam quietam, facit circulum post circulum,
+                        qui paulatim evanescit, ita cum vapor quieto tempore est in aere rarus
+                        nondum contractus in nubem, si radius solis, vel lune, vel stelle cadat
+                        directe in centrum illius vaporis, distunditur humidum circa radium, ex hoc
+                        sit circulus post circulum : impulsum enim sequitur formam impellentis. Omne
+                        autem lumen naturaliter est rotundum, et ideo ille vapor rotundatur, et ita
+                        videtur iuxta luminare cum sit propem terram. Ordo ergo circuli post
+                        circulum, id est, corone in sanctis illuminatis, representat ordinem aureole
+                        post auream, vel unius aureole post aliam in aliquibus beatis. Sicut quidam
+                        beati in celo habent tantum auream que est omnibus communis, scilicet
+                        perfectum gaudium, quod habent omnes beati de perfecta coniunctione ad Deum.
+                        Et vocatur aurea sive corona, tum quia cum quadam pugna acquiritur, quia
+                        regnum celorum vim patitur, et cetera. Tum quia per hoc sancti efficiantur
+                        participes regie dignitatis. Unde hanc auream habetBeata Maria Magdalena. Sed ulterius quidam alii super hoc habent
+                        aureolam, id est, quoddam accidentale gaudium de aliqua excellenti virtute,
+                        puta de virginitate : sic etiamBeata Marthaque etiam fuit virgo. Et quidam super aureolam virginitatis adhuc habent
+                        aliam, scilicet predicationis et doctrine, sicutBeatus Dominicusqui fuit virgo et doctor. Et quidam post hunc
+                        circulum adhuc habent alium, scilicet martyrii, sicutbeatus Petrusmartyr de Ordine Fratrum Predicatorum, qui fuit
+                        virgo, Doctor, et Martyr, et ideo ascendit aureola triplici dotatus.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp126404256" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:52:31:117">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:52:32:508">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

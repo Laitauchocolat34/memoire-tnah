@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022115" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">401</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item nota, quodsacra scripturaintroducit
+                        decem, que communiter necessaria sunt in militum armatura: Nam inter arma
+                        quibus milites utuntur ad sui defensionem, quedam necessaria sunt ad
+                        protegendum partem superiorem, ut caput, et huiusmodi, ad hoc utuntur galea
+                        sive casside erea. Quedam ad muniendum partem inferiorem, puta crura, et
+                        huiusmodi, et ad hoc portant ocreas ereas. Quedam muniunt partem mediam, vel
+                        in parte sicut scutum, quod portatur in sinistra, vel in toto sicut lorica.
+                        Torax autem protegit pectus, et cor, et renes. Hec erat armaturaGoliath. de quo dicitur1
+                           Reg.quod cassis erea erat super caput eius, et lorica hamata
+                        induebantur, et ocreas ereas habebat in cruribus, et clypeus ereus tegebat
+                        humeros eius.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp76046416" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:47:40:943">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:47:41:816">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

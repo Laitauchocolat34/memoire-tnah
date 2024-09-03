@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021716" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">2</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Abstinentia discreta ciborum quantum sit hominibus utilis, in singulis
+                        simplicium corporum potest ostendi naturis : Simplicia namque corpora duarum
+                        sunt naturarum, scilicet, nature celestis, et elementaris. Primumexemplumnotabile de fructu ipsius abstinentie,
+                        quoad naturam celestem ostenditur in corpore Lune. Est enim natura celestis
+                        tanto magis lumini pervia, quanto minus in sua substantia habet de grossa et
+                        corpulenta materia, hinc igitur est, quod apparet in Luna quedam nigredinis
+                        macula, quia Luna (prout traditPhilosophus) sicut
+                        est in situ locali magis vicina terre, ita est (ut itadicam) magis terrestris nature, id est, cuiusdam substantie grosse
+                        et corpulente quam celi, propter quam lumen Solis non recipit profunde sicut
+                        alie stelle, sed tantum in superficie. Et idcirco in ipsa tantummodo
+                        resultat macula umbre. Est igitur natura hominis luminari corpori similis,
+                        cuius scilicet mens interior ad lumen sapientie tanto est minus disposita,
+                        quanto venter corpulentior fit ciborum affluentia : Nam multa repletio
+                        ventris obtusitatem generat mentis. UndePsalm.dicit : Repleti sunt qui obscurati sunt. Et hoc est obscuritas
+                        Lune, id est vite delitiose, que scilicet non repletur splendore.Sap.Luna non splendebit in lumine suo.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp101085152" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:49:54:003">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:49:55:134">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

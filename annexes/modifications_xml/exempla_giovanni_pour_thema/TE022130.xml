@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022130" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">416</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Feruor spiritus, quando intus calescit in sanctis viris, non potest
+                        cohiberi quin ad exteriora prorumpat. Cuiusexemplumest, quia si fiat vas eneum concauum habens paruum
+                        foramen supra, et aliud foramen in ventre parum maius, et habeat pedes, ita
+                        quod venter non tangat terram, et impleatur aqua, et signis optimis
+                        obstruatur utrumque foramen, et ponatur in igne vehementer calido;
+                        generabitur intus vapor, qui fortificatus erumpet per aliud foramen, et si
+                        erumpit desuper proiicit aquam super loca propinqua, si inferius proiicit
+                        aquam in ignem, et proiicit titiones, et carbones, et cineres calidos: Cor
+                        enim hominis sancti debet esse eneum per patientie soliditatem, concauum per
+                        humilitatem, superius perforatum et apertum, ad Dei contemplationem, licet
+                        hoc foramen sit paruum, quia parum de Deo possumus contemplari in hoc
+                        mundo:</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp76182864" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:50:06:622">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:50:07:932">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

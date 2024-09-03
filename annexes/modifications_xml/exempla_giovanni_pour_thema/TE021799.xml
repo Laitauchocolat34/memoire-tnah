@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021799" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">85</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Sed superveniens aqua alicuius tribulationis, seu angustie, vel
+                        necessitatis, tunc statim ille ignis interior, id est amor, erumpit, et
+                        exterius in opere se ostendit, et ideoSalomonibidem subdit, quod frater in angustia comprobatur. Unde ignis vere
+                        dilectionis in aqua, id est tribulatione, et adversitate magis accenditur :
+                        propter quod dicitValerius Maximus, quod sincere
+                        fidei amici precipue in adversis cognoscuntur. Sed ex oleo consolationis, et
+                        prosperitatis calx dilectionis, quasi extingui videtur, sive quia
+                        prosperitas mundi quandoque extinguit, et tollit dilectionem Dei, sive quia
+                        homini in prosperitate posito non est necessarium magna signa, vel obsequia
+                        dilectionis ostendere. Quia (sicut dicit idemValerius) prospera fortuna cum divina largitione, foveatur, humana
+                        minus indiget. Non decet enim hominem amico in prosperitate posito magna
+                        signa dilectionis, vel obsequia ostendere, ne fortem estimetur, quod propter
+                        illius prosperitatem, et propriam utilitatem eum diligat. UndePhilos.dicit, quod ad amicum in adversitate
+                        positum, eundum est cito, et sepe : sed ad amicum positum in prosperitate,
+                        raro, et tarde.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp_de_exemplis.2.9.cit2" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:00:26:844">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:00:27:956">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

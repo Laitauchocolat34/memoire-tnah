@@ -1,0 +1,78 @@
+\begin{lstlisting}[breaklines=true]
+	<xsl:stylesheet version="1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei">
+		<xsl:output method="xml" indent="yes" omit-xml-declaration="yes" encoding="UTF-8"/>
+	
+	
+		<xsl:template match="node()|@*">
+			<xsl:copy>
+				<xsl:apply-templates select="node()|@*"/>
+			</xsl:copy>
+		</xsl:template>
+	
+	
+		<xsl:template match="tei:cit">
+			<xsl:copy>
+				<xsl:apply-templates select="@*"/>
+				<xsl:apply-templates select="tei:bibl"/>
+				<xsl:if test="tei:quote[matches(., 'exemplum|Exemplum')] and not(tei:bibl[tei:ref[@target='#exemplum']])">
+					<xsl:element name="bibl">
+						<xsl:element name="ref" >
+							<xsl:attribute name="target">#exemplum</xsl:attribute>
+							<xsl:attribute name="cert">low</xsl:attribute>
+							<xsl:text>Exemplum</xsl:text>
+						</xsl:element>
+					</xsl:element>
+				</xsl:if>
+				<xsl:apply-templates select="tei:quote"/>
+			</xsl:copy>
+		</xsl:template>
+	
+	
+		<xsl:template match="tei:quote">
+			<xsl:copy>
+				<xsl:apply-templates select="@*|node()"/>
+			</xsl:copy>
+		</xsl:template>
+	
+	
+		<xsl:template match="tei:quote/text()">
+			<xsl:variable name="text" select="."/>
+			<xsl:for-each select="tokenize($text, '\s+')">
+				<xsl:choose>
+					<xsl:when test="matches(., 'exemplum', 'i')">
+						<seg type="marqueur">
+							<xsl:value-of select="."/>
+						</seg>
+					</xsl:when>
+					<xsl:otherwise>
+						<xsl:value-of select="."/>
+					</xsl:otherwise>
+				</xsl:choose>
+				<xsl:if test="position() != last()">
+					<xsl:text> </xsl:text>
+				</xsl:if>
+			</xsl:for-each>
+		</xsl:template>
+	
+		<xsl:template name="wrap-exemplum">
+			<xsl:param name="text"/>
+			<xsl:choose>
+				<xsl:when test="contains($text, 'exemplum') or contains($text, 'Exemplum')">
+					<xsl:variable name="before" select="substring-before($text, 'exemplum')"/>
+					<xsl:variable name="after" select="substring-after($text, 'exemplum')"/>
+					<xsl:value-of select="$before"/>
+					<seg type="marqueur">
+					<xsl:text>exemplum</xsl:text>
+					</seg>
+					<xsl:call-template name="wrap-exemplum">
+						<xsl:with-param name="text" select="$after"/>
+					</xsl:call-template>
+				</xsl:when>
+				<xsl:otherwise>
+					<xsl:value-of select="$text"/>
+				</xsl:otherwise>
+			</xsl:choose>
+		</xsl:template>
+	
+	</xsl:stylesheet>
+\end{lstlisting}

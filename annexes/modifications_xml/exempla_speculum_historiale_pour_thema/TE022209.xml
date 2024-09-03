@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022209" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">30</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Cassianus] [in libro decimo]Verum si ille cui
+                        evangelium predicabat signis illud virtutibusque commendans, ne gravaret
+                        quempiam gratis panem manducare non audebat, quomodo illi non estiment sed
+                        gravare qui cotidie eum ociosi vagantesque presumunt. In actibus etiam
+                        apostolorum grave nobis sue conversationis reliquitexemplum,cum se non solum id operatum esse testatur, quod
+                        necessitatem sui corporis expediret, sed etiam quod usibus eorum qui secum
+                        erant, posset sufficere. Et hoc ipsum dicit esse mandatum domini, quoniam
+                        ipse inquit dixit: Beatius est magis dare quam accipere. Hoc est autemimperficiensimpartientisbeatior largitas quam accipientis penuria, que non de pecunia per
+                        infidelitatem vel diffidentiam reservata, nec de reconditis avaricie
+                        thesauris impenditur, sed de fructu operis proprii pio sudore profertur, et
+                        dupplici gratia decoratur, quod et perfectam
+                        nuditatemChristiuniversarum rerum suarum abiectione possideat,
+                        et munificentiam divitis labore suo exhibeat et affectu. Hic quidem honorat
+                        deum de suis iustis laboribus et delibat ei de fructibus iustitie sue. Ille
+                        vero ocii torpore resolutus et inertia, indignum se esse etiam cibo panis,
+                        apostoli probat sententia, dum contra eius scilicet interdictum ociosus eum
+                        non sine reatu peccati contumaciaque presumit. Nec merebitur incorruptionis
+                        vestimento ornari quisquis sompno ocii vel accidie superatus, non industrie
+                        sue labore, sed inertie pannis operiri maluerit, quos abscidens de
+                        plenitudine scripturarum, non vestimentum decoris, sed ignominiosum
+                        excusationis velamen sue coaptavit ignavie. Solent enim hac segnicie
+                        dissoluti, nolentes opere manuum suarum sustentari, quod apostolus
+                        indesinenter exercuit, vel nobis exercere precepit, quibusdam uti
+                        testimoniis scripturarum, quibus inertie sue velamen imponant, dicentes:
+                        Scriptum est: Operamini non cibum, qui perit, et meus cibus est, ut faciam
+                        voluntatem patris. In desideriis est omnis ociosus, et ad extremum multa
+                        mala docuit ociositas. Hec est apudEgyptumab antiquis patribus
+                        sancta sententia, operantem monachum demone uno pulsari, ociosum vero
+                        innumeris spiritibus devastari. Denique
+                        abbasPaulusprobatissimus patrum, cum in heremo vastiore
+                        consistens, quePorphirionuncupatur, palmarum fructibus, et orto
+                        modico securus haberet sufficientem alimonie substantiam, nec posset aliquid
+                        aliud unde sustentaretur, operis exercere, eo quod ab opidis vel habitabili
+                        terra VII mansionibus illius separeretur, vel eo amplius deserti [illius]
+                        habitatio, plusquam expeteretur pro mercede vecture, quam valere posset
+                        pretium operis desudati, collectis palmarum foliis, cotidianum pensum velud
+                        exinde sustentandus a semetipso iugiter exigebat. Cumque opere totius anni
+                        antrum eius fuisset impletum, supposito igne concremabat, in tantum probans
+                        sine opere manuum nec in loco posse monachum perdurare, nec ad perfectionis
+                        culmen aliquando conscendere, ut cum hoc fieri nequaquam necessitas victus
+                        exigeret, pro sola purgatione cordis et cogitationum soliditate ac
+                        perseverantia celle vel accidie ipsius victoria et expugnatione perficeret.
+                        Cum insipiens in heremo commorari, abbatiMoysiomnium sanctorum
+                        summo dixissem me egritudine accidie confectum, ad
+                           abbatemPaulumprotinus cucurrisse: Ille, non te ait
+                        liberasti, sed magis ei deditum ac subditum prebuisti. Gravius enim te ut
+                        desertorem ac fugitivum deinceps adversarius impugnabit, quem de conflictu
+                        superatum, protinus affugisse conspexit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698157335" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:46:51:414">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:46:54:301">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

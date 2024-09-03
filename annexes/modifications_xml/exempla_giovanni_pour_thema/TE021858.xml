@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021858" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">144</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Societas sanctorum virorum multum quandoque prodest homini peccatori.
+                        Cuiusexemplumapparet in oleastro, qui est
+                        sylvestris olea, sic dicta, eo quod olee sit simillima, licet eius fosia
+                        magis lata, et est arbor inculta, sterilis, et amara. Sed si ramus eius
+                        olive insertus fuerit, vim mutat radicis, et in propriam suam convertit
+                        qualitatem. Quasi autem oleaster homo peccator est, qui licet in natura,
+                        sive in hypocrisis figura sit similis viro iusto, non tamen in vita vel
+                        anima, quia est incultus per veram penitentiam, et sterilis ad opera
+                        meritoria, et amarus in conscientia. Si tamen inseratur olive, id est, si
+                        sancto viro societur, mutabitur vis radicis, id est, affectus cordis, et
+                        convertetur verbis, etexemplisillius, et
+                        trahetur ad vitam consimilem.Apostolus. Tu autem
+                        cum oleaster esses, insertus es in illis, et cetera.Sene.Nulla res magis animos induit honestos, et in pravum
+                        inclinabiles revocat ad rectum, quam bonorum virorum conversatio : Paulatim
+                        enim descendit, et vim preceptorum obtinet frequenter aspici, frequenter
+                        auditi.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp122120848" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:08:15:617">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:08:16:647">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

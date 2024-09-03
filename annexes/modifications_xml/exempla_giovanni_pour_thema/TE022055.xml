@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022055" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">341</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item penitentia assimilatur illi pani sub cinericio, qui per somnium
+                        videbatur descendere in castraMadian, de quo
+                        habeturIudic. 7.ubi dicitur, quod narrabat
+                        aliquis somnium proximo suo, et in hunc modum referebat quod viderat. Vidi
+                        somnium, et videbatur mihi quasi subcinericius panis ex hordeo volui, et in
+                        castraMadiandescendere, cumque pervenisset ad
+                        tabernaculum, percussit illud atque subuertit, et terre funditus coequauit.
+                        Ubi primo attendeexemplum,quia subcineritius
+                        panis ex hordeo, subcinericius quoad cocturam, id est, sub cinere coctus. In
+                        cinere autem intelligitur humilitas mentis proveniens ex memoria mortis, que
+                        corpus hominis in cinerem redigit.Ecclesiast.Quid superbis terra et cinis? Sub hoc cinere debet esse animus penitentis,
+                        et excoqui igne doloris.Iob. Ago penitentiam in
+                        fauilla, et cinere.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp106350672" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:37:58:217">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:37:59:137">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

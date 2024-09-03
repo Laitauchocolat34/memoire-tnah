@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022088" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">374</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Mereri vitam eternam licet homo non valeat ex condigno, quia non sunt
+                        condigne passiones huius temporis ad futuram gloriam, que reuelabitur in
+                        nobis: Deus tamen ex bonitate sua facienti quod in se est, ex congruo
+                        tenetur eam dare, unde vocatur corona iustitie. Cuius pluraexemplahabentur in iure: Nam licet ex gratia sit,
+                        quod postulatio admittatur, ut postulato vel postulanti competat actio, ut
+                        admittatur ar. ad hoc. ff. de adimendis lega. l. rem legatam. ff. de euic.
+                        l. ad res donatas. Veruntamen si postulatio fiat in concordia, et de digna
+                        persona, ex debito incumbit superiori ipsam admittere, et si non admiserit,
+                        iniuriam facit postulantibus, et postulato. Similiter presentatus, petere
+                        non potest per actionem se institui, quia ius non habet in re: Nam et sine
+                        iuris offensa, et sine presentati iniuria potest presentator laicus variare,
+                        et alium presentare, ut extra de iure patronatus c. cum aduocatus, unde
+                        antequam a prelato fuerit approbatum, ratum non est quod a patrono fuerit
+                        inchoatum, ut extra de iure patr. c. quod autem consulis. Et tamen offendit
+                        prelatus si presentatum primo, et dignum non instituit. Unde non admissus,
+                        agit contra illum a quo respuitur, ut ei prouideat de beneficio competenti,
+                        ut extra de iure patro. c. pastor. Sic etiam similiter dicimus, quod
+                        dispensatio non ex iure, sed ex gratia petitur. Et tamen ad eam concedendam
+                        superior tenetur ex causa, ut 50. dist. c. ponderet etc. dono sancto, etc.
+                        si quis presbyter, vel Diaconus. Similiter ad eleemosynam pauperi contra
+                        diuitem actio non datur, et tamen diues, saltem in casu extreme
+                        necessitatis, vel de superfluo, tenetur. Luc. Quod superest, date
+                        eleemosynam. Et patronus, (ut dictum est) de gratia admittitur presentare,
+                        ut 16. q. 5. c. si quis episcoporum extra de iure patronat c. quantum, extra
+                        de penitentia in c. quibusdam. Et tamen iniuria fit ei si non admittitur, et
+                        si presentatus ab eo non instituatur, ut ff. de aqua quotidi. et esti. l. 1.
+                        §. penult. ff. qui satisdare coguntur l. si vero in fine.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp61027872" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:43:15:859">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:43:17:314">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

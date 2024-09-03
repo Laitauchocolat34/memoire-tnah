@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022005" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">291</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Cibo spirituali qualiter nutriendus sit spiritus ostenditurexemplostomachi. Primo, quia stomachus est ciborum
+                        receptiuus. Unde stomachus Grece dicitur, os Latine, eo quod sit ostium
+                        ventris ad cibum recipiendum, ut dicitIsid.Est
+                        etiam stomachus figure rotunde factus, ut cibum recipiat quantitatis
+                        amplioris. Stomachus autem humanus in superiori parte est strictus, in
+                        inferiori latus, et hoc necessarium fuit. Nam cum homo inter cetera animalia
+                        sit erectus, cibus eius semper ad inferiora descendit, et ideo perutilis
+                        fuit inferior latitudo, ut in ea cibi possit recipi multitudo, que omnia
+                        ostendunt stomachum esse receptaculum ciborum. Sic homo cibum spiritualis
+                        doctrine, de quoMatth.Non in solo pane viuit
+                        homo, sed in omni verbo, quod procedit de ore Dei sive lachrymose
+                        penitentie, de quoPsalm.Cibabis nos pane
+                        lachrymarum, sive celestis obedientie, de quoIoan.Meus cibus est, ut faciam voluntatem eius qui misit me;
+                        debet diligenter suscipere, primum cum predicatur, secundum cum inspiratur,
+                        tertium cum impetratur.Act.Cum accepisset
+                        cibum, confortatus est.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp82537968" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:29:33:140">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:29:34:210">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

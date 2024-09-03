@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022219" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">40</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Gregorius (Magnus)] [Ex libro IIIIo]Venerabilis
+                        pater nomineSpesmonasteria construxit. Cui cum iam anni
+                        quadragesimi fuisset in cecitate tempus exemptum, ei dominus lumen reddidit,
+                        vicinum suum obitum denunciavit, atque ut monasteriis circumquaque
+                        constructis verbum vite predicaret ammonuit, quatenus corporis recepto
+                        lumine, visitatis in circuitu fratribus, cordis lumen aperiret. Qui statim
+                        iussis obtemperans, fratrum cenobia circuivit, mandata vite que agendo
+                        didicerat predicavit. Quinto igitur die ad monasterium suum peracta
+                        predicatione reversus est. Ibique fratribus convocatis, astans in medio
+                        sacramentum dominici corporis et sanguinis sumpsit, moxque cum eis misticos
+                        psalmorum cantus exorsus est. Qui illis psallentibus orationi intentus
+                        animam reddidit. Omnes vero fratres qui aderant ex ore eius exisse columbam
+                        viderunt, que mox aperto tecto oratorii egressa, aspicientibus fratribus
+                        penetravit celum. In eadem provinciaNursiecontigisse referebat
+                           abbasStephanus, quod presbyter quidam commissam sibi cum
+                        magno timore domini regebat ecclesiam. Qui ex tempore ordinis accepti,
+                        presbyteram suam ut sororem diligens, sed quasi hostem cavens ad se propius
+                        accedere nunquam sinebat. Anno XLo ordinationis sue inardescente graviter
+                        febre correptus, ad extrema deductus est. Sed cum eum presbytera sua
+                        conspiceret, solutis iam membris quasi in morte distensum, si quod adhuc ei
+                        vitale spiramen inesset, naribus eius apposita curavit aure dingnoscere.
+                        Quod ille senciens cui tenuissimus inerat flatus, quanto adnisu valuit,
+                        erupit dicens: Recede a me mulier, adhuc igniculus vivit, paleam tolle. Illa
+                        recedente, concrescente virtute corporis, cum magna cepit letitia clamare
+                        dicens: Bene veniunt domini mei. Quid ad tantillum vestrum servulum estis
+                        dignati convenire? Venio, venio, gratia ago, gratias ago. Cumque hec iterata
+                        crebro voce repeteret, quibus hoc diceret, noti sui qui illum
+                        circumsteterant requirebant. Quibus ille admirando respondit: Nunquid
+                        convenisse hic sanctos apostolos non
+                           videtis,PetrumetPaulumprimos apostolorum non
+                        aspicitis? Ad quos iterum conversus dicebat: Ecce venio, et ecce venio,
+                        atque inter hec verba animam reddidit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698204646" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:48:20:007">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:48:21:828">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

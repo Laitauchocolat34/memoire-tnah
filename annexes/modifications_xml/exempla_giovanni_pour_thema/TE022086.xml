@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022086" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">372</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Intentio bona non liberat a pena, si opus sit stultum et illicitum.
+                        Cuiusexemplumapparet secundum iura in eo qui ut
+                        sit castus, et volens placere Deo, abscidit sibi membra impudica: Nam talis
+                        irregularis efficitur. 55. dist. cap. si quis absciderit. Non enim ferro,
+                        sed animo castitas queri debet. 35. qu. 5. c. tunc sanabitur. Ergo de rigore
+                        iuris is, qui etiam (ut sit castus) hoc facit fieri, deponendus est, licet
+                        credat placere Deo. Nam (ut ait versus) displicet imprudens unde placere
+                        putat. Et secundum hoc intellige. 55. dis. c. si Evangelica. et c. si quis a
+                        medicis. et c. qui per partem etc. si quis per egritudinem. Nec obstat.
+                        extra de corpore vitiatis. c. significauit, quia ibi gratia fit.Hieronymus. Illi eunuchi. placent, quos castrauit
+                        non necessitas, sed voluntas.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp60985504" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:42:57:038">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:42:57:954">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

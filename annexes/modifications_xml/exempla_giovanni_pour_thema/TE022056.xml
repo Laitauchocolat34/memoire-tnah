@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022056" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">342</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Sequitur. Et datus est illi gladius magnus, et potestas magna
+                        persequendi et occidendi Sanctos: et dicitur magnus pre multitudine
+                        occisorum, quia multos occiderunt tyranni in principio nascentis fidei, et
+                        multos occident in fine tempore Antichristi: undeThre.dicit Ecclesia ad Dominum: Iacuerunt in terra foris puer et
+                        senex, virgines mee et iuuenes mei ceciderunt gladio in die furoris tui, id
+                        est, tempore quo permisisti tyrannos facere contra Sanctos, et dicitur dies
+                        illud tempus: quia tunc exierunt Sancti de tenebris presentis vite ad lucem
+                        eterne glorie, et etiam, quia tribulatio illuminat.Isa.Sola vexatio tantummodo dabit intellectum auditui. Vide ergo,
+                        quia Deus permittit malos dominari bonis ad eorum profectum. Et hac eadem
+                        ratione permittit etiam in hac vita, quod mali sint semper sociati boni,
+                        sicut patet, et notum est in multis binariis, quos ponit Clemens in
+                        itineratio suo: Nam sic sociati fueruntCainetAbel,Noeet
+                        Gigantes,IsaacetIsmael,IacobetEsau,Moyseset Magi,DauidetSaul,
+                        filius Dei et Iudei,PetrusetSimon Magus,Christus, et Antichristus.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp_de_exemplis.7.25.cit4" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:38:07:579">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:38:08:608">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

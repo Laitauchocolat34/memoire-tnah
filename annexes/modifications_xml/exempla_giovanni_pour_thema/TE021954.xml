@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021954" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">240</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Conscientie sue domum debet homo quilibet edificare ante omnia, deinde
+                        aliis intendere,exemplobombicis, id est, illius
+                        vermis ex cuius textura bombicinum conficitur. Hic enim primo domum
+                        fabricat, in que habitat, et in qua contra frigus se defensat, postea vero
+                        telas texit more aranearum. Domus interior hominis, conscientia est, quam
+                        sapientia edificat, penitentia purgat, charitas ornat: et talibus ante omnia
+                        homo intendere debet.Eccles.Percurre in domum
+                        tuam, etc. Hec domus cum est bene preparata, efficitur Dei habitaculum,
+                        pacis domicilium, delitiarum celestium refectorium, et contra frigus, id est
+                        contra asperitatem cuiusque adversitatis fortissimum propugnaculum. Hac ergo
+                        domo prius composita, potest secure homo telas exterius texere, id est,
+                        exterioribus rebus intendere ordinadis ad aliorum utilitatem.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp124677136" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:21:37:602">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:21:38:780">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

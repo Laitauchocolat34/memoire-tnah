@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021760" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">46</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Obedire superioris mandato, et consentire prudentioris consilio debet
+                        homo celeriter ; sed proprio sensui credere, vel proprium appetitum implere
+                        tardius cum oportet. Cuiusexemplumapparet in
+                        motibus planetarum, qui motui superioris orbis scilicet firmamenti, qui est
+                        ab Oriente in Occidentem, moventur velocius scilicet in una die. Nam raptu
+                        firmamenti singulis diebus ab ortu ad occasum rapiuntur : motu autem suo quo
+                        moventur econverso ab Occidente in Orientem ; tardiori tempore perficiunt
+                        cursum suum. Nam secundum computationemastrologorumunusquisque tanto movetur tardius, quanto magis
+                        distans est a centro, unde secundum eos motui lune deputatur tempus unius
+                        mensis. Soli, Mercurio, et Veneri deputatur tempus unius anni. Marti autem
+                        dantur duo anni, Iovi xii. Saturno xxx. Stellis autem sixis, xxxvi. milia
+                        annorum. Et sic patet, quod planeta seu stella quanto altior, tanto in suo
+                        motu tardior ; quia quanto aliquis est maior vel sapientior, tanto debet
+                        esse in sensu suo humilior, et in facto suo maturior, et consultior. Non
+                        enim tarde fit, quod bene fit, sicutOctavianus
+                           Imperatorlegiturdixisse, scilicet sub aliis verbis.
+                        Satis, inquit, cito fit, quicquid bene fit.Proverbia.Qui festinus est pedibus, offenditur.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp121860240" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:55:26:088">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:55:27:172">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022218" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">39</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Ex gestis eius (Vigor
+                           Baiocensis)TemporibusChildebertiregisFrancorumfloruit
+                           sanctusVigorbaiocasineurbis episcopus.
+                        Quiattrebatensiprovincia nobilibus parentibus, et fide
+                        pollentibus oriundus, intra sanctiVedastimonasterium in
+                        religione monachorum cohabitavit. Tantaque in eo obedientia et humilitas
+                        erat, ut omnium gratiosior videretur. Quem cum parentes eius valde
+                        locupletes in rerum opulentiis eum superstitem habere cuperent, ille magis
+                        celestibus inhyans, assumpto secum uno puerulo
+                        nomineTheodemiro, peregrinationem nesciens quo iret arripuit,
+                        et divino nutu in regionembaiocasinampervenit. Cumque esset in
+                        itinere, angelus domini eum in sompnis admonuit dicens: Perge quo ire
+                        decrevisti, quia locus tibi a domino preparatus est et plebs non modica per
+                        te ad fidem veram convertenda est. Itaque dei adiutorio fretus, pervenit ad
+                        vicum quiRedeverusdicitur, ubi erant homines bruti ydolorum
+                        cultu detenti, et veri dei cultus ignari. Illic igitur edificato oratorio
+                        vigiliis et orationibus pernoctans, assidue dominum precabatur, ut ad
+                        veritatem cognoscendam, populum virtute sui spiritus illustraret. Tantamque
+                        dominus ei gratiam contulit, ut per eius predicationem, et sanctitatis
+                        exemplum omnes pene converterentur ad fidemChristi. Cum autem
+                        vellet deus militem suum manifestum fieri, cuiusdam viri filium quem
+                        parvulum ipse converterat ad fidemChristi, vexatum febribus,
+                        contigit mori, cuius cadaver nimis doloribus fatigata mater in lectulo
+                        collocavit, et cum ululatu cucurrit ad virum dei, rogans ut eum
+                        resuscitaret. Qui completa pro parvulo oratione, conversus ad mulierem ait:
+                        Si ex toto corde in deum verum quem christiani colunt credideris quecumque
+                        petieris impetrabis. Illa hoc audito credens abiit. Cumque e foribus domus
+                        sue processisset, vidit filium suum exilientem et laudantem deum. Propter
+                        hoc ergo miraculum longe lateque fama viri dei personuit, egrotantium
+                        medicinam multimodam pietas divina per orationes eius tribuit, ut cecis
+                        visum, claudis gressum, languentibus sanitatem.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698184549" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:48:11:695">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:48:13:595">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

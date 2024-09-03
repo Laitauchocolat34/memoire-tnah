@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021921" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">207</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Penitentie fervor et humilitas, peccatorem mortuum resuscitant, quod
+                        ostenditurexemplophenicis. Est enim phenix
+                        avis, que (secundumPhilosophum) postquam
+                        trecentis, vel quingentis annis vixit, cum suum defectum sentit, nidum ex
+                        lignis aromaticis facit, in tantum siccis ut vento calido accendantur,
+                        quibus quidem accensis, sponte nidum ingreditur, et inter ligna ardentia
+                        incineratur. Et ex hoc cinere infra triduum quidam vermiculus nascitur, qui
+                        paulatim plumas recipiens in volucrem transformatur. Est autem avis
+                        pulcherrima, pavoni simillima in pennis, solitudinem amans, et ex mundis
+                        fructibus cibum querens. Sic peccator postquam diutius vixit in suis
+                        peccatis, et sue vite vel status defectum, sive per mortis metum, sive per
+                        aliquod adversum cognoscit, debet ex consideratione offense, ex
+                        contemplatione divine iustitie, et insuper ex timore gehenne, atque mortis
+                        incertitudine, tanquam ex aromaticis lignis struere nidum mentis, et hi
+                        respectus tam sicci, id est, validi debet esse, ut Spiritus sancti flatus
+                        faciliter possit accendere nidum mentis ; tunc ad cor suum penitens
+                        spontaneus ac cito introeat, et in predictis timoribus positus, se per
+                        ferventem compunctionem adurens, in humilitatis cinerem redigat ; ex hac
+                        enim humilitate infra triduum penitentie, scilicet contritionis,
+                        confessionis, satisfactionis, novus nascetur vermiculus, imundus, et animus
+                        humilis, qui plumas virtutum paulatim recipiet, in completam transformabitur
+                        volucrem, id est, in virum perfectum atque contemplativum, habentem scilicet
+                        pulchritudinem in aspectu sancte contemplationis, item habentem varietatem
+                        colorum in pennis, id est, varietatem virtutum, et gratie multiformis,
+                        amantem solitudine sancte orationis, et querentem cibum mundum sacre
+                        lectionis, vel munde operationis.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120225840" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:16:53:017">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:16:54:403">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

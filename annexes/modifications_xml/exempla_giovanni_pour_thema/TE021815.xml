@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021815" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">101</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Boni a malis, vel etiam inter se invicem differunt moraliter, sicut
+                        differunt inter se plante naturaliter. Differunt enim plante, vel arbores a
+                        se invicem, primo in seminibus ; quia quedam earum ex semine bono
+                        generantur, quedam vero ex malo. Et dicitAlbumasarquod ex malo semine non proveniunt de facili bone
+                        plante, nec ex bono de facili male, quamuis in animalibus, et potissime in
+                        hominibus sepe videatur contrarium. Cuius ratio est, utidemdicit, quia planta est terre affixa, propter quod uniforme a
+                        terra recipit nutrimentum ; animalia vero non sic, tum propter varietatem
+                        complexionis, tum propter volubilitatem voluntatis. Similiter ergo inter
+                        homines illi homines ex malo semine nascuntur, qui malorum exempla
+                        imitantur. Sed qui bonorum imitantur vestigia, illi ex bono semine oriuntur.
+                        Malum enim semen est semen vitiorum, quod seminavit diabolus. Nam superbiam
+                        seminavit inAdam, invidiam inCain, incontinentiam inLamech, gulam inEsau, avaritiam inBalaam, iram inSaul, accidiam inAchitophel. Unde
+                        qui in huiusmodi vitiis illos imitantur, hi sunt qui ex malo semine
+                        nascuntur. Unde diciturin epistola Iude; De
+                        illis, qui in viamCainabierunt, et erroreBalaamSeducti sunt.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120552768" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:02:33:067">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:02:34:309">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

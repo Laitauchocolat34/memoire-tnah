@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021913" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">199</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Negligentia, et pigritia anime aliquando expellitur flagello
+                        percussionis divine, et quandoque subtractione temporalis substantie ; quod
+                        patetexemploaquile. Nam aquila (ut dicitAmb.) pullos suos adultos ad volandum provocat,
+                        super eos volitando ; et si ad exeundum pigri fuerint, eos rostro percutit,
+                        cibum subtrahit, et sic exire compellit. Sic aquila rex avium, id est,Christus, qui est rex regum, et dominus
+                        dominantium ; pullos suos, id est, homines a se creatos, vel fideles suos,
+                        baptismate regeneratos, tam verbis, quamexemplisprovocat ad volandum, id est ad Deum ferventer amandum. Nam amor Dei, et
+                        proximi, sunt due ale anime, quibus ad vitam volat eternam, vel provocat ad
+                        volandum, id est ad bene et solicite vivendum et agendum. Nam non locis, sed
+                        actionibus bonis tendimus ad Deum, secundumAugust.Ipse volitat super eos, ut volareexemplodoceat, quia eos ad bene agendum suisexemplisinformat. UndeDeut.Sicut
+                        aquila provocans ad volandum pullos suos, et super eos volitans. Sed dum ad
+                        exeundum, sive de nido peccati, sive nido ocii pigritantes invenit ; rostro
+                        flagelli percutit, quia eos iusta sua sententia adversitatis iaculo ferit :
+                        quibus etiam cibum subtrahit , quia subtractis divitiis eos ad temporalis
+                        inopie nonnunquam extrema perducit : qui dum ex parte una aculeo
+                        adversitatis punguntur, ex parte vero alia paupertatis nuditate
+                        confunduntur, de nido sue pigritie saltem coactionis, vel utilitatis
+                        confusione trahuntur. Quod bene ille prodigus filius ad extremam paupertatem
+                        deductus, in se indicavit, dicens. Quanti mercenarii in domo patris mei
+                        abundant panibus, ego autem hic fame pereo.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120188976" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:15:45:201">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:15:46:964">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

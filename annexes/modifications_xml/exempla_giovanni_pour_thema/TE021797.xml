@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021797" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">83</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Boni viri assimilantur marmoribus, quia marmor aliis lapidibus est
+                        solidius, compactius, utilius, et pulchrius. Boni enim viri sunt solidi per
+                        patientiam, sive fortitudinem, bene compacti per temperantiam, pulchri per
+                        prudentiam, et utiles per iustitiam. Unde ipsi sunt columne marmoree, id
+                        est, virtuose persone, quibus tentoria per curiam regis, id est ecclesieChristifulciuntur. Assimilantur ergo primo
+                        boni, et virtuosi viri marmoribus ratione soliditatis. Marmor enim solidum
+                        est : nam propter sui soliditatem difficile rumpitur. Similiter boni viri
+                        sunt solidi, id est fortes, et constantes, ita ut adversitatibus non
+                        cedant ; et sculpturas, id est, impressiones violentas, et iniuriosas, que
+                        sunt, odium, ira, tristitia, et huiusmodi, non faciliter suscipiunt.
+                        Notandum est de soliditate marmoris, quod mirabilissimum accidit quod
+                        marmorei lapides, nec chalybe, nec ferro, vel sera, vel malleo per
+                        violentiam edomantur, sed per laminam plumbeam asseribus mollibus
+                        intersertam. Plumbo enim, et non ferro lapides marmorei dividuntur, et
+                        secantur inter asseres, et equantur. Similiter fortitudo quorundam nec
+                        chalybe fortis invasionis, nec ferro dure percussionis, nec sera dentata
+                        dentibus detractionis, nec malleo violente percussionis, nec violentia
+                        cuiuscumque tribulationis frangitur, nec vincitur. Et tamen plumbum id est,
+                        vita voluptuosa, que in aquis concupiscentie submergitur, secundum illud.Exo.Submersi sunt quasi plumbum in aquis
+                        vehementibus, inter asseres mollissimos carnis, omnem duritiam marmoris
+                        frangit, id est omnem mentis fortitudinem enervat, et destruit. Unde
+                        probissimi viri, et fortissimi bellatores, qui nunquam vinci potuerunt belli
+                        asperitate, victi tamen et debilitati sunt luxurie voluptate, sicutpatetdeSamsone,David, et de multis aliis.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp125416464" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:00:10:931">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:00:12:304">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

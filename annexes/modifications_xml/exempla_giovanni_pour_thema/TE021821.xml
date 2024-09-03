@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021821" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">107</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Exhortatio ad bene faciendum, vel ad malum dimittendum diversimode fieri
+                        debet, secundum diversam qualitatem eorum quos hortari oportet. Cuiusexemplumapparet in ficu. Nam ficus sterilescit
+                        aliquando ob defectum humoris, aliquando vero propter nimiam abundantiam
+                        humoris ; sed si accidit ob defectum humoris, subvenitur ei per convenientem
+                        fimum, et aquam dulcem ; sed si superabundat humor, arborem clavis
+                        perforant, et sic humorem evacuant ; illi autem homines sterilescunt, id
+                        est, a fructu bonorum operum deficiunt, et hoc est propter defectum humoris,
+                        id est, propter defectum vigoris, qui vitio subiecti sunt pusillanimitatis,
+                        et timoris, et isti iuvandi sunt cum fimo, qui plantam calefacit, id est,
+                        cum doctrina, vel exhortatione inflammante et accendente ad bonum, et cum
+                        aqua dulci, id est, cum dulcedine doctrine et verborum, ut attrahantur ex
+                        ipsa dulcedine exhortationsi ad humorem bonitatis. Nam si contra tales
+                        pusillanimes quis uteretur asperitate verborum, potius desperarent, quam
+                        proficerent : et ideo, qui talis est (sicutProsper.) leniter vestigatus reverentiam exhibet castiganti :
+                        Asperitate autem nimie increpationis offensus, nec correctionem recipit nec
+                        salutem.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120678976" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:03:20:672">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:03:21:729">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

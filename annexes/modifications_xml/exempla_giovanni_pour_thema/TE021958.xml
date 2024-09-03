@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021958" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">244</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item diaboli manum non potest homo effugere quandiu non abiicit a se
+                        peccatum, vel mundi affectum. Cuiusexemplumapparet in boue sylvestri: dicit enimAristo.quod
+                        est quedam species boum sylvestrium, qui habent magnitudinem tauri; qui cum
+                        videt, quod de manu venatoris, vel canum euadere non possit, proiicit ex se
+                        stercus per quatuor passus? dumque canes stercus odorant, et circa odorem
+                        huius detinentur, bestia ab eis fugiendo elongatur et euadit. Tanquam
+                        venatores demones sunt, quorum canes eorum sunt fallaces tentationes, sive
+                        mordaces persecutiones, a quibus anima non euaderet, nisi stercus ex se, id
+                        est immunditiam peccati, abiiceret per quatuor passus, primus est in
+                        contritione, secundus in confessione, tertius in satisfactione, quartus
+                        autem in perseverantie continuatione. Vel stercus est gloria, vel
+                        prosperitas temporalium rerum, de quibusApostolusdixit; Omnia arbitror ut stercora.Machab.A gloria viri peccatoris ne timueritis, quia gloria eius
+                        stercus, et vermis est. Hanc debet homo abiicere per quatuor passus, primus
+                        est si habitam dimittit, secundus si non habitam non querit, tertius si
+                        oblatam respuit, quartus si corde contemnit, et talis diaboli manus liber et
+                        securus effugit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp124740240" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:22:15:121">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:22:16:379">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

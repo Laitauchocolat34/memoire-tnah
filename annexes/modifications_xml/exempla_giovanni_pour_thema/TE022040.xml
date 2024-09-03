@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022040" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">326</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Sunt enim mali Rectores carnales et crudeles; sed quia non solum in se
+                        mali sunt, sed etiam subiectos ad militiam impellunt, et cogunt, subditur,
+                        quod de ore ipsorum, scilicet vel imperando, vel suadendo, vel comminando,
+                        vel requirendo, procedit ignis auaritie, fumus superbie, et sulphur luxurie.
+                        Et ab his tribus plagis, id est, vitiis occisa est spiritualiter tertia pars
+                        hominum, id est, omnes reprobi. Nam prima pars est innocentium; secunda
+                        penitentium; tertia reproborum, in peccatis istis perseverantium, et hi soli
+                        occiduntur, sive de igne auaritie, sive de fumo superbie, sive de sulphure,
+                        id est fetore luxurie: etiam dato, quod de ore ipsorum procedat, id est,
+                        quanquam etiam ad talia a maioribus inducantur, sive verbis, sive exemplis:
+                        his enim duobus modis possunt etiam maiores inficere minores, sive verbis
+                        precipiendo, aut etiam suadendo. Et ideo subdit, quod potestas equorum in
+                        ore ipsorum est, scilicet principum precipientium, aut suadentium, sive
+                        exemplis post se trahendo, et quantum ad hoc subdit, et in caudis eorum, id
+                        est, in exemplis, vel ore, dicit quantum ad maiores precipientes, et
+                        monentes: in caudis quantum ad minores offendentes, et eos sequentes. Vel
+                        per os intelligitur gula.Ecclesiastici. Omnis
+                        labor hominis in ore eius, sed eius anima non impletur. Per caudam vero
+                        intelligitur luxuria.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp_de_exemplis.7.6.cit4" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:35:28:345">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:35:30:182">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

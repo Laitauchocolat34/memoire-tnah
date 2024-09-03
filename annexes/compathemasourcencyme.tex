@@ -1,0 +1,70 @@
+\begin{lstlisting}[breaklines=true]
+	import pandas as pd
+	from tqdm import tqdm
+	from sentence_transformers import SentenceTransformer, util
+	
+	# Load the SBERT model for French
+	model = SentenceTransformer('sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2')
+	
+	# Function to compute similarity between two embeddings
+	def compute_similarity(embedding1, embedding2):
+		try:
+			# Compute cosine similarity
+			similarity = util.pytorch_cos_sim(embedding1, embedding2).item()
+			return similarity
+		except Exception as e:
+			print(f"An error occurred while computing similarity: {e}")
+			return None
+	
+	# Your manually entered text
+	text1 = "De même, l'amour de la charité transforme même le mal en bien. En effet, comme le dit l'Apôtre : 'Pour ceux qui aiment Dieu, tout contribue au bien.' Un exemple en est le poirier, car les poires immatures, qui sont acides, dures et grossières, et mauvaises à manger, deviennent bonnes après cuisson au feu. De la même manière, par la cuisson et la vigueur du feu de la charité, même les grandes et lourdes adversités se transforment en bien pour l'homme, du moins pour l'âme, grâce à la patience que la charité engendre. En effet, la charité est patiente, comme le dit l'Apôtre."
+	
+	# Try to read the Excel file
+	try:
+		df = pd.read_excel('french_texts_.xlsx')
+	except Exception as e:
+		print(f"An error occurred while reading the Excel file: {e}")
+		exit()
+	
+	# Ensure that the DataFrame has the expected structure
+	if len(df.columns) < 2:
+		print("The DataFrame should have at least two columns.")
+		exit()
+	
+	# Get the texts from the specified column
+	texts_from_excel = df.iloc[:, 1].dropna().astype(str)  # Assuming the texts are in the second column
+	
+	# Compute embedding for the manually entered text
+	embedding1 = model.encode(text1, convert_to_tensor=True)
+	
+	# Compute embeddings for the texts from the Excel file in batches
+	batch_size = 32
+	similarities = []
+		for i in tqdm(range(0, len(texts_from_excel), batch_size), desc="Calculating Similarities"):
+		batch_texts = texts_from_excel[i:i+batch_size].tolist()
+		batch_embeddings = model.encode(batch_texts, convert_to_tensor=True)
+	
+		# Compute similarities for each text in the batch
+		for text2, embedding2 in zip(batch_texts, batch_embeddings):
+			similarity = compute_similarity(embedding1, embedding2)
+			if similarity is not None:
+				similarities.append((text2, similarity))
+	
+	# Check if similarities were calculated
+	if not similarities:
+		print("No similarities were calculated. Exiting...")
+		exit()
+	
+	# Sort the similarities by similarity score in descending order
+	similarities.sort(key=lambda x: x[1], reverse=True)
+	
+	# Create a DataFrame from the sorted similarities
+	result_df = pd.DataFrame(similarities, columns=['Text', 'Similarity'])
+	
+	# Save the DataFrame to an Excel file sorted by similarity score
+	try:
+		result_df.to_excel('comparaison2vite.xlsx', index=False)
+	print("Results saved successfully!")
+		except Exception as e:
+		print(f"An error occurred while saving the results to Excel: {e}")
+\end{lstlisting}

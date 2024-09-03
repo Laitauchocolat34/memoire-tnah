@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021854" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">140</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item religio sine discipline studio non conservatur, sed efficitur
+                        similis seculo: Cuiusexemplumapparet in rosa
+                        domestica, quia rosa domestica plantatur et colitur sicut vitis ; et ideo si
+                        inculta remanserit, efficitur sicut sylvestris ; sylvestris autem
+                        transplantata, si bene culta fuerit, efficitur bona rosa. Quasi enim rosa
+                        domestica est religionis status. Nam precipue religiosisdictum est: Estis cives sanctorum, et domestici
+                        Dei. Sed hec si negligitur, ut studio et correptione discipline non colatur,
+                        efficitur sylvestris, id est, similis statui seculari. Si autem econverso
+                        rosa sylvestris, id est, homo secularis, in religione plantetur, ubi
+                        diligenter cultu discipline regatur, efficitur rosa Deo domestica, Angelis
+                        grata, et hominibus odorifera.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp_de_exemplis.3.65.cit5" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:07:43:666">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:07:44:635">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

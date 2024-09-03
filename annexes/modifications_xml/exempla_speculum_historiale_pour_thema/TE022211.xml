@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022211" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">32</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Cassianus] [ex libro IIo]Vera discretio non nisi
+                        vera humilitate conquiritur. Cuius hec erit prima probatio, si universa non
+                        solum que agenda sunt, sed etiam que cogitantur, reservantur seniorum
+                        examini. Nullatenus enim decipi poterit quisque si non suo iudicio sed
+                        maiorum vivit exemplo, et serpens teterrimus velut tenebroso ac subterraneo
+                        specu, virtute confessionis protractus ad lucem, et traductus quodammodo ac
+                        dehonestatus abscedit. Denique in tantum deo placita hec sententia
+                        comprobatur, ut puerumSamuelemiudicio preelectum suo nollet per
+                        semetipsum erudire, sed recurrere semel et iterum paterentur ad senem etiam
+                        illum qui offenderat deum, ut et illius qui divinum ministerium vocabatur
+                        probaretur humilitas, et iunioribus forma subiectionis huius proponereturexemplo.Paulumquoque per semetipsum vocans, et
+                           alloquensChristuscum posset ei viam perfectionis reserare,
+                        confestim dirigere adAnaniammaluit, eumque illius potius
+                        doctrina, quam sua censet institui, ne quod recte gestum fuisset
+                           inPaulo, posteris malum presumptionis preberet exemplum, dum
+                        unusquique sibimet persuaderet, simili modo se quoque debere dei solius
+                        magisterio atque doctrina potius quam seniorum institutione formari. Quis
+                        ergo tam presumptor et cecus qui se suo audeat iudicio discretionique
+                        comittere, cum etiam ipse vas electionis indiguisse se coapostolorum suorum
+                        collatione testetur? Unde probatur nulli a domino viam perfectionis ostendi,
+                        qui huc unde valeat erudiri, doctrinam seniorum, vel instituta contempsit,
+                        parvipendens illud: Interroga patrem tuum, et cetera. Omni igitur conatu
+                        debet discretionis bonum virtute humilitatis acquiri, que nos illesos ab
+                        utraque potest nimietate servare. Ad unum finem nimietas ieiunii, ac
+                        voracitas pervenit, eodemque dispendio vigiliarum inmoderata continuatio,
+                        monachum quo sompni gravissimi torpor involvit. Quapropter inter utrasque
+                        nimietates discretione moderante gradiendum est. Etenim memini me frequenter
+                        ita appetitum cibi penitus respuisse, ut duobus diebus ac tribus refectione
+                        dilata, nec memoria quidem ullius edulii meam interpellaverit mentem, et
+                        rursum ita sompnum ab oculis meis dyaboli impugnatione subtractum, ut plures
+                        dies ac noctes paululum quid sompni meis oculis a domino precarer infundi
+                        graviusque me periclitatum sompni cibique fastidio, quam soporis et
+                        castrimargie colluctatione persensi.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698158142" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:47:10:252">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:47:12:571">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

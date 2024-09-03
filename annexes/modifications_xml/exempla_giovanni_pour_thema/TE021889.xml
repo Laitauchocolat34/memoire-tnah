@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021889" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">175</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Eleemosynas pauperibus saltem de superfluis facere, docetexemplumAquile, que (ut dicitPlinius) tante liberalitatis extitit, quod predam, nisi nimis sit
+                        famelica, sola non comedit, sed avibus eam sequentibus quasi communem
+                        exponit, sua recepta primitus portione : Unde eam semper aves alie
+                        insequuntur, et partem de preda sua sibi prestolantur dari. Vultur vero
+                        econverso ea que rapit, solus comedit. Efficitur detestabilis avarus, qui
+                        cibum quem abundanter habet comedere vult solus ; contra quemBeatus Iobdicit. Si comedi bucellam meam solus, et
+                        non comedit pupillus ex ea : Saltem enim miserabilis homo postquam saturatus
+                        est cibo, esurientes pauperes pascere deberet de reliquo, undeLucadicitur : Quod superest date eleemosynam. Et
+                        ad hec precipue tenentur clerici, quibus bona ecclesiastica commissa sunt,
+                        non ad abutendum pro suis consanguineis, sed potius ad fideliter
+                        dispensandum,secundum illud. Dispensatio mihi,
+                        tradita est, et ideo de eis dicitCesarius, quia
+                        non solum decime non sunt nostre, sed ad ecclesias deputate ; verum quicquid
+                        amplius quam nobis opus est a Deo accipimus, pauperibus erogare debemus. Et
+                        si quod eis deputatum est, nostris cupiditatibus, vel vanitatibus
+                        reservamus, quanti pauperes in locis ubi nos sumus, fame, vel nuditate
+                        mortui fuerint, noverimus, nos rationem de animabus illorum in die iudicii
+                        reddituros. Sed nota, quod non semper peccat mortaliter qui non dat
+                        pauperibus quod superfluum habet, sed quando necessitas imminet. Quando
+                        autem sit talis necessitas que obliget ad peccatum mortale, non posset
+                        ratione determinati, sed committitur prudentie vel fidei dispensatoris. Unde
+                        si bona fide det, quando sibi videtur expedire, immunis est a peccato,
+                        alioquin mortaliter peccat.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120107696" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:12:28:098">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:12:29:334">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022182" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">3</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Actor?]Licet autem in ministerium mittantur
+                        angeli, semper inde faciem patris vident et semper videre desiderant. Ut
+                        enim non sit in desiderio anxietas, desiderantes satiantur. Ne autem sit in
+                        satietate fastidium, satiati desiderant. Hec est eorum beatitudo de qua
+                        quibusdam placet quod eam meruerint per gratiam quam in confirmatione
+                        perceperunt, nec meritum precessisse tempore premium, sed causa dicunt.
+                        Aliis videtur quod tunc non fuit eis gratia data ad merendum, sed ad bene
+                        vivendum. Quod autem tunc in premium acceperunt per obsequia nobis exhibita
+                        ex dei obedientia ac reverentia mereri dicunt et ita premium precessit
+                        meritum. Et hoc michi placere fateor.Exemplumaccipi potest de patrefamilias qui dat alicui servienti C solidos pro
+                        ministerio quo serviturus est ei per unum vel plures annos. Sic angeli pro
+                        premio iam accepto serviunt ei usque ad diem iudicii, ante confirmationem
+                        vero gratiam tunc sibi datam non meruerunt, quia iam non esset gratia nisi
+                        gratis esset data. Potest tamen dici quod ipsum stare fuit eis loco meriti,
+                        quia dum fecerunt quod erat in ipsis, congruum fuit ut daretur eis non tamen
+                        debitum, quia sine gratia non est vere meritum. Et ita meruerunt eam
+                        quodammodo scilicet merito congrui non condigni. Licet autem in
+                        confirmatione beatitudinem acceperunt eternam atque perfectam, augetur tamen
+                        in eis cotidie, quia magis ac magis cognoscunt et diligunt. Et ipsa caritas
+                        est eis et meritum et premium quia et per eam proficiunt, et in ipsa beati
+                        sunt. Non enim ideo beati non sunt quia consummationem premii sui futuram
+                        expectant, quia licet non eis succedant omnia que optant habere [in futuro,
+                        tamen omnia succedunt que optant habere] modo, tamen istud desiderium eos
+                        affligit dilatione, sed potius letificat expectatione. Hiis omnis
+                        temporalium scientia qua demones inflantur vilis est, quia dei caritas qua
+                        sanctificantur cara est patre cuius amore sancto omnia que infra sunt seque
+                        ipsos inter illa despiciunt, et ideo etiam certius ista noverunt, quia
+                        causas eorum principales in dei verbo conspiciunt, quibus scilicet causis
+                        quedam probantur, quedam reprobantur, cuncta ordinantur. Illic igitur in
+                        eternis sapientie dei legibus mutationes temporum prevident, deique
+                        voluntatem spiritus eius participatione cognoscunt, futura nisi de dei
+                        revelatione non noverunt. Quod autem aitGregorius: Quid est quod ibi nesciant ubi scientem omnia sciunt.
+                        Accipiendum est de hiis que cognitione sui cognitorem beatum faciunt.
+                        Gaudium vero quod de conversione peccatoris habent, non est gaudium nisi per
+                        accidens scilicet quia per bonitatem que eis in premium data est, de bono
+                        hominis gaudent. Et licet incipiant aliquando gaudium illud non habere
+                        scilicet quando incipit homo peccare, non tamen dicuntur aliquid de hoc
+                        amittere, quia eadem discretione qua prius gaudebant, modo non gaudent, nec
+                        de illius subversione dolent. Et forte loco illius gaudii equipollens vel
+                        maius habent scilicet de congratulatione divine iustitie, deus agnoscunt qua
+                        causa permittat illum cadere.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394697809201" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:42:53:677">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:42:56:383">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

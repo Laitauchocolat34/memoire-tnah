@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022212" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">33</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Cassianus] [ex libro IIIIo]Solent autem hii qui
+                        necdum sunt in illa quam arripuerunt professione fundati cum audierint
+                        quosdam in diversis studiis ac virtutibus predicari, ita eorum laude
+                        succendi, ut imitari eorum protinus gestiant disciplinam, in quo irritos
+                        necessario impendit conatus humana fragilitas. Impossibile namque est unum
+                        eundemque hominem simul universis, quas superius comprehendi, fulgere
+                        virtutibus, quas si quis voluerit pariter affectare, in id incidere eum
+                        necesse est, ut dum omnes sequitur, nullam integre consequatur, magisque ex
+                        hac imitatione ac varietate dispendium capiat, quam profectum. Multis enim
+                        viis ad deum tenditur, et ideo unusquisque illam quam semel arripuit
+                        irrevocabiliter cursus sui intentione conficiat, ut sit in qualibet
+                        professione perfectus. Absque illo namque dispendio quo feriri monachum
+                        diximus, qui mobilitate mentis ad studia cupit transire diversa, etiam hinc
+                        periculum mortis incurritur, quod nonnunquam recte quedam ab aliis gesta,
+                        malo ab aliis presumuntur exemplo, et ea que nonnullis bene cesserant
+                        perniciosa ab aliis sentiuntur. Nam, ut quadamexempligratia proferamus, quidam veniens ad predictum senem
+                        habitu seculari, cum ei quasdam frugum suarum primitias detulisset,
+                        ferocissimo quemdam in demonio arreptum ibidem repperit. Qui cum
+                           abbatisIohannisobtestationes ac precepta despiciens
+                        testaretur, numquam se ad illius imperium de corpore quod obsederat
+                        migraturum, huius adventu perterritus cum reverentissima nominis illius
+                        inclamatione discessit. Cuius tam evidentem gratiam senex non mediocriter
+                        admiratus, eoque amplius obstupescens, quod eum habitu cerneret seculari,
+                        cepit ab eo vite ac professionis eius ordinem inquirere. Cumque ille
+                        secularem se atque uxorio vinculo colligatum esse dixisset,
+                           beatusIohannesexcellentiam virtutis eius et gratie mente
+                        pertractans, quenam illi esset conversatio attentius explorabat. Ille se
+                        rusticum et cotidiano manuum opere victum querere, nec ullius boni esse
+                        conscium testabatur, nisi quod numquam ante ad ruris opera mane exercenda
+                        procederet, neque vespere domum reverteretur, nisi in ecclesia pro cotidiane
+                        vite commeatu largitori eius deo gratias retulisset, neque se umquam
+                        fructibus suis aliquid usurpasse, nisi prius primitias eorum ac decimas
+                        optulisset. Et numquam se boves suos per aliene messis transduxisse
+                        confinium, nisi eorum prius ora clausisset, ne vel parum dampni per incuriam
+                        eius proximus sustineret. Et cum hec quoque necdum
+                           abbatiIohanniad comparationem tante gracie, qua eum sibi
+                        prelatum esse cernebat ydonea viderentur, atque ab eo quid nam esset illud,
+                        quod tante gratie meritis conferri posset, sciscitans scrutaretur, ille
+                        reverentia tam sollicite inquisitionis astrictus, uxorem se parentum imperio
+                        compulsum, cum profiteri monachum vellet, ante XII annos accepisse confessus
+                        est, quam nemine etiam nunc conscio sororis loco a se virginem custodiri.
+                        Quod factum cum audisset senex, tanta est admiratione permotus, ut coram
+                        ipso publice proclamaret, non inmerito demonem qui se despexerat, illius non
+                        tollerasse presentiam, cuius ipse virtutem non solum in iuventutis ardore,
+                        sed ne nunc quidem sine discrimine castitatis auderet appetere.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698161338" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:47:19:525">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:47:23:084">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

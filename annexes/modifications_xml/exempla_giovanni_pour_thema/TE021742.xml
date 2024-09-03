@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021742" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">28</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Carnis et spiritus pugna inquietudinem generat cordis, et aufert
+                        tranquillitatem mentis. Nam quando in sublimi apparent duo venti fortes
+                        contra se invicem pugnantes, significatur tempestas maris, et tunc procella
+                        maris non libere transit ad partem unam, sed una obviat alteri ex ipsa pugna
+                        ventorum ; tamen qui superior est ex ipsis ventis, vincit, eo quod minus est
+                        admixtus humori, et ideo minus sedabilis. Quasi autem duo venti contrarii
+                        sibi in aere, sunt duo appetitus adversantes sibi in homine, scilicet
+                        spiritus et carnis : de quibus dicitApostolus.
+                        Caro concupiscit adversus spiritum, et spiritus adversus carnem. Ex eorum
+                        ergo pugna sequitur tempestas maris, id est, inquietudo cordis : quia cor
+                        non potest se libere ad partem unam transferre, scilicet spiritus, carne
+                        repugnante eidem. UndeApostolusVideo, inquit,
+                        aliam legem in membris meis repugnantem legi mentis mee ; nec etiam ad
+                        partem carnis spiritu retrahente unus ergo obviat alteri, quia sibi invicem
+                        adversantur. Sed pars que est in ordine naturali superior, scilicet
+                        spiritus, tunc carnem vincit, quando humori aqueo, id est, carnali amori
+                        admixtus non existit, scilicet quando se tenet in sua puritate : tunc enim
+                        ipse spiritus quasi carnem, et ossa non habet : undeApostolussi spiritu facta carnis mortificaveritis, vivetis. Carnis
+                        delectatio licet sit sensui dulcis, intus tamen animam occidit. Cuiusexemplumest, quia aliquando cadit super herbas, et
+                        folia arborum ros fluens, et viscosus ad modum mellis, et quia mel non
+                        coctum laxat, ideo aves comedentes herbas illas morivutur de dysenteria, et
+                        inveniuntur intus crocee propter coleram, que genetur ex melle. Sicut ergo
+                        dulcedo rotis in herbis, est delectatio carnis in operibus voluptatis, que
+                        dulcedo in ventre coleram gignit, et avem extinguit, quia delectatio ipsa
+                        carnis in mente amaritudinem, et conscientie remorsum relinquit, que est
+                        amare colere similis. Hec etiam anime innocentiam spiritualiter occidit,
+                           undeApostolus. Si secundum carnem vixeritis,
+                        moriemini.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp77357744" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:53:08:159">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:53:09:568">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

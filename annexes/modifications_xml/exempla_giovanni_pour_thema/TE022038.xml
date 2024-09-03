@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022038" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">324</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Prima erit desiderium nocendi. Unde dicit, quod ille locuste, scilicet
+                        imaginarie, per quas representabantur Antichristiani, erant similes equis.
+                        Qui primo ideo locuste vocantur, quia salient in altum per superbiam, et
+                        cadent in terram per auaritiam: Plus enim diligunt terrena quam celestia,
+                        quod significant crura locustarum que sunt retro longiora. Tales sunt modo
+                        in ecclesia multi doctores et predicatores. UndeNaum: Custodes tui quasi locuste, et parvuli tui quasi locuste
+                        locustarum.Iohel: Residuum eruce comedit
+                        locusta. Per erucam enim intelligitur humana corruptio, que mores de prauat;
+                        et quidam non corrumpentur malis moribus, sed decipientur ab Antichristianis
+                        predicatoribus. Qui Predicatores ad modum locustarum alte saltabunt, sed
+                        cito cadent; quia perHeliametEnochdestructur praua doctrina eorum, in cuius
+                        rei significationem,Ioannes Baptistaqui estHelias, utdicitur, comedebat locustas. Et hinc est quod virgaMoysivirgas Magorum deuorabat. Iste ergo locuste
+                        dicit, quod erant similes equis paratis in prelium; quia erunt cum impetu,
+                        et sine discretione currentes in conculcationem electorum. Equi enim
+                        equaliter currunt et irruunt in hostes, et in ciues, et sic illi non
+                        attendent quos oppriment, et conculcent, dummodo non faciant eorum
+                        voluntatem. Erunt ergo similes equis propter velocitatem, atrocitatem, et
+                        impetuositatem, que omnia ostendunt desiderium nocendi et exaltandi nomen
+                        Antichristi.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp70637536" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:35:07:133">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:35:09:250">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

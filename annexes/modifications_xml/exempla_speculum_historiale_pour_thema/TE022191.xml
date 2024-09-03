@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022191" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">12</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Comestor]Herodesautem Agrippa magis diligebatGaiumet
+                        familiarius adherebat ei, unde sibi suscitavit
+                           indignationemTyberiilatentem. Quadam autem die cum
+                           sederetAgrippain curru cumGaiolevatis manibus
+                        in celum dicebat: Utinam viderem mortem importuni senis
+                        etGaiumdominum totius orbis. Hoc audivit quispiam scilicet
+                        auriga ipsiusAgrippe. Qui postea cum rebus domini sui
+                        aufugiens, captus est et vinculatus. Et dum traheretur ad carcerem, petiit
+                        se duci ad imperatorem dicens, quia in aure loqueretur ei quod esset ad eius
+                        utilitatem. Et presentatus est imperatori. Et dixit consulto, quia sic
+                           optaveratAgrippamortem eius et
+                           dominiumGaii.Tyberiusvero non multum curabat
+                        verba vinculatorum, et detrusus est ille in carcerem. Et cum sepe
+                           instaretAgrippa, ut iudicaretur et occideretur,
+                           respondebatTyberius: Frater sufficiat tibi quod vinculatus
+                        est. Et ita differebat, quia ut refertIosephusin omnibus
+                        negociis suis morosus erat. Unde cum statueret procuratores in provinciis,
+                        vix aut nunquam mutabat eos. Quod cum sepius quesitum esset ab eo, quare
+                        scilicet non mutaret procuratores. Respondit se in hoc parcere plebicule.
+                        Scientes enim procuratores se ad modicum habere procuratorem, emungunt usque
+                        ad sanguinem et tanto dominantur gravius, quanto brevius, et qui recentes
+                        superveniunt, dissipant quicquid inveniunt. Quod ostenditexemplocuiusdam vulnerati qui cum iaceret in via,
+                        et non amoveret multitudinem muscarum a vulnere, superveniens alter putavit
+                        quod hoc omitteret ex imbecillitate, et abegit muscas que operverant vulnus.
+                        Ad quem ille: Male inquit fecisti michi, quia musce quas amovisti, iam plene
+                        erant sanguine et partius molestabant me, que autem supervenient recentes
+                        acrius pungent me. Sic et procuratores vel officiales recenter substituti,
+                        acrius in subiectos deseviunt.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394697990342" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:44:14:816">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:44:16:361">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

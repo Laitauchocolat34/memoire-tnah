@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022231" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">52</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Helynandus] [in cronicis libro VIIIo]Interioris
+                        autem hominis species duplex est, [naturalis et arbitraria]. Naturalis
+                        generalis est omnium, arbitraria propria singulorum. Naturalis attenditur
+                        secundum [conditionem, arbitraria secundum] voluntatem. In naturali IIIIor
+                        attendenda sunt: quod anima rationalis est, quod immortalis, quod
+                        invisibilis, quod illocalis. Prima consideratio hominem prohibet a luxuria,
+                        secunda ab avaritia, tertia a iactantia, quarta ab invidia, et a qualibet
+                        fratris iniuria. Inter omnia monstra huius mundi nichil michi videtur esse
+                        monstruosius quam quod in quibusdam humanis corporibus, brutos videmus
+                        animos et affectus precellere bestiales.Aristotilesenim
+                           etSalustiushomines gule et libidini deditos non inter
+                        homines sed inter animalia censent numerandos. Quid hic dicunt homines
+                        christiani nomine, et vita iumentini, qui in suo stercore computrescunt?
+                        Rationis autem tripliciter est officium: discernere inter contraria,
+                        reprobare, eligere. Discernere inter contraria, reprobare peiora, eligere
+                        meliora. Primum officium naturaliter habent demones, secundo et tertio
+                        privantur, non naturaliter quidem, sed voluntarie. Igitur demonibus non
+                        hominibus connumerandi sunt, qui scienter eligentes mala et respuentes bona,
+                        illo se prophetice pallio maledictionis obvolvunt. Ve qui dicunt malum
+                        bonum, et econtrario et cetera. Secunda consideratio, ut supra diximus, nos
+                        abstinere debet ab avaritia. Nichil enim longius a ratione quam hominem qui
+                        animo immortalis est eodem animo mortalia immortaliter concupiscere, cum
+                        omnino necesse sit concupita in proximo a concupiscente relinqui. Tertia
+                        enim consideratio persuadere nobis debet fugiendum esse iactantiam et omnem
+                        elationem et laudis amorem. Nam quod animus noster invisibilis est, magno
+                        argumento nobis est, omnia recta facta vel dicta a nobis invisibiliter,
+                        quantum in nobis est, et in abscondito esse facienda vel dicenda, ut pater
+                        noster qui videt in abscondito reddat nobis, alio quin grandis revera abusio
+                        est, et fere magicis adequanda vestigiis, auctorem absconditum et
+                        invisibilem in suis recte factis vel dictis per iactantie vitium ad humanos
+                        oculos foras expompari. Huic vitio efficacissimum et celerrimum remedium
+                        est, si mens nostra frequentius visitet mala sua quam bona. Quarta vero
+                        visitatio idest consideratio interioris hominis scilicet quomodo anima
+                        illocaliter totum corpus vegetat, seque singulis illius partibus totam
+                        donat, nullam a sentiendi munere relinquens expertem, nonne mirabilis quedam
+                        est ad fraternamincitationemincitatioet persuasio caritatem? Sic enim apostolus pulcherrimo demonstravitexemplo,omne corpus quantelibet
+                        congregationis uno et eodem spiritu debere vegetari cum dixit: Si patitur
+                        unum membrum, compatiuntur omnia et cetera. Quid hic debent detractores et
+                        invidi, qui omnem fratris honorem, suam inhonorationem reputent, sue demptum
+                        existimantes glorie quicquid cessent aliene, cum potius econtrario
+                        existimare debuerint sue [glorie] additum, quicquid aliene cessisset? Quid,
+                           inquit,Moysesemularis pro me? Quis det ut omnes prophetent?
+                        O infelicissimos omnium mortalium, qui de sola proximorum prosperantur
+                        miseria, et quibus sola fratrum prosperitas adversatur, hic est ille oculus
+                        nequam, et utEsopovelAnianocredas. Videbis qui
+                        sibi alterum oculum velit erui, dum proximus eius privetur utroque.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698324283" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:50:01:111">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:50:03:242">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

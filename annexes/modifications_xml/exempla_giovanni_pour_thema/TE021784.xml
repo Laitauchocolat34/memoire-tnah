@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021784" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">70</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Tertius status hominis est sub fervore dilectionis : et istum statum
+                        mentis signat tempus estatis. Primo enim in hoc tempore fit augmentatio
+                        caloris, per quam scilicet designatur ira contra peccatum. Nam quanto plus
+                        abundat charitas, tanto plus odio habetur iniquitas. Item in hoc tempore
+                        melius se habent phlegmatici, peius cholerici, melius decrepiti peius
+                        iuvenes. Senes enim et phlegmatici frigidi sunt et humidi, ideo isti melius
+                        se habent si infirmantur in estate, id est in contrario tempore : citius
+                        enim possunt curari, quia contraria contrariis curantur. Sed iuvenes et
+                        cholerici qui sunt calidi et sicci ex consimili tempore peius se habent,
+                        videlicet si nimis alta sapiant, si nimis prelationis desiderio succensi
+                        calent. Unde in hoc tempore pessima est infirmitas, que venit ex cholera,
+                        minus mala que ex phlegmate : quia augmentatur materia infirmitatis ex
+                        consimili natura temporis. In hoc igitur tempore utile est uti frigidis, et
+                        humidis. Utatur ergo frigidis, id est, considerationibus tumorem
+                        inducentibus ad reprimendum nimium calorem, id est, nimiam presumptionem
+                        indiscreti fervoris. Utendum etiam est humidis, id est, considerationibus ad
+                        fletum inducentibus contra ariditatem superbie, que scilicet quandoque
+                        provenit ex nimia confidentia sui. Unde ad hoc valet considerate casus et
+                        lapsus sanctorum vitorum, et etiam humiditatem et lachrymas eorum, utDavid, etPetri
+                           Apostoli, et aliorum similium. Item in hoc tempore ascendit Sol
+                        usque ad Cancrum et fit ibi estivale solstitium. Solstitium autem solis est
+                        in via charitatis summus gradus amoris, scilicet ut nihil ultra Deum sive
+                        supra diligatur. Vocatur etiam Cancer tropicum signum, id est, conversivum,
+                        ut ab amore Dei convertaris ad amorem proximi. Hic est enim regressus a
+                        Cancro ad Virginem, a ferventi amore Dei usque ad castum amorem proximi. Sol
+                        autem in eadem estate tria signa dicitur obtinere, in principio Cancrum, in
+                        medio Leonem, in sine Virginem, ut habeatur charitas in Cancro ad proximum
+                        in conversione compassionis, in leone vigilantia circuspectionis, in
+                        virgine, in puritate dilectionis. Cancer vero retrograditur. Leo dormiens
+                        apertos oculos habet. Virgo est, qui carnalem commixtionem adhuc ignorat.
+                        Huius etiam temporis proprium est radices herbarum, et arborum siccare.
+                        Sicca enim est species huius mundi, et siccantur herbarum, et arborum
+                        radices, dum nullo terrene dilectionis humore nutriuntur fideles.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp124556944" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:58:29:702">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:58:31:339">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

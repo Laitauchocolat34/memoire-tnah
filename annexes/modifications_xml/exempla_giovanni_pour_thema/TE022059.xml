@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022059" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">345</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Secundo describitur eorum perfectio quantum ad doctrinam. Quia date sunt
+                        illis septem tube, id est, predicationis officium, quod per tubam
+                        designatur: sed dicuntur septem, quia eorum est contra septem vitia
+                        predicare, que sunt velut septem funes quibus ligatus fuitSamson. Vel ideo septem, quia ipsorum est septem
+                        mundi munitiones destruere, et hoc figuratum estIosue
+                           6.in captione et ruinaHiericho, per quam
+                        figuratur mundus: Nam sicut habetur ibi. Sacerdotes tulerunt septem tubas,
+                        quarum usus erat in iubileo, et clangendo circuierunt septies civitatem,
+                        scilicet per septem dies, et in septimo circuitu tubis clangentibus muriHierichofunditus corruerunt. Sacerdotes igitur
+                        tubis clangentes, typum gerunt predicatorum, qui debent manu tenere tubas,
+                        et clangere, id est, ore proferre, et opere implere quod predicant.Act.CepitIesusfacere et docere.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp121574672" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:38:35:984">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:38:36:901">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

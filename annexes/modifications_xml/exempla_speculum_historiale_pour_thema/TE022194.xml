@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022194" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">15</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Ieronimus] [adEstogiumEustochiumde virginitate servanda]Oquociens in heremo constitutus,
+                        et in illa vasta solitudine que exusta solis ardoribus, horridum monachis
+                        prestat habitaculum, putavi meRomanisinteresse deliciis.
+                        Sedebam solus quia amaritudine eram repletus. Horrebant sacco menbra
+                        deformia et squalida cutis situmethyopicecarnis obduxerat.
+                        Cotidie lacrime, cotidie gemitus, et si quando repugnantem sompnus imminens
+                        opressisset, nuda humo vix herentia ossa collidebam. De cibis vero et potu
+                        taceo, cum etiam languentes aqua frigida utantur et coctum aliquid accepisse
+                        luxurie sit. Ille ego qui ob gehenne metum tali me carcere ipse dampnaveram
+                        scorpionum tantum socius et ferarum, sepe choris intereram puellarum.
+                        Pallebant ora ieiuniis, et mens desideriis estuabat in frigido corpore, et
+                        ante hominem suum iam carne premortua, sola libidinum incendia bulliebant.
+                        Itaque omni auxilio destitutus, adIhesuiacebam pedes, rigabam
+                        lacrimis, crine tergebam et repugnantem carnem ebdomadarum inedia
+                        subiugabam. Non erubesco infelicitatis mee quin potius plango me non esse
+                        quod fuerim. Memini me clamantem diem crebo iunxisse cum nocte, nec prius a
+                        pectoris cessasse verberibus, quam a domino rediret increpante
+                        tranquillitas. Ipsam quoque cellulam meam quasi cogitationum mearum
+                        conscientiam pertumescebam et michimet iratus et rigidus, solus deserta
+                        penetrabam. Sicubi concava vallium, vel aspera montium, rupium prerupta
+                        cernebam: Ibi mee orationis locus erat, illud miserrimum carnis ergastulum,
+                        et ut michi ipse testis est dominus, post multas lacrimas, post celo oculos
+                        inherentes, nonnunquam videbar michi interesse agminibus angelorum et letus
+                        gaudensque cantabam. Post te in odorem unguentorum tuorum curremus. Si autem
+                        hec sustinent illi qui exeso corpore solis cogitationibus impugnantur, quid
+                        patitur puella que deliciis fruitur? Vivens mortua est.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698123372" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:44:41:618">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:44:43:254">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022103" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">389</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item Prelati peccatum periculosum est subditis, non solum publicum, sed
+                        etiam occultum; quod patet perexemplumin
+                        simoniacis: quia si Episcopus sit simoniacus in ordine, et occultus,
+                        suspensus est quoad omnes. Et probatur 32. dist. c. nullus, et c. preter
+                        hec. Simoniacus enim in ordine habet caracterem vitiosum, 1. qu. 1. cap.
+                        reperiuntur, et c. quibusdam narrantibus. Unde si scio eum simoniacum in
+                        ordine occultum, nullo modo debeo ab eo ordinari, 1. qu. 1. c. fin. quis a
+                        simoniacis, extra de simonia per tuas. Et si ignoro eum simoniacum esse, cum
+                        sit in veritate, non recipio executionem, sed dispensatione indigeo in
+                        detestationem criminis, ut in dicto cap. si quis a simoniacis, extra de
+                        ordinatis ab Episcopo. c. 1. in fi. et c. 2. Si autem scio, sed coactus sum
+                        recipere, si absolute coactus fuerim, tunc nec caracterem recipio. 50. di.
+                        c. presbyteros. extra de bapt. c. maiores. Si vero coactus fuerim
+                        conditionaliter, tunc aliud est quam ignoranter. 1. qu. 1. c. constat:
+                        Recipio enim executionem, sed non ibi. Et ratio est, quia magis constat de
+                        voluntate coacti, quam ignorantis, extra de simonia. c. sicut nobis. Si
+                        autem credo, vel scio, episcopum simoniacum non in suo ordine, sed in
+                        collatione ordinum, seu beneficiorum, si possum obtinere quod ab alio
+                        ordiner, debeo utique hoc facere. Alioquin quamdiu toleratur ab Ecclesia, et
+                        occultus est, si compellat me, secure recipio, non obstante conscientia
+                        repugnante, quia erronea est. 31. dist. c. nerui. 11. qu. 3. c. Cui est
+                        illata. licet sit ar. contrarium. ff. de libe. l. causa igitur. §. 1. Et
+                        quia omne quod fit contra conscientiam. et c. 28. qu. 1. §. ex his. extra de
+                        prescriptio. c. quam omne Sed intellige conscientiam ex precepto vel
+                        prohibitione formatam, vel quod fit contra conscientiam non erroneam, quod
+                        si mala audieris de prelato, sis fidelis, et non nimis credulus ff. quod eum
+                        falso tu l. 1. in fi. ff. de eo per quem factum est l. 1. §. 1. extra de in
+                        int. c. rest. ex literis, quia dictum unius facile sequitur multitudo, extra
+                        de purgatione cano. 6. cum in iuuentute, ergo de facili aurem non prebeas
+                        11. qu. 7. c. si quid igitur. 86 dist. c. si quid vero de quocunque. 33.
+                        dist. c. habuisse.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp61115552" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:45:42:158">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:45:43:959">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

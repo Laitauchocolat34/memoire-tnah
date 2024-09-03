@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022109" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">395</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Vxorem unam habens, illa vivente, non potest alii matrimonialiter
+                        copulari: et si de facto contraheret, non esset matrimonium. Cuiusexemplumest in matrimonio spirituali, scilicet
+                        prelati, et Ecclesie sue: quia uni Ecclesie alligatus ineligibilis est in
+                        alia, quia ligatas habet alas quibus satagit volitare, ut extra de electis,
+                        capitulo ultimo. Et si super electis de facto procedatur, non valet electio,
+                        ut patet ibidem. In hoc tamen differt a matrimonio carnali, quia in
+                        spirituali uni ecclesie alligatus, potest ab ea separari, et alteram
+                        suscipere, saltem dispensatiue ex causa necessitatis, vel utilitatis: ut
+                        extra de electis. c. in causis, in fi. et septima, questione prima c. omnes
+                        qui. Et ideo in tali necessaria est postulatio, extra de postulatione. c.
+                        bone memorie, in secundo. Hec autem dispensatio in matrimonio carnali locum
+                        non habet.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp61148832" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:46:44:542">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:46:45:514">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

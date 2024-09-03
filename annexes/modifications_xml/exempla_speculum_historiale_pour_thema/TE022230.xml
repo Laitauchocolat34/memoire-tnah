@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022230" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">51</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Ex historia Tartarorum ?]Sic autem in malicia
+                        sua effrenati sunt, ut nullatenus se debere vel posse refrenari putent a
+                        destructione quam ceperunt.Exemplumquetale de
+                        seipsis non verentur ponere. Nos, inquiunt, sumus quasi sagitta de manu
+                        sagittantis emissa, que nunquam desistit donec obstaculum eam repellens, et
+                        confringens inveniat. Super multitudine quoque gentis sue gloriantes nullam
+                        gentem eis posse resistere innuunt, per hocexemplumquod in medium proponunt: Nos sumus, aiunt, ut fluvius
+                        magnus aquarum multarum, qui pre sua profunditate nimia transvadari nequit.
+                        Cuius impetus inundans absorbet quecunque invenit, licet a parvo fonte
+                        oriatur, et a pluribus rivulis dirivetur. Ceterum etiam minimi garciones
+                        eorum accipiunt et capiunt mulieres per civitates eis subiectas,
+                           scilicetGeorgie,Turquie,Persidis,Armeniemaioris
+                           etminoris, exceptis etiam illis que providentur a
+                        communitatibus ipsis. Idem quoque garciones eorum ac nuncii quoscumque
+                        ibidem equitantes invenerint, si equitaturis indigent, faciunt illos de
+                        equis descendere, ac ducunt eos ubi voluerint. Oculos incontinentes penitus
+                           habentTartari, plenos incessabilis delicti, omnibus
+                        pecudibus se indifferenter commiscent, sicut etSarraceni, nam
+                        in illis semper viguit sodomie peccatum et inTartarisetiam est
+                        diffusum. Preterea uxores sibiTartariaccipiunt quotquot volunt
+                        et sustentare possunt, nullusque consanguinitatis vel affinitatis gradus in
+                        eis observatur. Nam uxorTartaricum mortua fuerit, ille omnes
+                        eius sorores vel filias si sibi placeant sigillatim vel simul in uxores
+                        accipit. Persone tres tantum ab eorum excluduntur matrimonio, scilicet mater
+                        et filia et soror. Omnes enim personas alias sibi, vel uxoribus quas habent
+                        vel habuerunt aliter attinentes sibi libere accipiunt uxores.
+                           CumqueTartarusuxorem acceperit, non reputat eam uxorem [suam
+                        donec ab ipso] acceperit ac peperit. Unde si sterilis sit, ipse si vult eam
+                        dimittit. Item maritus dotem pro uxore non recipit donec illa ei puerum
+                        pepererit, similiter nec mulier a patre vel a matre donec ipsa
+                        pepererit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698320070" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:49:52:523">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:49:54:583">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

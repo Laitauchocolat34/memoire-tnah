@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021758" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">44</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item saltando in baculo divini adiutorii per contemplationem quod
+                        significaturGen.ubi dixitIacob, in baculo transivi istum ;Iacobcontemplativus est quiIordanemmiseriarum presentium debet transire apodiando se baculo divini adiutorii.
+                        Item miseria et tribulationes licet de se non sint homini grate vel
+                        placite ; possunt tamen effici faciles et quasi dulces ad sustinendum. Quod
+                        patetexemploaquarum. Nam de se nullum habet
+                        aqua saporem, acquirit tamen saporem vel per collationem quam habet in poris
+                        terre, vel per calorem solis qui dulcedinem facit in aqua elevando subtilius
+                        eius ; et permiscendo humidum aereum quod pinguescit et dulcorat : et
+                        salsedinem inducit, conburendo terrestre quod remanet. Et his colliguntur
+                        tres modi quibus aqua tribulationis efficitur anime sapida ; unus est per
+                        passionisChristiinspectionem. Hec enim est
+                        colatio aque in poris terre. Fuit enim corpusChristicarneum et terrestre sicut corpora nostra : et ideo per
+                        poros terre vulnera corporisChristipossumus
+                        accipere, in quibus tunc aquam nostram tribulationum colamus : quando nihil
+                        esse quod patimur respectu doloris eius quem ipse pro nobis pertulit
+                        iudicamus.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp81127744" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:55:10:975">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:55:12:093">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

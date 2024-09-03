@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022192" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">13</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Actor]Cognatio triplex est carnalis scilicet et
+                        spiritualis et legalis. Carnalis alias duas precedit naturaliter, et
+                        consanguinitas appellatur. Consanguinitas est vinculum personarum ab eodem
+                        stipite descendentium carnali propagatione contractum. Stipitem dico illam
+                        personam a qua aliqui duxerunt originem, sicutAdamfuit
+                           stipesChaymetAbelet filiorum qui ab eis
+                        processerunt. Linea est ordinata collectio personarum consanguinitate
+                        coniunctarum ab eodem stipite descendentium, diversos gradus continens.
+                        Linee sunt tres. Prima est ascendentium, a quibus originem traximus, sicut
+                        pater, mater, avus, avia, proavus, proavia, abavus, abavia. Secunda
+                        descendentium, qui duxerunt originem a nobis, sicut filius, filia, nepos,
+                        neptis, pronepos, proneptis, abnepos, abneptis. Alia est transversalium seu
+                        a latere venientium, a quibus non duximus originem, nec ipsi a nobis, ut
+                        frater, soror, filii duorum fratrum qui dicuntur patrueles, vel duarum
+                        sororum qui dicuntur consobrini et eorundem filii et nepotes. Due linee
+                        descendentes unam faciunt transversalem, ut apparet in hocexemplo:Filii duorum fratrum attinent sibi linea
+                        transversali, et quilibet eorum recta linea descendit ab avo eorum communi.
+                        Secundum leges autem, quelibet persona facit gradum. Sed secundum canones in
+                        transversali linea due persone faciunt gradum. Ut puta duo fratres sunt in
+                        primo gradu secundum canones, qui sunt in secundo, secundum leges, filii
+                        duorum fratrum in secundo, qui sunt secundum leges in quarto, et sic de
+                        singulis. Sufficiat hec diffinitio. Gradus est habitudo distantium
+                        personarum qua cognoscitur quota generationis distantia due persone inter se
+                        differunt. Gradus ita computantur in linea ascendenti: pater et mater sunt
+                        in primo gradu, avus et avia in secundo, proavus et proavia, in terrio,
+                        abavus et abavia in quarto. In descendenti vero hoc modo computantur: Filius
+                        et filia sunt in primo gradu, filii duorum fratrum in secundo, nepotes eorum
+                        in tertio, pronepotes in quarto. Ultra quem gradum nulla hodie
+                        consanguinitas, sicut nec olim ultra septimum gradum progrediebatur. Verum
+                        si alique persone attinent sibi in una parte in secundo vel tertio gradu, in
+                        alia vero in quinto poterunt contrahere, quia semper standum est remotiori
+                        persone in consanguinitate. In hoc enim casu remotior persona extra metam
+                        consanguinitatis existit. Unde iam non attinet illi. Denique regulariter
+                        semper debet iudicari pro matrimonio, nisi contra matrimonium ius inveniatur
+                        expressum.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394697998816" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:44:23:143">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:44:26:493">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

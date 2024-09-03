@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022052" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">338</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Tertio figurata est beata Virgo per arcam ratione continentie; quia in
+                        arca continebantur tabule Testamenti, Deuteronomium, et virgaAaron, urna aurea in qua erat manna. Que omnia
+                        competunt beateMarie: Custodiebat enim Virgo
+                        Beata rigorem discipline, qui designatur per virgam, legem decalogi, que per
+                        tabulas, EvangeliumChristi, quod per
+                        Deuteronomium, que est lux secunda; et ipsumChristum, qui per urnam plenam manna. Vel per ista quatuor
+                        intelligiturIesus Christus, qui in ista arca
+                        habitauit, in quo quatuor fuerunt, scilicet divinitas dulcissima, que per
+                        manna, anima sapientissima, que per Deuteronomium sive secundam legem, caro
+                        mundissima, que per virgaAaronque floruit, et
+                        spiritus humanus sapientissimus, qui per tabulas testamenti, in quo erant
+                        scripta Dei mandata, significantur. Templum autem in quo hec arca fuit est
+                        triplex, primum in quo fuit fabricata, et sanctificata, et istud fuit uterus
+                        matris sue, scilicetAnnebeate. Dicitur enimReg.quod intulerunt arcam Domini in locum
+                        suum, in oraculum templi, in Sancta Sanctorum. Hec arca federis Domini, fuit
+                        beataMaria, quam Deus, sterilitatem parentum
+                        auferens, et Angelus promissionem deferens, etIoachimgenerationi operam prebens, introduxit in locum suum, id
+                        est, in uterum beateAnne, de qua subditur: In
+                        oraculum templi. Ipsa enimAnnabeata templum
+                        Dei fuit, cuius oraculum fuit mens ipsius, Deo deuota, et orationi dedita,
+                        in cuius etiam utero beata Virgo post conceptionem sanctificata fuit, ut
+                        esset Sancta Sanctorum, id est, super omnes sanctos sanctificata, vel ut
+                        ipsa beata Virgo etiam in utero matris prepararetur ad generandum Sanctum
+                        Sanctorum.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp106333008" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:37:28:920">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:37:31:172">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

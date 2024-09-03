@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022221" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">42</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Libellus disputationis sarraceni et
+                        christiani]Mortuo veroMahumet, omnes ab eo decepti
+                        reversi sunt statim unusquisque ad suam quam ante tenuerant sectam sive
+                        ydolatriam, sive quamlibet aliam preter paucos sue cognationis qui
+                        expectabant se fore successores in regno. Eo tempore
+                           fuitEbubercfiliusAmicafafvir prudens et
+                        callidus, qui non multo post regnum adeptus est. Quod vehementer
+                           displicuitHalifilioAbitalib, quousque rex adeo
+                        illum obsequiis et blandiciis delinivit ut etiam regnum ei post se
+                        delegaret. Illos quoque qui aversi fuerant a sectaMahumet, omni
+                        ingenio ad eam revocans, iterum eos stulticie mancipavit. Quidam enim
+                        timore, quidam spe honoris et facultatum, alii alterius cuiuslibet lucri
+                        causa, omnes tamen et simulatorie non ex animo redierunt. Puto autem te
+                        optime recordari, quid dominus meusEmurhelmoni, aliquando cum
+                        essemus ei astantes et quidam quererentur de aliquo qui videbatur
+                           essesarracenuset non erat, coram omnibus responderit. Dixit
+                        enim ita: Ego miror quod de isto solo quasi aliquid novum michi dicatis, cum
+                        sciam non istum solum sed multos alios nobiliores et probiores in palatio
+                           meosarracenosnon esse. Ostendunt quidem se esse, et non
+                        sunt. Est enim inquit mos pene omnium ut sicut
+                        deiudeoproverbium dicit:Iudeusnisi postquam
+                           efficitursarracenusiudeusnon est, et vix aliquis suam legem nisi prius aliam
+                        acceperit, diligit. Ego autem de hoc quid aliud debeo vel possum facere quam
+                        quod dominus meusMahumetipse faciebat. Nam illi etiam hoc
+                        contigit ut fere omnes et maxime qui ei proximiores et familiares esse
+                        videbantur, non nisi simulate ac deceptorie legem eius tenerent. Adeo enim
+                        spernebatur ab eis, et quicquid dicebat pro nichilo habebant, odientes eum
+                        in cordibus suis ut quadam die volentes eum occidere expectarent eum in
+                        quadam valle quatenus transeunte illointerficerentterrificarentsubito mulam eius ut precipitatus interiret. Qui tamen numquam
+                        propter hoc eis se iratum monstravit. Eius igiturexemploomnes istos qui sive de christianis, sive
+                           deIudeis, sive de paganis,sarracenosse esse
+                        dicunt in regno meo et non sunt, nunquam ad aliud cogam. Scio namque quod
+                        nullus christianus qui timoresarracenusfieret, in sarracenitate
+                        permanebit. Similiter et de aliis sentio. Quid ergo amplius possum facere?
+                        Videat deus et iudicet. Hoc solum faciam ut semper maledicam eis.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698213469" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:48:36:451">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:48:38:145">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

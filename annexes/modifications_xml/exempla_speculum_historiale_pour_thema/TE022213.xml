@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022213" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">34</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Cassianus] [ex libro IIIIo]Theorice vero in duas
+                        partes dividitur, idest in hystoricam interpretationem et intelligentiam
+                        spiritualem. Spiritualis autem scientie genera sunt tria: Tripologia,
+                        allegorica, anagoge. De quibus in proverbiis ita dicitur: Tu autem describe
+                        eam tibi tripliciter. Quapropter si vobis cura est ad spiritualis scientie
+                        lumen, non inanis iactantie vitio, sed emendationis gratia pervenire, illius
+                        primum beatitudinis cupiditate flammamini, de qua dictum est: Beati mundo
+                        corde. Et idcirco ab omni vos vitiorum contagione purgare, et curis seculi
+                        presentis exuite. Observa igitur in primis ne studium lectionis aut
+                        desiderii tui labor vana elatione cassetur, ut inducas summum ori tuo
+                        silentium. Hic enim primus est actualis discipline ingressus. Omnis quippe
+                        labor hominis in ore ipsius, et ut omnium seniorum instituta, atque
+                        sententias intento corde et quasi muto suscipias, ac diligenter in pectore
+                        tuo condens, ad perficienda ea potius quam ad docenda festines. Nichil in
+                        collatione seniorum proferre audeas, nisi quod interrogare te aut ignorantis
+                        nocitura, aut ratio necessarie cognitionis impulerit, ut quidam vane glorie
+                        amore distenti pro ostensione doctrine sue, ea que optime norunt,
+                        interrogare se simulant. Impossibile est enim eum, qui proposito acquirende
+                        laudis humane studio lectionis insistit, donum vere scientie promereri. Nec
+                        quemquam verbis docere presumas, quod opere ante non feceris. Si enim ille,
+                        qui unum mandatum minimum solvens docuerit, sic homines, minimus [vocabitur]
+                        in regno celorum. Qui multa et maiora negligens docere presumpserit,
+                        consequens profecto est, ut non iam minimus in regno celorum, sed in gehenne
+                        supplicio maximus habeatur. Et ideo cavendum tibi est ne illorum ad docendum
+                        inciterisexemplis,qui peritiam disputandi ac
+                        sermonis affluentiam consecuti, qui possunt ea que voluerint ornare
+                        copioseque disserere, scientiam spiritualem possidere creduntur, ab hiis,
+                        qui vim eius et qualitatem discernere non noverunt. Aliud namque est
+                        facilitatem oris et nitorem habere sermonis, et aliud venas ac medullas
+                        celestium intrare dictorum, ac profunda et abscondita sacramenta purissimo
+                        cordis oculo contemplari. Quod nullatenus humana doctrina nec eruditio
+                        secularis, sed sola puritas mentis per illuminationem sanctispiritus
+                        obtinebit. Incessabiliter recensendo sacrarum series scripturarum. Hec
+                        etenim meditationis iugitas duplicem nobis confert fructum. Primum, quod dum
+                        in legendis ac parandis lectionibus occupatur mens, necesse est ut nullis
+                        noxiarum cogitationum laqueis captivetur. Deinde quod ea, que creberrima
+                        repetitione perscita, dum memorie tradere laboramus, intelligere id temporis
+                        obligata mente nequivimus, postea ab omnium actionum ac visionum illecebris
+                        absoluti, precipueque nocturna meditatione taciti revolventes, clarius
+                        intuemur.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698161418" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:47:29:517">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:47:31:664">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

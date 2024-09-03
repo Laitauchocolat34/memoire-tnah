@@ -1,0 +1,132 @@
+sCe code ne représente pas la totalité du code présent dans le fichier search.xql. Pour économiser de la place je n'ai récupéré que le code qui permet de chercher dans les textes apparentés et dans les sources des \textit{exempla}. \\
+
+
+\begin{lstlisting}[breaklines=true]
+	let $paramSces := 
+		if (request:get-parameter("sces", ()) != "") then 
+			tokenize(request:get-parameter("sces", ()), " ") 
+		else ()
+	
+
+
+	<div class="form-group row">
+		<label class="col-md-2 col-form-label col-form-label-sm" for="search-sources">{common:labels("search-sces")}:</label>
+		<input type="text" class="col-md-8 form-control form-control-sm" id="search-sources" placeholder="exemplum sources search" name="sces" accept-charset="UTF-8"/>
+	</div>
+	
+	
+	
+	let $sources-in-exempla := 
+		if (count($paramSces) gt 0) (: Recherche seulement si $paramSces n'est pas vide :)
+			then
+				let $query-sources := 
+					<query>
+						<bool>
+							{
+							for $b in $paramSces 
+							return <wildcard occur="must">{normalize-space(lower-case(sch:reduced-term($b)))}</wildcard>
+							}
+						</bool>
+					</query>
+				return ($ex-items//tei:sourceDesc/tei:list[@type="source_details"]/tei:item[@type="sources"]/tei:p[ft:query(.,$query-sources,$ftqueryparams)])
+			else (: Pas de recherche si $paramSces est vide :)
+				$ex-items	
+		return 
+		
+
+		
+	(<div>
+		<div class="d-flex justify-content-between border-bottom align-items-center mb-3">
+			<h2 class="font-cormorant-garamond">{common:labels("search-results")}
+			{
+			if (count($final-ex-items) gt 0)
+				then concat(" ",count($final-ex-items), " exempla")
+			else (),
+			if (count($sources-in-exempla) gt 0)
+				then concat(" ",count($sources-in-exempla), " sources")
+			else ()
+			}
+			</h2>
+			<a class="btn btn-primary" href="{$g:URLsearch}">{common:labels("new-search")}</a>
+		</div>
+	
+	
+	
+	<div class="row md-12 mb-2 d-flex align-items-center justify-content-between alert {if (count($final-ex-items) = 0 or count($sources-in-exempla) = 0)
+		then "alert-danger"
+		else "alert-success"}">
+	
+	
+	
+	if (count($paramSces) gt 0)
+		then 
+			(<strong>{common:labels("sourcessources")})</strong>, concat(" = ", string-join($paramSces," "),"; "))
+	else(),
+	
+	
+	
+	if (count($final-ex-items) = 0 or count($sources-in-exempla) = 0)
+		then 
+			(<br/>,<strong>{common:labels("search-no-results")}</strong>)
+	else ()
+	
+
+	
+	if ((count($final-ex-items) gt 0) or (count($sources-in-exempla) = 0))
+		then 
+			<a type="button" class="btn btn-primary" href="{concat($g:URLget,"?objecttype=searchresult&amp;$objectformat=csv&amp;",request:get-query-string())}" target="_blank">{common:labels("download")} (.csv)</a>
+	else ()
+	
+	
+	if (count($sources-in-exempla) gt 0)
+		then
+			<div class="row">
+				<div class="col-sm-12">
+					<table id="tableSearch_in_sources" class="table table-sm responsive dataTable no-footer dtr-inline" style="width: 100%;" data-page-length="50" role="grid" aria-describedby="myTable_info">
+						<thead>
+						<tr>
+							<th>{common:labels("id-coll")}</th>
+							<th>{common:labels("id-ex")}</th>
+							<th>{common:labels("author")}</th>
+							<th>{common:labels("title")}</th>
+							<th>{common:labels("exempla")}</th>
+							<th>{common:labels("keywords")}</th>
+						</tr>
+						</thead>
+						<tbody>
+						{
+							for $sources-exempla in $sources-in-exempla
+							let $fullsources := if (count($paramSces) gt 0) then $sources-exempla/ancestor::tei:TEI else $sources-exempla
+							let $coll := $coll-items/id($fullsources/@corresp)
+							return 
+								<tr>
+									<td><a href="{$g:URLcollections || $fullsources/data(@corresp)}">{$fullsources/data(@corresp)}</a></td>
+									<td><a href="{$g:URLexempla || $fullsources/data(@xml:id)}">{$fullsources/data(@xml:id)}</a></td>
+									<td>{$sch:PEOPLE/id($coll//tei:author/@ref)//tei:name[@type="main"]/text()}</td>
+									<td>{if ($fullsources//tei:desc[@type="title_index"]/text())
+										then (concat($coll//tei:title[@type="exempla"]/text(), ": ", $fullsources//tei:desc[@type="title_index"]/text()))
+										else $coll//tei:title[@type="exempla"]/text()}</td>
+									<td>
+										{
+											if (count($paramSces) gt 0)
+											then transform:transform(util:expand($sources-exempla, "expand-xincludes=no"), sch:style-hit(), ())
+											else ()
+										}
+									</td>
+									<td>
+										{
+											for $k in keywords:keyword-link($fullsources//tei:term[@corresp!=""]/data(@corresp))
+											return <li class="list-inline-item">{$k}</li>
+										}
+									</td>
+								</tr>
+						}
+						</tbody>
+					</table>
+				</div>
+			</div>
+	else ()
+	}
+</div>)
+		
+\end{lstlisting}

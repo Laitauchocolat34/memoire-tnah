@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021837" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">123</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Tertio, ratione curationis. Nam folia platani ad curandum causas
+                        calidas, et humiditates infirmitatum sunt valde utilia, quia humorem
+                        desiccant, et calorem temperant : reuma restringunt, et contra tumorem
+                        calidum oculorum iuvant. Nam foliaMariefuerunt non tantum eius exempla, sed etiam verba, que quandoque ardorem
+                        avaritie temperant, sicut quando dicitin suo
+                           cantico. Esurientes implevit, et cetera, quandoque vero humorem
+                        luxurie desiccant, sicut quando dixit Angelo. Quoniam virum non cognosco ;
+                        quandoque vero fluxus reumatum, id est cogitationum coarctant, nam velut
+                        reuma capitis ad inferiora fluens, est cogitatio mentis ad inferiora
+                        tendens, quam Beata Virgo suo verbo et exemplo ad superiora revocat, et
+                        restringit, dicens, Magnificat anima mea Dominum. Et exultavit spiritus meus
+                        in Deo salutari meo : in Deo, non in mundo.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp83341696" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:05:27:975">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:05:28:953">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

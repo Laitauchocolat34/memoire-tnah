@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021807" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">93</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Abiecti a mundo, recolliguntur a Deo. Cuiusexemplumapparet in balaustia, que est flos mali granate, que dum
+                        cadit ab arbore, sive ramo, recolligitur a medico. Est enim hic flos
+                        frigidus et siccus, et habet virtutem restringendi, et desiccandi humorem.
+                        Unde valet contra dysenteriam, et sanguineum fluxum ventris : vomitum etiam
+                        cholericum stringit, si coctus in aceto super furculam pectoris apponatur.
+                        Illi autem quasi de arbore cadunt, qui a mundo despiciuntur, et abiiciuntur,
+                        sicut pauperes, qui sunt frigidi ab estu avaritie, et continentes qui sunt
+                        sicci ab humore et fluxu luxurie, et mites qui restringunt vomitum cholere,
+                        id est, impetum ire. Nam pauperes despiciuntur ab avaris, tanquam homines
+                        inutiles, continentes despiciuntur a carnalibus, tanquam homines steriles,
+                        et agrestes : Mites vero despiciuntur a superbis, tanquam homines
+                        pusillanimes : Sed licet tales eiiciantur ab arbore, id est, a mundo,
+                        tanquam inutiles, tamen recolliguntur a medico, id est, aChristo, tanquam preciosissimi flores. UndeApostolusdicit : Que stulta sunt mundi, elegit
+                        Deus, ut confundat sapientes ; et infirma mundi elegit Deus, ut confundat
+                        fortia ; et ignobilia mundi, et contemptibilia elegit Deus, et ea que non
+                        sunt, ut ea que sunt, destrueret, ut non glorietur omnis caro in conspectu
+                        eius. Unde patet quod hec abiectio mundi bona est, propter quod dicebatPsal.Elegi abiectus esse in domo Dei mei, quam
+                        habitare in tabernaculis peccatorum.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp119813104" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:01:29:489">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:01:30:627">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

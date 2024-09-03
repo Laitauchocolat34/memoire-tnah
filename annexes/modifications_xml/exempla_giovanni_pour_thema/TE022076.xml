@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022076" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">362</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Error utilis tolleratur. Cuiusexemplumest,
+                        quia cum seruus non possit esse iudex, quia nec arbiter, quod minus est ff
+                        de arbit, l. pedius, §. fi. Tamen si credatur liber, et sententiam ferat,
+                        tenet sententia propter utilitatem eorum, qui apud eum egerunt, ff. de
+                        officiis prefecti, l. Barbarius, tamen in veritate iudex non est: ar. ff. de
+                        cur. l. habemus Medesanus. Ad idem Instit. de test, §. sed neque, C. de
+                        testi. l. 1. C. de lati. lib. toll. l. 1. §. sed et qui Domini, et §. sed et
+                        si quis homini libero. Sic dicimus de excommunicato, arg. extra de procu. c.
+                        fi. Et extra de excep. c. exceptionem, extra de sent. et re iud. c. ad
+                        probandum.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp60912032" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:41:18:791">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:41:19:839">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

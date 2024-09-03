@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022138" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">424</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Item mundus assimilatur scacario, cuius tota familia currit transuerso,
+                        ut apprehendat aliquid mentiendo, usurpando, et huiusmodi faciendo. Item in
+                        scacario quamdiu durat ludus, unus est Rex, alius miles, et huiusmodi. Et
+                        aliquando duo videntur tenere totum, sed quando cessauit ludus, idem fit de
+                        milite et rege quod de minima familia, quia communiter reponuntur in sacco
+                        uno, quandoque Rex in fundo sacculi, et minima familia in superiori parte.
+                        Sic quoque mundus est fere ut ludus scacarii, quia quamdiu durat hic mundus,
+                        unus est rex, alius miles, unus magnus, unus paruus, sed adveniente morte,
+                        in sacco terre reponuntur, ita fit de Rege sicut de milite, tunc sicut
+                        dominus, ita et seruus eius.Ecclesiast.Communionem mortis scito, quia moritur doctus, similiter et indoctus.
+                        Et aliquando diues vadit ad fundum inferni, et pauper ascendit superius ad
+                        gaudia paradisi, sicut patet de diuite epulone, etLazaropaupereLuca 16.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp60479648" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:51:32:247">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:51:33:936">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

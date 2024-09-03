@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022162" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">448</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Abiectos a mundoChristusplerunque
+                        suscipit, sicut nonnunquam una civitas suscipit et honorat expulsos ab alia.
+                        Et sicut etiam unus homo misericors famulum suscipit pauperem, et infirmum,
+                        ab alio crudeli domino derelictum, sicutlegiturde quodam Egyptio puero in via lascessente, quem Amalechita egrotum in
+                        itinere deseruit,Dauidvero invenit, cibo
+                        refecit, ducem sui itineris fecit, Amalechitam persequitur, epulantem
+                        reperit, et extinguit. Quid enim est, sicutGregoriusdicit, quod Egyptius ab Amalechita puer in itinere
+                        lassatur, nisi quod amator presentis seculi peccati sui nigredine operatus,
+                        sepe ab eodem seculo infirmus despectusque relinquitur, ut cum eo nequaquam
+                        currere valeat, sed fractus adversitate torpescat. Sed huncDauidinvenit; quia Redemptor noster veraciter
+                        manu fortis nonnunquam quem fractum a mundi gloria reperit, in suo amore
+                        convertit, cibo pascit, quia verbi scientia reficit, ducem itineris eligit,
+                        quia suum etiam predicatorem facit. Et qui Amalechitam sequi non valuit, duxDauidefficitur, quia is quem indignum
+                        mundus deseruit, non solum conuersus in sua mente dominum recipit, sed etiam
+                        predicando hucusque ad aliena corda perducit. Quo videlicet duceDauidAmalechitam conuiuantem invenit, et
+                        extinguit, quia ipsisChristumpredicantibus
+                        mundi letitiam destruit, quos mundus comites habere despexit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp80686352" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:55:31:647">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:55:32:756">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022120" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">406</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Sed Episcopis adduntur nouem ornamenta super sacerdotes, que sunt
+                        callige, sandalia, succinctorium, tunica, dalmatica, mitra, chirothece,
+                        baculus, et annulus: quia scilicet nouem sunt que potest supra sacerdotem,
+                        scilicet clericos ordinare, virgines benedicere, basilicas dedicare,
+                        clericos disponere, synodos celebrare, chrisma consecrare, et vestes et vasa
+                        etiam consecrare, vel per caligas signatur rectitudo gressuum. Per sandalia
+                        que pedes tegunt, contemptus terrenorum. Per succinctorium quo stola ligatur
+                        cum alba, amor honestatis: per tunicam perseverantia, quiaIosephtunicam talarem habuisselegitur, quasi descendentem usque ad talos: per
+                        quod designatur extremitas vite: per dalmaticam largitas in operibus
+                        misericordie: per chirothecas cautela in operatione, per mitram scientia
+                        utriusque testamenti: unde et duo cornua habet: per baculum cura pastoralis,
+                        qua debet colligere vagos, quod signat curuitas in capite baculi: sustentare
+                        infirmos, quod signat stipes baculi: et pungere lentos, quod signat stimulus
+                        in pede baculi: undeversus: Collige, sustenta,
+                        stimula, vaga, morbida, lenta, per annulum signatur unitas fidei qua
+                        Ecclesia desponsaturChristo: Episcopi enim
+                        sunt locoChristi, qui est ecclesie sponsus.
+                        Sed ulterius Archiepiscopi pallium habent in signum priuilegiate potestatis,
+                        signat enim torquem auream quam solebant legitime certantes accipere. Et
+                        ista ornamenta correspondent vestibus pontificis veteris legis.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp_de_exemplis.9.9.cit4" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:48:28:952">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:48:30:134">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

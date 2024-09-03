@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022163" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">449</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Ablatio et priuatio temporalium, alicui etiam innocenti facta divino
+                        iudicio, non ostendit Deum esse iniustum, cum ipse ea dederit, et omnia sua
+                        sint. Cuiusexemplumest, quia nec aliquando
+                        iniustus est creditor qui dum prefixo requirendi tempore non constringitur,
+                        quando vult exigit quod feneratur. Ita dum Deus aufert que dedit, non aufert
+                        nostra, sed recipit sua. Unde diciturIob. Dominus
+                        dedit, Dominus abstulit, sicut Domino placuit, ita factum est, sit nomen
+                        Domini benedictum.Sen.Non est quod nos
+                        suscipiamus, tanquam inter nostra positi, mutuata accipimus, usufructusque
+                        noster est. Cum ipse arbiter sui muneris imperat, et nos oportet in promptu
+                        habere, que in incertum diem data sunt, et appellatos sine querela reddere,
+                        pessimi debitoris est creditorem facere iniustum.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp80688528" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:55:41:652">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:55:42:573">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

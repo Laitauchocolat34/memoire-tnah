@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE021788" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">74</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Quarto ratione resolutionis, quia scilicet diversi vapores diversimode
+                        resolvuntur ; et sic diversi homines a diversis vitiis absorbentur. Nam
+                        quidam vapores sunt qui resolvuntur, sive convertuntur in ignem, sicut illi
+                        qui ascendunt sursum ad supremam aeris regionem , que dicitur regio estus ;
+                        qui incenduntur, et in ignem convertuntur. Et tales sunt multi ad statum
+                        dignitatis elevati, qui vel incenduntur igne iracundie, et sevitie, sicutNeroqui fuit crudelissimus et iracundus,
+                        vel avaritie, sicut de RegeAntigonoSenecadicit, quod fuit Rex avarissimus : vel igne
+                        concupiscentie, et luxurie, sicut deSardanapalorefertOrosius; qui fuit
+                        RexAssyriorumluxuriosissimus. Quidam vero
+                        vapores sunt qui resolvuntur in aerem, sive ventum, et iste ventus quandoque
+                        elevatur in altum et generat in aere, vel in mari tempestatem ; et talis est
+                        vita quorumdam in quietorum, qui semper in iurgiis, litigiis, et
+                        seditionibus delectantur, et pacem videntur odio habere. Sicutdicitur, quodAlexandercuidam querenti, quare mundum ita infestaret, et in
+                        pace stare non posset ? respondit, quoniam pax ei esset bellum, si
+                        adesset.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp120031536" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 16:59:01:518">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 16:59:02:608">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022132" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">418</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">FideliumChrististatus figuratus est in
+                        tabernaculoMoysi. Nam totum corpus tabernaculi
+                        constabat ex quibusdam tabulis, in longitudine erectis, que quidem interius
+                        tegebantur quibusdam cortinis ex quatuor coloribus variatis, scilicet de
+                        bisso recorta, et iacincto, et purpura, cocco bis tincto; sed huiusmodi
+                        cortine tegebant latera solum tabernaculi. In tecto autem tabernaculi erat
+                        operimentum unum de pellibus iacinctinis. Et super hoc aliud de pellibus
+                        arietum rubricatis, et desuper tertium de quibusdam sagis cilicinis, que non
+                        tantum operiebant tectum tabernaculi, sed etiam descendebant usque ad
+                        terram, et tegebant tabulas tabernaculi. Per tabulas igitur, ex quibus
+                        constructum fuit tabernaculum, signabantur fidelesChristi, ex quibus construitur ecclesia. Tegebantur autem tabule
+                        interius cortinis quadricoloribus, quia fideles interius ornantur quatuor
+                        virtutibus: nam in bisso retorta, utglossadicit, designatur caro castitatem retinens. In iacincto mens superna
+                        cupiens. In purpura caro passionibus subiacens, in cocco bis tincto mens
+                        inter passiones Dei, et proximi dilectionem refulgens. Per operimenta vero
+                        tecti designantur Prelati, et Doctores, in quibus debet renitere celestis
+                        conuersatio, que signatur per pelles iacinctinas, promptitudo ad martyrium,
+                        quam signant rubricate pelles, austeritas vite, et tolerantia aduersorum,
+                        que signantur per saga cilicina, que erant exposita ventis, et pluuiis, ut
+                        dicitglossa.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp76187856" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:50:27:921">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:50:29:571">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

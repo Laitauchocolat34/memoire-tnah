@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022206" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">27</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Augustinus] [in libro Xo]Denique sit virtus ad
+                        beatam vitam nos ducit, nichil virtutem esse affirmaverim nisi summum amorem
+                        dei. Nam et illud, quod virtus quadripartita dicitur, ex ipsius amoris vario
+                        quodam effectu dicitur. Est enim temperantia amor integrum se prebens ei,
+                        quod amatur. Fortitudo amor facile tolerans omnia propter id, quod amatur.
+                        Iustitia amor soli amato serviens, et ideo recte dominans. Prudentia amor,
+                        ea quibus adiuvatur ab eis quibus impeditur sagaciter eligens. Sed hunc
+                        amorem non cuiuslibet, sed dei esse diximus, id est summi boni, summe
+                        sapientie, summe concordie. Est enim caritas simplex et pura, que spiritu
+                        sancto inspirata perducit ad filium, per quem pater cognoscitur. Omne igitur
+                        officium temperantie est exuere veterem hominem, et in deo revocari, id est
+                        contempnere illecebras omnes corporeas, laudemque popularem, totumque amorem
+                        ad divina conferre, ne subiciat se homo per peccata hiis rebus,que sibi per
+                        recte facta divina lege subiecta sunt. Quid est enim aliud falsis bonis
+                        illudi atque decipi quam teipso inferiora miranda, et appetenda arbitrari.
+                        Habet igitur vir temperans in hiis rebus mortalibus vite regulam, utroque
+                        testamento firmatam, ut eorum nichil diligat, nichil per se appetendum
+                        putet, sed ad vite huius atque officiorum necessitatem quantum satis est,
+                        usurpet, utentis modestia, non amantis affectu. De fortitudine autem non
+                        multa dicenda sunt, amor namque ille, de quo loquimur, quod tota sanctitate
+                        inflammatum esse oportet in deum, in non appetendis istis temperans in
+                        amittendis fortis vocatur. Sed inter hec omnia, que in hac vita possidentur
+                        corpus gravissimum vinculum est, iustissimis dei legibus propter antiqum
+                        peccatum, quo nichil est ad predicandum nocius, nichil ad intelligendum
+                        secretius. Hoc ergo vinculum me concutiatur atque vexetur laboris et
+                        doloris, ne auferatur autem atque perimatur mortis terrore, animam quatit.
+                        Amat enim illud vi consuetudinis, non intelligens, si eo bene atque scienter
+                        utatur, resurrectionem reformationemque eius ope et lege divina, sine ulla
+                        molestia iuri suo subditam fore. Sed cum hoc amore totum in deum
+                        convertitur, hiis cognitis, non solum mortem contempnet, sed etiam
+                        desiderabit. Sed restat cum dolore magno conflictio, nichil est enim tam
+                        durum atque ferreum, quod non amoris igne convincatur, quo cum se anima
+                        rapiet in deum, super omnem carnificinam libera, et admiranda volitabit
+                        pennis pulcherrimis et intergerrimis, quibus ad dei amplexum amor castus
+                        innititur. Adexemplumautem nobis considerandum
+                        est amatores auri vel laudis vel feminarum, quam fortes sunt in proferendo
+                        pro eo quod diligunt, cum ille non amator, sed congruentius cupiditas
+                        vocetur, in quibus apparet quantus sit impetus animi ad ea que diligit cursu
+                        flexo per inania queque tendentis. Argumentoque nobis est, quam sit omnia
+                        perferenda ne deseramus deum, si tanta illi ne deserant amata perferant.
+                        Merito cum memorandus est sanctusIob, in cuius vocibus satis
+                        elucet, quanti parvipendenda sunt ista, que cum volunt homines per
+                        dominationem tenere, ab hiis potius per cupiditatem tenentur, et rerum
+                        mortalium servi fiunt, dum in parte domini esse desiderant. Amissis enim
+                        ille omnibus repente divitiis, tam inconcussum animum tenuit, et infixum
+                        deo, ut satis non illas sibi magnas fuisse ostenderet , sed se illis, sibi
+                        autem deum. Quo animo si esse possent nostri temporis homines non magno
+                        opere in novo testamento ab illorum possessione prohibemur ut perfecti
+                        essemus. Multo enim mirabilius est non inherere istis quamvis possideas,
+                        quam ea omnino non possidere. Iustitie vero congruit, ut deo quem diligit
+                        libentissime serviat, ceteraque omnia partim sibi subiecta regat, partim
+                        subiciendia presumat. Nec de prudentia diutius disserendum est, ad quam
+                        dinoscentia pertinet appetendorum et vitandorum, que si desit, nichil horum,
+                        que dicta sunt effici potest. Huius excubiarum vigilia est ne subrepente
+                        paulatim mala suasione fallamur. Qui enim spernit modica paulatim
+                        deficit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698152494" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:46:25:072">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:46:27:569">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

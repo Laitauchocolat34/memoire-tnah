@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022007" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">293</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Cura pastoralis assimilatur mammille. Primo, quia mammilla in muliere
+                        est membrum duplicatum, quia duo sunt precipue pastori necessaria, scilicet
+                        vita, et doctrina, ut scilicet ad nutrimentum subditorum ex altero fluat lac
+                        exempli, ex altero vero verbi.Apost. Thi.Exemplum esto fidelium in verbo, in conuersatione, etc. Vel duo ubera sunt
+                        due virtutes necessarie rectori, scilicet iustitia, et clementia.Prov.Misericordia, et veritas custodiunt regem, et
+                        roboratur clementia thronus eius.Gregorius. In
+                        esse rectoribus debet, et iuste patiens misericordia, et pie seuiens
+                        disciplina. Dicit tamenPhilosophus, quod animalia
+                        multorum uberum, multorum sunt filiorum, et habent ubera a parte inferiori
+                        diffusa, ut patet in canicula, et porca; Et cum peperit porca, dat primo
+                        filio primam mammillam, et secundo secundam, et sic de aliis. Animalia autem
+                        pauca ubera habentia paucos habent filios. Unde videtur, quod natura non
+                        errante, non debet aliquod animal plures filios generare, quam habeat
+                        mammillas in corpore, alias esset invenire diminutum, et superfluum in
+                        natura, quod pro inconvenienti habetPhilosophus.
+                        Sicut ergo animalia multorum filiorum, multorum quoque sunt uberum; et
+                        econuerso, que paucorum sunt vberum, paucorum sunt filiorum; Sic pastores
+                        quanto plures habent spirituales filios pascere, et nutrire, tanto pluribus
+                        eos uberibus, id est, virtutibus oportet abundare, quibus bonorum operum
+                        prebeant alimenta, id est, exempla, vel iuuamenta. Et ideo (sicut dicitGregorius) virtutibus vacuus ad regimen nec coactus
+                        accedat.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp77132848" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:29:53:077">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:29:54:516">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

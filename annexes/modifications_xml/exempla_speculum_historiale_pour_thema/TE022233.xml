@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022233" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">54</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Helynandus] [in cronicis libro VIIIo]Hec idcirco
+                        dixi ut per hoc elucescat unde sumpsit initium virgilianus error de animabus
+                        defunctorum, quos heroas appellat, dicens eos habere eandem curam equorum et
+                        curruum et armorum post mortem, quam habuerant dum vivebant. De qua re
+                        certissimum referebatexemplumpatruus
+                           meus,Hellebaudus,Henriciquondamremensisarchiepiscopi
+                        cubicularius. Dicebat enim: Dominus meus archiepiscopus mittebat me
+                           apudAttrebatum, dum autem circa meridiem apud quoddam nemus
+                        appropinquassemus, ego et famulus meus qui me precedebat, celerius equitans
+                        ut michi pararet hospitium, audivit ille tumultum magnum in nemore quasi
+                        multiplices et varios equorum fremitus, armorum sonitus, et velut voces
+                        multitudinis impetu proruentis in bellum. Expavefactus vero ipse et equs
+                        eius continuo regressus est ad me. A quo cum quererem [quare] reverteretur,
+                        respondit: Equs meus non fuste nec calcaribus etiam cogi potest ut procedat.
+                        Ego etiam ipse adeo territus sum, ut omnino procedere non possum audeam.
+                        Mira enim vidi et audivi. Nemus enim istud defunctorum animabus et demonibus
+                        plenum est. Audivi autem illos clamare et dicere: Iam habemus prepositum
+                           deArea, in proximo autem habebimus
+                           archiepiscopumremensem. Ad quod ego respondi: Signum crucis
+                        nostris frontibus [imprimamus, et securi procedamus. Cum ergo processissem]
+                        et ad nemus pervenissem, iam umbre processerant, et tamen voces quasdam
+                        confusas audivi, et fragores armorum et equorum fremitus, sed nec umbras
+                        videre nec voces intelligere potui. Cum autem redissemus, iam archiepiscopum
+                        invenimus in extremis, nec post has voces diebus XV supervixit, undeconiturconiicitureum ab illis spiritibus raptum, a quibus auditum fuerat rapiendum.
+                        Hinc apparet quales equi sint illi, super quos aliquando defunctorum anime
+                        videntur equitare. Sunt enim demones se in equos transformantes, quorum
+                        sessores sunt anime miserrime peccatis onerate, tanquam armis quibusdam et clipeishonestateonustate. Sed revera propriis sceleribus informis talibus onustate iuxta
+                        illud propheticum: Descenderunt in infernum cum armis suis, id est cum
+                        membris suis que fecerunt arma iniquitatis peccato nolentes ea facere arma
+                        iustitie deo. Certum est autem equm animal esse superbum et contumax,
+                        contentionis et belli cupidum, ferventem ad coitum, et in libidime
+                        prepotentem. Demones igitur in equos transformati significant sessores suos
+                        se huiusmodi sceleribus oblectasse.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698325120" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:50:20:540">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:50:22:471">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

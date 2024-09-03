@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022062" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">348</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Notandum est autem, quia de huiusmodi somniis, que de arboribus apparent
+                        in hominibus,somniorum interpretesdicunt, quod
+                        aliud signant ratione situum, aliud ratione partium, aliud ratione fructuum.
+                        De situ autem arborumexemplumadducitur, quia si
+                        quis viderit per somnium arbores ortas in mari, aut petra, aut aliis locis,
+                        que non recipiunt arborum germinationem, viros inconsuetorum habituum in
+                        loca illa intraturos prestoletur, secundum rationem multitudinum arborum. De
+                        partibus quoque arborumexemplumadducunt
+                        dicentes, quod somnia, que de arboribus apparent ad hominum conditiones
+                        referuntur: quia robur trunci, quod in altum porrigitur, ut dicunt,
+                        orationem signat, stipites autem sive rami ad folia referuntur; fructus
+                        autem referuntur ad fidem, vel divitias; sed folia ad sensum. Nam in somnio
+                        folia, que bene videntur virere, et bene nutriti, rectitudinem sensus
+                        significant; languida vero labentia, succoque destituta, sensus protendunt
+                        imbecillitatem. De fructibus autem dicunt, quod aliud representant ratione
+                        saporis, aliud ratione temporis, aliud ratione arboris. Quantum enim ad
+                        saporem dicunt, quod omnes fructus acetosi, et stiptici in somnio visi,
+                        referuntur ad malum euentum. Unde si alicui videatur in somnio, quod
+                        colligat ex palmeto fructum acerbum, tribulabitur, et cruciabitur secundum
+                        rationem excerpti fructus, eo quod stipticus sit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp121703440" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:39:04:028">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:39:05:275">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

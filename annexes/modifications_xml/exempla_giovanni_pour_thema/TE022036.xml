@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0179" type="exemplum" xml:id="TE022036" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">322</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">Quandoque vero per imaginarias formas eis ostensa sunt, sive omnino
+                        divinitus, impressas, et non per sensum acceptas, ut puta si alicui ceco
+                        nato imprimerentur in imaginatione colorum similitudines. Aut etiam
+                        ordinatas divinitus ex his, que sunt a sensibus accepte, sicutHieremiasvidit ollam a facie Aquilonis succensam.
+                        Quandoque vero per intelligibiles formas mentibus eorum impressas illis
+                        innotuerunt, ut in illis precipue patet, qui scientiam vel sapientiam
+                        infusam a Deo acceperunt, velutSalomon, et
+                        Apostoli. Et hinc est, quodAugustinusdistinguit
+                        triplicem visionem, scilicet sensibilem, imaginariam, et intellectualem. Sed
+                        notandum est, quod in visione sensibili vel intellectuali Prophete, sive
+                        videntes ipsi nequaquam abstrahebantur a sensibus, cum aliquid per
+                        sensibiles species menti representabatur Prophete, sive huiusmodi species
+                        essent ad hoc specialiter divinitus formate, sicut fuit rubus ardens
+                        ostensusMoysi, sive per alias causas essent in
+                        esse producte: sed secundum providentiam Dei ad designandum Prophetice
+                        aliquid ordinate, sicut per arcamNoeChristisignificabatur Ecclesia. Similiter non
+                        erat necesse, ut alienatio fieret ab exterioribus sensibus, per hoc, quod
+                        prophete mens illustrabatur intelligibili lumine, aut informabatur speciebus
+                        intelligibilibus, quia in nobis perfectum iudicium intellectus habetur per
+                        conuersionem ad sensibilia, que sunt prima nostre cognitionis
+                        principia.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/summa_de_exemplis_ac_similitudinibus_rerum_ed_anvers_1609?citid=cit_idp_de_exemplis.prologue.7.1.cit3" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-07-19 17:34:43:121">create exemplum</change><change resp="admin" type="modify" when-custom="2024-07-19 17:34:45:565">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

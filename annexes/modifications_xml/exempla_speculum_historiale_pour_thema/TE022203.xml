@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022203" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">24</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Sulpicius Severus] [in primo libro
+                        dialogorum]Habitant plerique in heremo sine ullis tabernaculis, quos
+                        anachoritas vocant, vivunt herbarum radicibus, nullo unquam certo loco
+                        consistunt, ne ab hominibus frequententur, quas nox coegerit, sedes habent.
+                        Ad quendam igitur hoc ritu atque hac lege viventem, duo
+                           exNitriamonachi, licet longa et diversa regione, tamen quia
+                        olim ipsis in monasterii conversatione carus et familiaris fuisset, auditis
+                        eius virtutibus tetenderunt. Quem diu multumque quesitum tandem reppererunt
+                        mense septimo in extremo illo deserto, quod
+                        estMemphiscontiguum, demorantem. Quas ille solitudines iam per
+                        annos XII dicebatur habitare. Qui licet omnium hominum vitaret occursus,
+                        tamen agnitos non refugit, seque karissimis per triduum non negavit. Quarto
+                        die aliquantulum progressus, cum prosequeretur abeuntes, leenam mire
+                        magnitudinis ad se venire conspiciunt. Bestia licet tribus repertis, non
+                        incerta quem peteret, anachorite pedibus advolvitur, et cum fletu quodam ac
+                        lamentatione procumbens, indicabat gementis pariter et rogantis affectum,
+                        movit omnes et precipue illum qui se intellexerat expetitum, precedentem
+                        sequntur, nam preiens et subinde restans, subinde respectans, facile poterat
+                        intelligi, id eam velle, ut quo illa ducebat anachorita sequeretur. Quid
+                        multis? Ad speluncam bestie pervenitur, ubi illa adultos iam quinque catulos
+                        male feta nutriebat, qui ut clausis liminibus ex alvo matris exierant,
+                        cecitate perpetua tenebantur. Quos singulos de rupe prolatos, ante
+                        anachorite pedes mater exposuit. Tunc demum sanctus animadvertit, quid
+                        bestia postularet, invocatoque nomine dei, contrectavit manu lumina clausa
+                        catulorum, ac statim cecitate depulsa, apertis oculis bestiarum diu negata
+                        lux patuit. Ita frates illi anachorita quem desiderabant visitato, cum
+                        admodum fructuosa laboris sui mercede redierunt, qui in testimonium tante
+                        virtutis admissi, fidem sancti, gloriamChristi, que per ipsos
+                        esset testificanda vidissent. Mira dicturus sum, leena post dies V ad
+                        actorem tanti beneficii revertisse, eidemque inusitate fere pellem pro
+                        munere detulisse, qua plerumque sanctus ille quasi aminiculo circumtectus,
+                        non dedignatus est munus per bestiam sumere, cuius alium potius
+                        interpretabatur auctorem. Erat etiam alterius anachorite in illis regionibus
+                        nomen illustre, qui in ea parte deserti, queSeniiungitur,
+                        habitabat. Hic cum primum se ad heremum contulisset, herbis herbarumque
+                        radicibus quas predulces interdum et saporis eximii fert harena, victurus,
+                        ignarus germinis eligendi, noxia plerumque carpebat, nec erat facile vim
+                        radicum sapore discernere, quia omnia eque dulcia, sed pleraque occultiori
+                        natura virus letale cohibebant. Cum ergo edentem vis interna torqueret et
+                        immensis doloribus vitalia universa quaterentur, ac frequens vomitus
+                        cruciatibus non ferendis, ipsam animi sedem stomacho iam fatiscente
+                        dissolveret, omnia penitus, que essent edenda formidans. Septimum in
+                        ieiuniis diem spiritu deficiente ducebat, cum ad eum fera, cui ibicis nomen
+                        est, accessit, huic propius astanti fasciculum herbarum, quem collectum
+                        pridie attingere non audebat, obiecit, sed fera, que virulenta erant, ore
+                        discutiens, que innoxia noverat, eligebat. Ita vir sanctus eiusexemplo,quid edere, quid respuere deberet, edoctus
+                        et periculum famis evasit, et herbarum venena vitavit.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698144013" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:46:00:181">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:46:02:449">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

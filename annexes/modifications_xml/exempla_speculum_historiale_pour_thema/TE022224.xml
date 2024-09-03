@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022224" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">45</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Ex gestis sancti Albini]Item dum quedam mulier
+                        arrepta maligno spiritu se beatissimo viroAlbinovociferans et
+                        eiulans presentaret, mox adversarius ipse supra eius oculum [se] in
+                        similitudinem vesice sanguinee collegit. Tunc pontifex faciens signum
+                        crucis, increpavit malignum dicens: Inimice, oculum quem non dedisti non
+                        possis auferre. Mox de collectione vesice, in flebetomi similitudinem
+                        subtiliter sanguis erupit. Quo fluente sine lesione immundus hostis evanuit
+                        et puella incolumis imperante signo crucis evasit, sed et hoc magnanimitatisexemplumin eo quod pro dei negocio apud eum
+                        non fuerit ulla regum potentumque personalis acceptio. Siquidem martyr
+                        effici cupiebat, si non defuisset dextera percussoris. Post eius obitum cum
+                           sanctusGermanusepiscopus et populus membra eius in novam
+                        basilicam transponenda devote ferrent, et propter cellule angustiam in qua
+                        conditus fuerat non daretur sacri corporis extrahendi licentia, cunctis
+                        hesitantibus et incertis quid agerent, repente nutu divino discisso pariete
+                        cellule qui erat ad pedes eius a parteorientalitres lapides
+                        decedunt, scilicet dato signo per qualem locum se iuberet educi posse.
+                        Interea factoaudituaditu, dum concentus psallentium sanctum sepulchrum prosequitur a loco
+                        quo est eductum, palam tres paralitici iam diu desperati redditi sunt
+                        sanitati, et duo ceci sunt illuminati. Hic itaque sanctus virtutum floribus
+                        adornatus XX annis et mensibus VI pontificalem apicem gubernans et LXXXm
+                        etatis [sue] annum feliciter explens, kl martii migravit ad dominum.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698226721" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:49:01:240">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:49:02:619">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/tei_thema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI corresp="TC0180" type="exemplum" xml:id="TE022220" xmlns="http://www.tei-c.org/ns/1.0" xmlns:dc="http://purl.org/dc/terms/" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title><desc type="custom_title"/><desc type="title_index">41</desc></title></titleStmt><publicationStmt><authority/><publisher>ThEMA (http://localhost:8080)</publisher><availability status="draft"><licence corresp="copyright-cc-by-nc-sa-4.0"/></availability><idno type="old_sql_id"/></publicationStmt><sourceDesc><list type="source_details"><item corresp="" type="source_text"><p xml:lang="">[Gregorius (Magnus)] [Ex libro IIIIo]Valentinusmediolanensisecclesie defensor defunctus est, vir valde
+                        lubricus et cunctis levitatibus occupatus, cuius corpus in ecclesia beati
+                           martyrisSyrisepultum est. Nocte autem media in eadem
+                        ecclesia facte sunt voces, ac si quis violenter ex ea repelleretur atque
+                        traheretur foras. Ad quas voces nimirum cucurrerunt custodes, et viderunt
+                        duos quosdam teterrimos spiritus, qui eiusdemValentinipedes
+                        quadam ligatura strinxerant, et eum ab ecclesia clamantem ac nimium
+                        vociferantem foras trahebant. Qui videlicet exterriti, ad suum stratum
+                        reversi sunt. Mane autem facto aperientes sepulchrum in quo
+                           isdemValentinuspositus fuerat, eius corpus non invenerunt.
+                        Cumque extra ecclesiam quererent ubi proiectum esset, invenerunt hoc in
+                        sepulchro alio positum, ligatis adhuc pedibus, sicut de ecclesia fuerat
+                        abstractum. Ex qua rePetrecollige, quia hii quos peccata gravia
+                        deprimunt, [si] in sacro loco sepeliri se faciunt, restat ut etiam de sua
+                        presumptione iudicentur, quatenus eos sacra loca non liberent. Sed etiam
+                        culpa temeritatis accuset. Nam quid quoque in hac urbe contigerit, cunctorum
+                        qui hic habitant multitudo testatur. Quod quidam artis eorum primus cum
+                        defunctus fuisset, in ecclesia beatiIanuariimartyris iuxta
+                        portam sanctiLaurentiia coniuge sua sepultus est. Sequenti
+                        autem nocte, ex sepultura eadem audiente custode eiusdem spiritus cepit
+                        clamare: Ardeo, ardeo. Cum vero has diu voces emitteret, custos hoc eius
+                        nunciavit uxori. Uxor vero illius eos qui diligenter inspicerent, artis
+                        eiusdem viros transmisit ad ecclesiam, volens cognoscere qualiter eius esset
+                        corpus in sepulchro, de quo talia clamaret. Qui aperientes sepulchrum
+                        vestimenta quoque intacta reppererunt, que nunc usque in eadem ecclesia pro
+                        eius cause testimonio servantur, corpus vero illius omnino non invenerunt,
+                        ac si in sepulchro eodem positum non fuisset. Ex qua re colligendum est qua
+                        ultione anima eius dampnata sit, cuius et caro est ab ecclesia
+                        proiecta.</p></item><item type="sources"><p xml:lang=""/></item><item type="exemplum_context"><p xml:lang=""/></item><item type="commentary"><p xml:lang=""/></item><item type="allegory">n</item></list><listBibl/><list type="links"><item corresp="http://sourcencyme.irht.cnrs.fr/encyclopedie/speculum_historiale_version_sm_trifaria_ms_douai_bm_797?citid=cit_id394698205688" type="link">SourcEncyMe</item>
+</list><list type="linked_exempla"/></sourceDesc></fileDesc><profileDesc><textClass><keywords/></textClass></profileDesc><xenoData/><revisionDesc><listChange><change resp="admin" type="create" when-custom="2024-08-01 10:48:28:349">create exemplum</change><change resp="admin" type="modify" when-custom="2024-08-01 10:48:29:950">edit record</change></listChange></revisionDesc><facsimile/></teiHeader><text><body><p xml:lang="de"/><p xml:lang="en"/><p xml:lang="es"/><p xml:lang="fr"/><p xml:lang="it"/></body></text></TEI>
